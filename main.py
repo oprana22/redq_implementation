@@ -30,6 +30,8 @@ def evaluate_agent(agent, test_env, num_episodes=5):
 
 def run_single_seed(seed):
     """This function contains everything that used to be inside your 'for' loop."""
+    os.environ["OMP_NUM_THREADS"] = "1"
+    torch.set_num_threads(1)
     env_name = 'Hopper-v4'
     csv_filename = f"{env_name}_redq_results.csv"
 
