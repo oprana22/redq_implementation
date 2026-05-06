@@ -1,0 +1,12 @@
+name: redq
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - pip
+  - pytorch::pytorch>=1.12.0
+  - pytorch::torchvision
+  - joblib=1.1.0
+  - pip:
+    - gym[mujoco,robotics]==0.24.1
