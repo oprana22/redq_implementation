@@ -21,6 +21,7 @@ class REDQ:
         self.critics_chosen = critics_chosen
 
 
+
         # 1. Initialize the Policy Network (The Actor)
         # We pass the dimensions, hidden sizes, and the action limit (to scale the Tanh output)
         # Then we immediately move the network to the correct hardware device (CPU or GPU)
