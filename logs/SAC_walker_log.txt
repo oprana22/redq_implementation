@@ -1,0 +1,3001 @@
+--> Starting Seed 10 on a separate CPU core...
+Seed: 10 | Step: 33 | Episode Return: 3.04 | Length: 34
+Seed: 10 | Step: 55 | Episode Return: 5.65 | Length: 22
+Seed: 10 | Step: 78 | Episode Return: 10.15 | Length: 23
+Seed: 10 | Step: 87 | Episode Return: -4.76 | Length: 9
+Seed: 10 | Step: 107 | Episode Return: 2.57 | Length: 20
+Seed: 10 | Step: 124 | Episode Return: 6.82 | Length: 17
+Seed: 10 | Step: 134 | Episode Return: -2.75 | Length: 10
+Seed: 10 | Step: 160 | Episode Return: 7.24 | Length: 26
+Seed: 10 | Step: 175 | Episode Return: 3.36 | Length: 15
+Seed: 10 | Step: 206 | Episode Return: 3.96 | Length: 31
+Seed: 10 | Step: 224 | Episode Return: 0.87 | Length: 18
+Seed: 10 | Step: 244 | Episode Return: -2.00 | Length: 20
+Seed: 10 | Step: 268 | Episode Return: -2.72 | Length: 24
+Seed: 10 | Step: 285 | Episode Return: 2.54 | Length: 17
+Seed: 10 | Step: 306 | Episode Return: -5.16 | Length: 21
+Seed: 10 | Step: 327 | Episode Return: -0.30 | Length: 21
+Seed: 10 | Step: 344 | Episode Return: 7.44 | Length: 17
+Seed: 10 | Step: 362 | Episode Return: -6.17 | Length: 18
+Seed: 10 | Step: 399 | Episode Return: 12.28 | Length: 37
+Seed: 10 | Step: 417 | Episode Return: -0.28 | Length: 18
+Seed: 10 | Step: 430 | Episode Return: 2.74 | Length: 13
+Seed: 10 | Step: 455 | Episode Return: 0.37 | Length: 25
+Seed: 10 | Step: 496 | Episode Return: 26.67 | Length: 41
+Seed: 10 | Step: 545 | Episode Return: 15.42 | Length: 49
+Seed: 10 | Step: 557 | Episode Return: -0.75 | Length: 12
+Seed: 10 | Step: 581 | Episode Return: 1.98 | Length: 24
+Seed: 10 | Step: 600 | Episode Return: 5.62 | Length: 19
+Seed: 10 | Step: 632 | Episode Return: 0.27 | Length: 32
+Seed: 10 | Step: 654 | Episode Return: 6.10 | Length: 22
+Seed: 10 | Step: 690 | Episode Return: -5.09 | Length: 36
+Seed: 10 | Step: 756 | Episode Return: 23.48 | Length: 66
+Seed: 10 | Step: 767 | Episode Return: -0.97 | Length: 11
+Seed: 10 | Step: 780 | Episode Return: -2.46 | Length: 13
+Seed: 10 | Step: 798 | Episode Return: -1.93 | Length: 18
+Seed: 10 | Step: 815 | Episode Return: 5.97 | Length: 17
+Seed: 10 | Step: 832 | Episode Return: 1.34 | Length: 17
+Seed: 10 | Step: 845 | Episode Return: -6.10 | Length: 13
+Seed: 10 | Step: 856 | Episode Return: -3.15 | Length: 11
+Seed: 10 | Step: 876 | Episode Return: -5.32 | Length: 20
+Seed: 10 | Step: 903 | Episode Return: -5.12 | Length: 27
+Seed: 10 | Step: 933 | Episode Return: 3.10 | Length: 30
+Seed: 10 | Step: 945 | Episode Return: -2.22 | Length: 12
+Seed: 10 | Step: 967 | Episode Return: 10.09 | Length: 22
+Seed: 10 | Step: 992 | Episode Return: 10.58 | Length: 25
+Seed: 10 | Step: 1009 | Episode Return: -4.04 | Length: 17
+Seed: 10 | Step: 1020 | Episode Return: 0.51 | Length: 11
+Seed: 10 | Step: 1045 | Episode Return: -1.29 | Length: 25
+Seed: 10 | Step: 1065 | Episode Return: 7.85 | Length: 20
+Seed: 10 | Step: 1093 | Episode Return: -3.73 | Length: 28
+Seed: 10 | Step: 1128 | Episode Return: 6.89 | Length: 35
+Seed: 10 | Step: 1152 | Episode Return: 4.52 | Length: 24
+Seed: 10 | Step: 1169 | Episode Return: 2.72 | Length: 17
+Seed: 10 | Step: 1185 | Episode Return: 7.46 | Length: 16
+Seed: 10 | Step: 1198 | Episode Return: -2.11 | Length: 13
+Seed: 10 | Step: 1210 | Episode Return: 0.91 | Length: 12
+Seed: 10 | Step: 1222 | Episode Return: -0.27 | Length: 12
+Seed: 10 | Step: 1255 | Episode Return: 1.66 | Length: 33
+Seed: 10 | Step: 1279 | Episode Return: 3.30 | Length: 24
+Seed: 10 | Step: 1312 | Episode Return: 20.43 | Length: 33
+Seed: 10 | Step: 1329 | Episode Return: 2.37 | Length: 17
+Seed: 10 | Step: 1346 | Episode Return: -0.49 | Length: 17
+Seed: 10 | Step: 1362 | Episode Return: 4.04 | Length: 16
+Seed: 10 | Step: 1372 | Episode Return: -1.53 | Length: 10
+Seed: 10 | Step: 1390 | Episode Return: 6.91 | Length: 18
+Seed: 10 | Step: 1399 | Episode Return: -3.09 | Length: 9
+Seed: 10 | Step: 1425 | Episode Return: 4.77 | Length: 26
+Seed: 10 | Step: 1449 | Episode Return: 0.11 | Length: 24
+Seed: 10 | Step: 1457 | Episode Return: -2.61 | Length: 8
+Seed: 10 | Step: 1481 | Episode Return: 12.64 | Length: 24
+Seed: 10 | Step: 1513 | Episode Return: 2.23 | Length: 32
+Seed: 10 | Step: 1529 | Episode Return: -0.10 | Length: 16
+Seed: 10 | Step: 1540 | Episode Return: -2.60 | Length: 11
+Seed: 10 | Step: 1572 | Episode Return: 6.91 | Length: 32
+Seed: 10 | Step: 1581 | Episode Return: -0.45 | Length: 9
+Seed: 10 | Step: 1612 | Episode Return: 10.20 | Length: 31
+Seed: 10 | Step: 1627 | Episode Return: 3.53 | Length: 15
+Seed: 10 | Step: 1645 | Episode Return: 4.15 | Length: 18
+Seed: 10 | Step: 1674 | Episode Return: -2.79 | Length: 29
+Seed: 10 | Step: 1691 | Episode Return: -2.50 | Length: 17
+Seed: 10 | Step: 1725 | Episode Return: 19.10 | Length: 34
+Seed: 10 | Step: 1747 | Episode Return: -4.24 | Length: 22
+Seed: 10 | Step: 1784 | Episode Return: 0.86 | Length: 37
+Seed: 10 | Step: 1801 | Episode Return: 2.35 | Length: 17
+Seed: 10 | Step: 1826 | Episode Return: 0.95 | Length: 25
+Seed: 10 | Step: 1851 | Episode Return: 5.97 | Length: 25
+Seed: 10 | Step: 1872 | Episode Return: -0.78 | Length: 21
+Seed: 10 | Step: 1893 | Episode Return: -3.18 | Length: 21
+Seed: 10 | Step: 1922 | Episode Return: 9.80 | Length: 29
+Seed: 10 | Step: 1947 | Episode Return: -4.08 | Length: 25
+Seed: 10 | Step: 1961 | Episode Return: 1.41 | Length: 14
+Seed: 10 | Step: 1995 | Episode Return: 4.63 | Length: 34
+Seed: 10 | Step: 2009 | Episode Return: 3.44 | Length: 14
+Seed: 10 | Step: 2028 | Episode Return: 0.55 | Length: 19
+Seed: 10 | Step: 2044 | Episode Return: -2.91 | Length: 16
+Seed: 10 | Step: 2063 | Episode Return: 3.10 | Length: 19
+Seed: 10 | Step: 2073 | Episode Return: -1.41 | Length: 10
+Seed: 10 | Step: 2090 | Episode Return: 3.77 | Length: 17
+Seed: 10 | Step: 2103 | Episode Return: -0.89 | Length: 13
+Seed: 10 | Step: 2114 | Episode Return: -0.30 | Length: 11
+Seed: 10 | Step: 2138 | Episode Return: -5.07 | Length: 24
+Seed: 10 | Step: 2168 | Episode Return: 15.25 | Length: 30
+Seed: 10 | Step: 2189 | Episode Return: 8.29 | Length: 21
+Seed: 10 | Step: 2213 | Episode Return: 12.39 | Length: 24
+Seed: 10 | Step: 2239 | Episode Return: 8.50 | Length: 26
+Seed: 10 | Step: 2252 | Episode Return: 1.65 | Length: 13
+Seed: 10 | Step: 2263 | Episode Return: 0.78 | Length: 11
+Seed: 10 | Step: 2288 | Episode Return: -2.42 | Length: 25
+Seed: 10 | Step: 2306 | Episode Return: 7.92 | Length: 18
+Seed: 10 | Step: 2332 | Episode Return: 3.72 | Length: 26
+Seed: 10 | Step: 2343 | Episode Return: -1.52 | Length: 11
+Seed: 10 | Step: 2355 | Episode Return: -1.28 | Length: 12
+Seed: 10 | Step: 2387 | Episode Return: 5.61 | Length: 32
+Seed: 10 | Step: 2405 | Episode Return: 0.72 | Length: 18
+Seed: 10 | Step: 2418 | Episode Return: 1.48 | Length: 13
+Seed: 10 | Step: 2432 | Episode Return: 4.82 | Length: 14
+Seed: 10 | Step: 2457 | Episode Return: -1.15 | Length: 25
+Seed: 10 | Step: 2473 | Episode Return: -2.28 | Length: 16
+Seed: 10 | Step: 2490 | Episode Return: 1.43 | Length: 17
+Seed: 10 | Step: 2501 | Episode Return: -2.29 | Length: 11
+Seed: 10 | Step: 2518 | Episode Return: 4.40 | Length: 17
+Seed: 10 | Step: 2535 | Episode Return: 5.95 | Length: 17
+Seed: 10 | Step: 2557 | Episode Return: 4.31 | Length: 22
+Seed: 10 | Step: 2580 | Episode Return: 0.36 | Length: 23
+Seed: 10 | Step: 2599 | Episode Return: -4.85 | Length: 19
+Seed: 10 | Step: 2622 | Episode Return: 0.00 | Length: 23
+Seed: 10 | Step: 2648 | Episode Return: 10.24 | Length: 26
+Seed: 10 | Step: 2675 | Episode Return: -0.53 | Length: 27
+Seed: 10 | Step: 2692 | Episode Return: -5.16 | Length: 17
+Seed: 10 | Step: 2703 | Episode Return: -2.51 | Length: 11
+Seed: 10 | Step: 2724 | Episode Return: 5.92 | Length: 21
+Seed: 10 | Step: 2754 | Episode Return: 1.44 | Length: 30
+Seed: 10 | Step: 2782 | Episode Return: -1.13 | Length: 28
+Seed: 10 | Step: 2794 | Episode Return: 0.87 | Length: 12
+Seed: 10 | Step: 2810 | Episode Return: 1.92 | Length: 16
+Seed: 10 | Step: 2824 | Episode Return: -3.10 | Length: 14
+Seed: 10 | Step: 2839 | Episode Return: -3.16 | Length: 15
+Seed: 10 | Step: 2859 | Episode Return: 3.10 | Length: 20
+Seed: 10 | Step: 2889 | Episode Return: 15.50 | Length: 30
+Seed: 10 | Step: 2911 | Episode Return: 0.12 | Length: 22
+Seed: 10 | Step: 2930 | Episode Return: -2.03 | Length: 19
+--> Starting Seed 30 on a separate CPU core...
+Seed: 30 | Step: 18 | Episode Return: 2.91 | Length: 19
+Seed: 30 | Step: 31 | Episode Return: 1.79 | Length: 13
+Seed: 30 | Step: 47 | Episode Return: 4.46 | Length: 16
+Seed: 30 | Step: 68 | Episode Return: -5.53 | Length: 21
+Seed: 30 | Step: 89 | Episode Return: -3.18 | Length: 21
+Seed: 30 | Step: 112 | Episode Return: -2.08 | Length: 23
+Seed: 30 | Step: 131 | Episode Return: -3.23 | Length: 19
+Seed: 30 | Step: 156 | Episode Return: 11.56 | Length: 25
+Seed: 30 | Step: 167 | Episode Return: 1.47 | Length: 11
+Seed: 30 | Step: 192 | Episode Return: 0.41 | Length: 25
+Seed: 30 | Step: 204 | Episode Return: 0.29 | Length: 12
+Seed: 30 | Step: 243 | Episode Return: 5.81 | Length: 39
+Seed: 30 | Step: 261 | Episode Return: -0.20 | Length: 18
+Seed: 30 | Step: 278 | Episode Return: 4.40 | Length: 17
+Seed: 30 | Step: 290 | Episode Return: -0.41 | Length: 12
+Seed: 30 | Step: 301 | Episode Return: 0.29 | Length: 11
+Seed: 30 | Step: 315 | Episode Return: -0.73 | Length: 14
+Seed: 30 | Step: 332 | Episode Return: 5.47 | Length: 17
+Seed: 30 | Step: 359 | Episode Return: -2.81 | Length: 27
+Seed: 30 | Step: 381 | Episode Return: -10.12 | Length: 22
+Seed: 30 | Step: 406 | Episode Return: -0.68 | Length: 25
+Seed: 30 | Step: 422 | Episode Return: -0.08 | Length: 16
+Seed: 30 | Step: 456 | Episode Return: 10.02 | Length: 34
+Seed: 30 | Step: 471 | Episode Return: -0.63 | Length: 15
+Seed: 30 | Step: 488 | Episode Return: 2.51 | Length: 17
+Seed: 30 | Step: 512 | Episode Return: -1.35 | Length: 24
+Seed: 30 | Step: 536 | Episode Return: 0.03 | Length: 24
+Seed: 30 | Step: 552 | Episode Return: -1.80 | Length: 16
+Seed: 30 | Step: 572 | Episode Return: -0.51 | Length: 20
+Seed: 30 | Step: 586 | Episode Return: 2.62 | Length: 14
+Seed: 30 | Step: 608 | Episode Return: 3.34 | Length: 22
+Seed: 30 | Step: 636 | Episode Return: -2.25 | Length: 28
+Seed: 30 | Step: 659 | Episode Return: -4.29 | Length: 23
+Seed: 30 | Step: 686 | Episode Return: 3.03 | Length: 27
+Seed: 30 | Step: 703 | Episode Return: -0.16 | Length: 17
+Seed: 30 | Step: 721 | Episode Return: -1.63 | Length: 18
+Seed: 30 | Step: 743 | Episode Return: -1.88 | Length: 22
+Seed: 30 | Step: 755 | Episode Return: -0.37 | Length: 12
+Seed: 30 | Step: 772 | Episode Return: 3.33 | Length: 17
+Seed: 30 | Step: 786 | Episode Return: -1.74 | Length: 14
+Seed: 30 | Step: 803 | Episode Return: 1.21 | Length: 17
+Seed: 30 | Step: 818 | Episode Return: 4.04 | Length: 15
+Seed: 30 | Step: 839 | Episode Return: -0.38 | Length: 21
+Seed: 30 | Step: 872 | Episode Return: 3.47 | Length: 33
+Seed: 30 | Step: 887 | Episode Return: -4.04 | Length: 15
+Seed: 30 | Step: 914 | Episode Return: 13.67 | Length: 27
+Seed: 30 | Step: 953 | Episode Return: 18.88 | Length: 39
+Seed: 30 | Step: 964 | Episode Return: -1.18 | Length: 11
+Seed: 30 | Step: 998 | Episode Return: 10.10 | Length: 34
+Seed: 30 | Step: 1022 | Episode Return: -1.39 | Length: 24
+Seed: 30 | Step: 1050 | Episode Return: 12.82 | Length: 28
+Seed: 30 | Step: 1087 | Episode Return: 10.05 | Length: 37
+Seed: 30 | Step: 1099 | Episode Return: 0.20 | Length: 12
+Seed: 30 | Step: 1132 | Episode Return: 5.87 | Length: 33
+Seed: 30 | Step: 1174 | Episode Return: 11.37 | Length: 42
+Seed: 30 | Step: 1187 | Episode Return: 1.60 | Length: 13
+Seed: 30 | Step: 1203 | Episode Return: 1.45 | Length: 16
+Seed: 30 | Step: 1224 | Episode Return: -1.01 | Length: 21
+Seed: 30 | Step: 1262 | Episode Return: 19.90 | Length: 38
+Seed: 30 | Step: 1285 | Episode Return: -8.64 | Length: 23
+Seed: 30 | Step: 1297 | Episode Return: 2.94 | Length: 12
+Seed: 30 | Step: 1311 | Episode Return: -1.37 | Length: 14
+Seed: 30 | Step: 1326 | Episode Return: 3.76 | Length: 15
+Seed: 30 | Step: 1347 | Episode Return: 5.48 | Length: 21
+Seed: 30 | Step: 1366 | Episode Return: 0.09 | Length: 19
+Seed: 30 | Step: 1383 | Episode Return: -3.64 | Length: 17
+Seed: 30 | Step: 1402 | Episode Return: -7.38 | Length: 19
+Seed: 30 | Step: 1420 | Episode Return: -0.00 | Length: 18
+Seed: 30 | Step: 1463 | Episode Return: 15.58 | Length: 43
+Seed: 30 | Step: 1470 | Episode Return: -2.38 | Length: 7
+Seed: 30 | Step: 1511 | Episode Return: 12.99 | Length: 41
+Seed: 30 | Step: 1524 | Episode Return: 0.37 | Length: 13
+Seed: 30 | Step: 1535 | Episode Return: -0.53 | Length: 11
+Seed: 30 | Step: 1551 | Episode Return: -1.86 | Length: 16
+Seed: 30 | Step: 1578 | Episode Return: 12.54 | Length: 27
+Seed: 30 | Step: 1598 | Episode Return: 3.59 | Length: 20
+Seed: 30 | Step: 1615 | Episode Return: 8.19 | Length: 17
+Seed: 30 | Step: 1627 | Episode Return: 0.90 | Length: 12
+Seed: 30 | Step: 1644 | Episode Return: 6.58 | Length: 17
+Seed: 30 | Step: 1663 | Episode Return: 1.89 | Length: 19
+Seed: 30 | Step: 1680 | Episode Return: 2.55 | Length: 17
+Seed: 30 | Step: 1691 | Episode Return: -0.75 | Length: 11
+Seed: 30 | Step: 1710 | Episode Return: 0.79 | Length: 19
+Seed: 30 | Step: 1734 | Episode Return: -4.32 | Length: 24
+Seed: 30 | Step: 1755 | Episode Return: 1.53 | Length: 21
+Seed: 30 | Step: 1771 | Episode Return: 2.50 | Length: 16
+Seed: 30 | Step: 1794 | Episode Return: 9.02 | Length: 23
+Seed: 30 | Step: 1830 | Episode Return: 6.29 | Length: 36
+Seed: 30 | Step: 1847 | Episode Return: 2.19 | Length: 17
+Seed: 30 | Step: 1874 | Episode Return: 10.67 | Length: 27
+Seed: 30 | Step: 1891 | Episode Return: -1.82 | Length: 17
+Seed: 30 | Step: 1907 | Episode Return: -3.30 | Length: 16
+Seed: 30 | Step: 1933 | Episode Return: 8.80 | Length: 26
+Seed: 30 | Step: 1962 | Episode Return: 7.89 | Length: 29
+Seed: 30 | Step: 2006 | Episode Return: 23.60 | Length: 44
+Seed: 30 | Step: 2025 | Episode Return: -0.79 | Length: 19
+Seed: 30 | Step: 2064 | Episode Return: 11.04 | Length: 39
+Seed: 30 | Step: 2077 | Episode Return: -0.15 | Length: 13
+Seed: 30 | Step: 2092 | Episode Return: 1.11 | Length: 15
+Seed: 30 | Step: 2106 | Episode Return: 3.52 | Length: 14
+Seed: 30 | Step: 2124 | Episode Return: 6.28 | Length: 18
+Seed: 30 | Step: 2136 | Episode Return: -0.58 | Length: 12
+Seed: 30 | Step: 2158 | Episode Return: -4.28 | Length: 22
+Seed: 30 | Step: 2181 | Episode Return: 8.20 | Length: 23
+Seed: 30 | Step: 2196 | Episode Return: -1.73 | Length: 15
+Seed: 30 | Step: 2223 | Episode Return: -0.81 | Length: 27
+Seed: 30 | Step: 2235 | Episode Return: -0.50 | Length: 12
+Seed: 30 | Step: 2264 | Episode Return: 5.06 | Length: 29
+Seed: 30 | Step: 2279 | Episode Return: 2.51 | Length: 15
+Seed: 30 | Step: 2307 | Episode Return: 3.22 | Length: 28
+Seed: 30 | Step: 2323 | Episode Return: 1.73 | Length: 16
+Seed: 30 | Step: 2337 | Episode Return: 4.20 | Length: 14
+Seed: 30 | Step: 2362 | Episode Return: 5.20 | Length: 25
+Seed: 30 | Step: 2383 | Episode Return: -2.11 | Length: 21
+Seed: 30 | Step: 2396 | Episode Return: -3.22 | Length: 13
+Seed: 30 | Step: 2412 | Episode Return: -1.47 | Length: 16
+Seed: 30 | Step: 2423 | Episode Return: -0.11 | Length: 11
+Seed: 30 | Step: 2438 | Episode Return: 3.20 | Length: 15
+Seed: 30 | Step: 2468 | Episode Return: 2.69 | Length: 30
+Seed: 30 | Step: 2491 | Episode Return: 5.95 | Length: 23
+Seed: 30 | Step: 2502 | Episode Return: -0.33 | Length: 11
+Seed: 30 | Step: 2533 | Episode Return: 1.93 | Length: 31
+Seed: 30 | Step: 2555 | Episode Return: -5.29 | Length: 22
+Seed: 30 | Step: 2572 | Episode Return: 3.11 | Length: 17
+Seed: 30 | Step: 2582 | Episode Return: -2.00 | Length: 10
+Seed: 30 | Step: 2612 | Episode Return: -1.08 | Length: 30
+Seed: 30 | Step: 2626 | Episode Return: 2.17 | Length: 14
+Seed: 30 | Step: 2642 | Episode Return: -7.81 | Length: 16
+Seed: 30 | Step: 2655 | Episode Return: 0.99 | Length: 13
+Seed: 30 | Step: 2684 | Episode Return: 4.60 | Length: 29
+Seed: 30 | Step: 2696 | Episode Return: 1.83 | Length: 12
+Seed: 30 | Step: 2719 | Episode Return: 3.92 | Length: 23
+Seed: 30 | Step: 2763 | Episode Return: 16.15 | Length: 44
+Seed: 30 | Step: 2776 | Episode Return: 2.60 | Length: 13
+Seed: 30 | Step: 2786 | Episode Return: -3.12 | Length: 10
+Seed: 30 | Step: 2804 | Episode Return: -1.15 | Length: 18
+Seed: 30 | Step: 2839 | Episode Return: 13.53 | Length: 35
+Seed: 30 | Step: 2854 | Episode Return: 1.45 | Length: 15
+Seed: 30 | Step: 2870 | Episode Return: 2.48 | Length: 16
+Seed: 30 | Step: 2890 | Episode Return: 8.10 | Length: 20
+--> Starting Seed 20 on a separate CPU core...
+Seed: 20 | Step: 13 | Episode Return: 4.24 | Length: 14
+Seed: 20 | Step: 27 | Episode Return: 3.29 | Length: 14
+Seed: 20 | Step: 44 | Episode Return: 4.75 | Length: 17
+Seed: 20 | Step: 68 | Episode Return: 2.51 | Length: 24
+Seed: 20 | Step: 91 | Episode Return: -6.29 | Length: 23
+Seed: 20 | Step: 125 | Episode Return: 5.93 | Length: 34
+Seed: 20 | Step: 137 | Episode Return: -2.69 | Length: 12
+Seed: 20 | Step: 152 | Episode Return: -0.61 | Length: 15
+Seed: 20 | Step: 167 | Episode Return: -2.13 | Length: 15
+Seed: 20 | Step: 186 | Episode Return: 8.25 | Length: 19
+Seed: 20 | Step: 214 | Episode Return: 1.00 | Length: 28
+Seed: 20 | Step: 230 | Episode Return: -3.46 | Length: 16
+Seed: 20 | Step: 258 | Episode Return: 17.82 | Length: 28
+Seed: 20 | Step: 282 | Episode Return: 5.26 | Length: 24
+Seed: 20 | Step: 295 | Episode Return: -1.19 | Length: 13
+Seed: 20 | Step: 325 | Episode Return: -2.78 | Length: 30
+Seed: 20 | Step: 353 | Episode Return: -3.57 | Length: 28
+Seed: 20 | Step: 367 | Episode Return: -1.02 | Length: 14
+Seed: 20 | Step: 384 | Episode Return: 1.31 | Length: 17
+Seed: 20 | Step: 400 | Episode Return: 4.83 | Length: 16
+Seed: 20 | Step: 412 | Episode Return: -1.28 | Length: 12
+Seed: 20 | Step: 423 | Episode Return: -3.05 | Length: 11
+Seed: 20 | Step: 450 | Episode Return: 7.52 | Length: 27
+Seed: 20 | Step: 464 | Episode Return: 4.41 | Length: 14
+Seed: 20 | Step: 490 | Episode Return: 4.25 | Length: 26
+Seed: 20 | Step: 500 | Episode Return: -3.72 | Length: 10
+Seed: 20 | Step: 538 | Episode Return: 12.09 | Length: 38
+Seed: 20 | Step: 550 | Episode Return: 0.88 | Length: 12
+Seed: 20 | Step: 563 | Episode Return: -1.19 | Length: 13
+Seed: 20 | Step: 577 | Episode Return: -3.96 | Length: 14
+Seed: 20 | Step: 598 | Episode Return: 3.19 | Length: 21
+Seed: 20 | Step: 614 | Episode Return: 0.73 | Length: 16
+Seed: 20 | Step: 631 | Episode Return: -2.68 | Length: 17
+Seed: 20 | Step: 663 | Episode Return: 15.58 | Length: 32
+Seed: 20 | Step: 699 | Episode Return: 3.47 | Length: 36
+Seed: 20 | Step: 711 | Episode Return: 0.86 | Length: 12
+Seed: 20 | Step: 728 | Episode Return: 3.08 | Length: 17
+Seed: 20 | Step: 745 | Episode Return: -4.34 | Length: 17
+Seed: 20 | Step: 770 | Episode Return: 12.81 | Length: 25
+Seed: 20 | Step: 783 | Episode Return: 1.62 | Length: 13
+Seed: 20 | Step: 808 | Episode Return: 0.47 | Length: 25
+Seed: 20 | Step: 827 | Episode Return: 2.97 | Length: 19
+Seed: 20 | Step: 844 | Episode Return: -1.20 | Length: 17
+Seed: 20 | Step: 870 | Episode Return: 0.98 | Length: 26
+Seed: 20 | Step: 887 | Episode Return: 4.64 | Length: 17
+Seed: 20 | Step: 897 | Episode Return: -0.58 | Length: 10
+Seed: 20 | Step: 916 | Episode Return: -0.65 | Length: 19
+Seed: 20 | Step: 929 | Episode Return: 1.49 | Length: 13
+Seed: 20 | Step: 966 | Episode Return: 5.98 | Length: 37
+Seed: 20 | Step: 992 | Episode Return: 4.99 | Length: 26
+Seed: 20 | Step: 1001 | Episode Return: -1.59 | Length: 9
+Seed: 20 | Step: 1042 | Episode Return: 5.79 | Length: 41
+Seed: 20 | Step: 1062 | Episode Return: -5.09 | Length: 20
+Seed: 20 | Step: 1083 | Episode Return: 3.00 | Length: 21
+Seed: 20 | Step: 1113 | Episode Return: 9.58 | Length: 30
+Seed: 20 | Step: 1125 | Episode Return: -2.36 | Length: 12
+Seed: 20 | Step: 1137 | Episode Return: 0.19 | Length: 12
+Seed: 20 | Step: 1161 | Episode Return: 6.89 | Length: 24
+Seed: 20 | Step: 1176 | Episode Return: 1.74 | Length: 15
+Seed: 20 | Step: 1196 | Episode Return: 0.89 | Length: 20
+Seed: 20 | Step: 1218 | Episode Return: -2.43 | Length: 22
+Seed: 20 | Step: 1254 | Episode Return: 14.36 | Length: 36
+Seed: 20 | Step: 1263 | Episode Return: -3.77 | Length: 9
+Seed: 20 | Step: 1284 | Episode Return: 1.64 | Length: 21
+Seed: 20 | Step: 1293 | Episode Return: -3.05 | Length: 9
+Seed: 20 | Step: 1340 | Episode Return: 17.07 | Length: 47
+Seed: 20 | Step: 1364 | Episode Return: -2.63 | Length: 24
+Seed: 20 | Step: 1391 | Episode Return: 10.19 | Length: 27
+Seed: 20 | Step: 1414 | Episode Return: -5.16 | Length: 23
+Seed: 20 | Step: 1437 | Episode Return: 8.23 | Length: 23
+Seed: 20 | Step: 1467 | Episode Return: 4.61 | Length: 30
+Seed: 20 | Step: 1480 | Episode Return: 0.23 | Length: 13
+Seed: 20 | Step: 1498 | Episode Return: 3.69 | Length: 18
+Seed: 20 | Step: 1513 | Episode Return: -6.66 | Length: 15
+Seed: 20 | Step: 1549 | Episode Return: 12.33 | Length: 36
+Seed: 20 | Step: 1576 | Episode Return: -4.79 | Length: 27
+Seed: 20 | Step: 1591 | Episode Return: -2.45 | Length: 15
+Seed: 20 | Step: 1618 | Episode Return: 3.67 | Length: 27
+Seed: 20 | Step: 1634 | Episode Return: -1.74 | Length: 16
+Seed: 20 | Step: 1657 | Episode Return: -2.90 | Length: 23
+Seed: 20 | Step: 1668 | Episode Return: 0.35 | Length: 11
+Seed: 20 | Step: 1684 | Episode Return: -1.90 | Length: 16
+Seed: 20 | Step: 1706 | Episode Return: 12.75 | Length: 22
+Seed: 20 | Step: 1739 | Episode Return: 9.93 | Length: 33
+Seed: 20 | Step: 1764 | Episode Return: -4.42 | Length: 25
+Seed: 20 | Step: 1786 | Episode Return: 9.04 | Length: 22
+Seed: 20 | Step: 1799 | Episode Return: 2.81 | Length: 13
+Seed: 20 | Step: 1811 | Episode Return: 1.00 | Length: 12
+Seed: 20 | Step: 1823 | Episode Return: 0.40 | Length: 12
+Seed: 20 | Step: 1861 | Episode Return: 19.75 | Length: 38
+Seed: 20 | Step: 1883 | Episode Return: 3.42 | Length: 22
+Seed: 20 | Step: 1894 | Episode Return: -0.30 | Length: 11
+Seed: 20 | Step: 1915 | Episode Return: -3.28 | Length: 21
+Seed: 20 | Step: 1933 | Episode Return: 3.06 | Length: 18
+Seed: 20 | Step: 1962 | Episode Return: 0.35 | Length: 29
+Seed: 20 | Step: 1978 | Episode Return: 4.41 | Length: 16
+Seed: 20 | Step: 2006 | Episode Return: 3.82 | Length: 28
+Seed: 20 | Step: 2041 | Episode Return: 9.06 | Length: 35
+Seed: 20 | Step: 2054 | Episode Return: 3.14 | Length: 13
+Seed: 20 | Step: 2066 | Episode Return: -3.84 | Length: 12
+Seed: 20 | Step: 2089 | Episode Return: 7.66 | Length: 23
+Seed: 20 | Step: 2115 | Episode Return: 18.02 | Length: 26
+Seed: 20 | Step: 2137 | Episode Return: 4.78 | Length: 22
+Seed: 20 | Step: 2162 | Episode Return: 13.97 | Length: 25
+Seed: 20 | Step: 2187 | Episode Return: 2.43 | Length: 25
+Seed: 20 | Step: 2201 | Episode Return: 1.75 | Length: 14
+Seed: 20 | Step: 2226 | Episode Return: -1.03 | Length: 25
+Seed: 20 | Step: 2259 | Episode Return: 10.50 | Length: 33
+Seed: 20 | Step: 2273 | Episode Return: -2.36 | Length: 14
+Seed: 20 | Step: 2283 | Episode Return: -2.38 | Length: 10
+Seed: 20 | Step: 2303 | Episode Return: 3.12 | Length: 20
+Seed: 20 | Step: 2319 | Episode Return: -2.22 | Length: 16
+Seed: 20 | Step: 2331 | Episode Return: 1.93 | Length: 12
+Seed: 20 | Step: 2365 | Episode Return: -7.22 | Length: 34
+Seed: 20 | Step: 2396 | Episode Return: -3.98 | Length: 31
+Seed: 20 | Step: 2407 | Episode Return: -0.34 | Length: 11
+Seed: 20 | Step: 2438 | Episode Return: 19.52 | Length: 31
+Seed: 20 | Step: 2459 | Episode Return: 7.43 | Length: 21
+Seed: 20 | Step: 2481 | Episode Return: 9.00 | Length: 22
+Seed: 20 | Step: 2520 | Episode Return: 2.14 | Length: 39
+Seed: 20 | Step: 2558 | Episode Return: 4.30 | Length: 38
+Seed: 20 | Step: 2591 | Episode Return: 5.15 | Length: 33
+Seed: 20 | Step: 2628 | Episode Return: 13.88 | Length: 37
+Seed: 20 | Step: 2649 | Episode Return: 2.65 | Length: 21
+Seed: 20 | Step: 2684 | Episode Return: 7.66 | Length: 35
+Seed: 20 | Step: 2697 | Episode Return: 1.74 | Length: 13
+Seed: 20 | Step: 2727 | Episode Return: 1.62 | Length: 30
+Seed: 20 | Step: 2746 | Episode Return: 0.48 | Length: 19
+Seed: 20 | Step: 2773 | Episode Return: -1.60 | Length: 27
+Seed: 20 | Step: 2790 | Episode Return: -0.06 | Length: 17
+Seed: 20 | Step: 2805 | Episode Return: -1.43 | Length: 15
+Seed: 20 | Step: 2829 | Episode Return: -4.97 | Length: 24
+Seed: 20 | Step: 2848 | Episode Return: 4.13 | Length: 19
+Seed: 20 | Step: 2864 | Episode Return: -0.34 | Length: 16
+Seed: 20 | Step: 2901 | Episode Return: 21.24 | Length: 37
+Seed: 20 | Step: 2916 | Episode Return: 2.96 | Length: 15
+Seed: 20 | Step: 2923 | Episode Return: -2.72 | Length: 7
+Seed: 20 | Step: 2941 | Episode Return: -4.27 | Length: 18
+Seed: 20 | Step: 2959 | Episode Return: -1.06 | Length: 18
+Seed: 20 | Step: 2973 | Episode Return: 0.99 | Length: 14
+Seed: 30 | Step: 2935 | Episode Return: 23.74 | Length: 45
+Seed: 30 | Step: 2947 | Episode Return: -2.66 | Length: 12
+Seed: 30 | Step: 2967 | Episode Return: -2.60 | Length: 20
+Seed: 30 | Step: 2976 | Episode Return: -3.78 | Length: 9
+Seed: 30 | Step: 2999 | Episode Return: 6.14 | Length: 23
+Seed: 30 | Step: 3046 | Episode Return: 9.97 | Length: 47
+Seed: 30 | Step: 3066 | Episode Return: 0.00 | Length: 20
+Seed: 30 | Step: 3077 | Episode Return: -0.26 | Length: 11
+Seed: 30 | Step: 3111 | Episode Return: 2.52 | Length: 34
+Seed: 30 | Step: 3134 | Episode Return: 4.01 | Length: 23
+Seed: 30 | Step: 3157 | Episode Return: -8.16 | Length: 23
+Seed: 30 | Step: 3171 | Episode Return: 0.68 | Length: 14
+Seed: 30 | Step: 3197 | Episode Return: 4.36 | Length: 26
+Seed: 30 | Step: 3207 | Episode Return: -1.74 | Length: 10
+Seed: 30 | Step: 3222 | Episode Return: 0.74 | Length: 15
+Seed: 30 | Step: 3247 | Episode Return: 7.96 | Length: 25
+Seed: 30 | Step: 3262 | Episode Return: -0.53 | Length: 15
+Seed: 30 | Step: 3283 | Episode Return: 1.41 | Length: 21
+Seed: 30 | Step: 3294 | Episode Return: -4.22 | Length: 11
+Seed: 30 | Step: 3311 | Episode Return: -5.38 | Length: 17
+Seed: 30 | Step: 3332 | Episode Return: 2.96 | Length: 21
+Seed: 30 | Step: 3368 | Episode Return: 10.66 | Length: 36
+Seed: 30 | Step: 3386 | Episode Return: 0.68 | Length: 18
+Seed: 30 | Step: 3417 | Episode Return: 1.44 | Length: 31
+Seed: 30 | Step: 3443 | Episode Return: 8.83 | Length: 26
+Seed: 30 | Step: 3456 | Episode Return: -5.40 | Length: 13
+Seed: 30 | Step: 3474 | Episode Return: -4.74 | Length: 18
+Seed: 30 | Step: 3493 | Episode Return: -1.94 | Length: 19
+Seed: 30 | Step: 3510 | Episode Return: -1.88 | Length: 17
+Seed: 30 | Step: 3534 | Episode Return: 6.31 | Length: 24
+Seed: 30 | Step: 3550 | Episode Return: 3.69 | Length: 16
+Seed: 30 | Step: 3574 | Episode Return: -3.38 | Length: 24
+Seed: 30 | Step: 3603 | Episode Return: 9.28 | Length: 29
+Seed: 30 | Step: 3618 | Episode Return: 2.07 | Length: 15
+Seed: 30 | Step: 3640 | Episode Return: 6.58 | Length: 22
+Seed: 30 | Step: 3667 | Episode Return: 0.45 | Length: 27
+Seed: 30 | Step: 3686 | Episode Return: 9.95 | Length: 19
+Seed: 30 | Step: 3699 | Episode Return: -1.21 | Length: 13
+Seed: 30 | Step: 3711 | Episode Return: -0.68 | Length: 12
+Seed: 30 | Step: 3730 | Episode Return: 7.25 | Length: 19
+Seed: 30 | Step: 3748 | Episode Return: 3.97 | Length: 18
+Seed: 30 | Step: 3768 | Episode Return: -8.43 | Length: 20
+Seed: 30 | Step: 3782 | Episode Return: 2.79 | Length: 14
+Seed: 30 | Step: 3795 | Episode Return: 1.57 | Length: 13
+Seed: 30 | Step: 3823 | Episode Return: 8.07 | Length: 28
+Seed: 30 | Step: 3843 | Episode Return: 4.90 | Length: 20
+Seed: 30 | Step: 3858 | Episode Return: 5.04 | Length: 15
+Seed: 30 | Step: 3892 | Episode Return: -2.13 | Length: 34
+Seed: 30 | Step: 3907 | Episode Return: 0.67 | Length: 15
+Seed: 30 | Step: 3922 | Episode Return: 2.89 | Length: 15
+Seed: 30 | Step: 3948 | Episode Return: 13.34 | Length: 26
+Seed: 30 | Step: 3969 | Episode Return: 6.33 | Length: 21
+Seed: 30 | Step: 4003 | Episode Return: -2.35 | Length: 34
+Seed: 30 | Step: 4021 | Episode Return: 1.48 | Length: 18
+Seed: 30 | Step: 4035 | Episode Return: -1.72 | Length: 14
+Seed: 30 | Step: 4052 | Episode Return: -0.42 | Length: 17
+Seed: 30 | Step: 4062 | Episode Return: -2.32 | Length: 10
+Seed: 30 | Step: 4083 | Episode Return: 5.39 | Length: 21
+Seed: 30 | Step: 4129 | Episode Return: 12.16 | Length: 46
+Seed: 30 | Step: 4143 | Episode Return: -5.19 | Length: 14
+Seed: 30 | Step: 4156 | Episode Return: 3.77 | Length: 13
+Seed: 30 | Step: 4199 | Episode Return: 8.32 | Length: 43
+Seed: 30 | Step: 4211 | Episode Return: -1.37 | Length: 12
+Seed: 30 | Step: 4223 | Episode Return: -0.70 | Length: 12
+Seed: 30 | Step: 4242 | Episode Return: -0.95 | Length: 19
+Seed: 30 | Step: 4278 | Episode Return: 0.58 | Length: 36
+Seed: 30 | Step: 4296 | Episode Return: 7.75 | Length: 18
+Seed: 30 | Step: 4310 | Episode Return: -0.51 | Length: 14
+Seed: 30 | Step: 4330 | Episode Return: -3.70 | Length: 20
+Seed: 30 | Step: 4349 | Episode Return: 8.63 | Length: 19
+Seed: 30 | Step: 4360 | Episode Return: -2.91 | Length: 11
+Seed: 30 | Step: 4377 | Episode Return: 3.37 | Length: 17
+Seed: 30 | Step: 4407 | Episode Return: 11.61 | Length: 30
+Seed: 30 | Step: 4420 | Episode Return: 1.00 | Length: 13
+Seed: 30 | Step: 4438 | Episode Return: -8.63 | Length: 18
+Seed: 30 | Step: 4460 | Episode Return: -1.37 | Length: 22
+Seed: 30 | Step: 4474 | Episode Return: 0.66 | Length: 14
+Seed: 30 | Step: 4488 | Episode Return: -1.52 | Length: 14
+Seed: 30 | Step: 4519 | Episode Return: -0.20 | Length: 31
+Seed: 30 | Step: 4547 | Episode Return: 4.60 | Length: 28
+Seed: 30 | Step: 4568 | Episode Return: 6.55 | Length: 21
+Seed: 30 | Step: 4600 | Episode Return: -3.81 | Length: 32
+Seed: 30 | Step: 4625 | Episode Return: 9.24 | Length: 25
+Seed: 30 | Step: 4636 | Episode Return: -2.07 | Length: 11
+Seed: 30 | Step: 4653 | Episode Return: 2.93 | Length: 17
+Seed: 30 | Step: 4675 | Episode Return: 2.15 | Length: 22
+Seed: 30 | Step: 4692 | Episode Return: -6.78 | Length: 17
+Seed: 30 | Step: 4707 | Episode Return: 0.43 | Length: 15
+Seed: 30 | Step: 4719 | Episode Return: -0.76 | Length: 12
+Seed: 30 | Step: 4734 | Episode Return: 1.06 | Length: 15
+Seed: 30 | Step: 4770 | Episode Return: 14.93 | Length: 36
+Seed: 30 | Step: 4798 | Episode Return: 4.29 | Length: 28
+Seed: 30 | Step: 4818 | Episode Return: -3.76 | Length: 20
+Seed: 30 | Step: 4829 | Episode Return: 1.66 | Length: 11
+Seed: 30 | Step: 4850 | Episode Return: 10.56 | Length: 21
+Seed: 30 | Step: 4861 | Episode Return: 2.18 | Length: 11
+Seed: 30 | Step: 4881 | Episode Return: 4.97 | Length: 20
+Seed: 30 | Step: 4902 | Episode Return: -0.53 | Length: 21
+Seed: 30 | Step: 4922 | Episode Return: 6.62 | Length: 20
+Seed: 30 | Step: 4934 | Episode Return: -1.88 | Length: 12
+Seed: 30 | Step: 4958 | Episode Return: -1.50 | Length: 24
+Seed: 30 | Step: 4987 | Episode Return: 7.52 | Length: 29
+
+---> Evaluation (Avg Return over 5 episodes): 7.44
+
+Seed: 30 | Step: 5006 | Episode Return: -4.90 | Length: 19
+Seed: 30 | Step: 5044 | Episode Return: 11.72 | Length: 38
+Seed: 30 | Step: 5064 | Episode Return: 3.26 | Length: 20
+Seed: 30 | Step: 5095 | Episode Return: -3.43 | Length: 31
+Seed: 30 | Step: 5116 | Episode Return: 6.03 | Length: 21
+Seed: 30 | Step: 5137 | Episode Return: 2.30 | Length: 21
+Seed: 30 | Step: 5189 | Episode Return: 29.21 | Length: 52
+Seed: 30 | Step: 5200 | Episode Return: 1.25 | Length: 11
+Seed: 30 | Step: 5233 | Episode Return: 0.13 | Length: 33
+Seed: 30 | Step: 5258 | Episode Return: 2.38 | Length: 25
+Seed: 30 | Step: 5317 | Episode Return: 18.19 | Length: 59
+Seed: 30 | Step: 5345 | Episode Return: -0.93 | Length: 28
+Seed: 30 | Step: 5413 | Episode Return: 4.26 | Length: 68
+Seed: 30 | Step: 5458 | Episode Return: 3.92 | Length: 45
+Seed: 30 | Step: 5487 | Episode Return: -4.31 | Length: 29
+Seed: 30 | Step: 5532 | Episode Return: 11.11 | Length: 45
+Seed: 30 | Step: 5566 | Episode Return: 2.99 | Length: 34
+Seed: 30 | Step: 5610 | Episode Return: 13.74 | Length: 44
+Seed: 30 | Step: 5634 | Episode Return: 5.27 | Length: 24
+Seed: 30 | Step: 5730 | Episode Return: 32.90 | Length: 96
+Seed: 30 | Step: 5809 | Episode Return: -32.93 | Length: 79
+Seed: 30 | Step: 5887 | Episode Return: -0.98 | Length: 78
+Seed: 30 | Step: 5957 | Episode Return: 10.02 | Length: 70
+Seed: 30 | Step: 6058 | Episode Return: 2.70 | Length: 101
+Seed: 30 | Step: 6231 | Episode Return: 38.51 | Length: 173
+Seed: 30 | Step: 6385 | Episode Return: 50.16 | Length: 154
+Seed: 30 | Step: 6501 | Episode Return: -33.43 | Length: 116
+Seed: 30 | Step: 6609 | Episode Return: -10.16 | Length: 108
+Seed: 30 | Step: 6804 | Episode Return: 33.50 | Length: 195
+Seed: 30 | Step: 7000 | Episode Return: 296.53 | Length: 196
+Seed: 30 | Step: 7164 | Episode Return: 276.43 | Length: 164
+Seed: 30 | Step: 7381 | Episode Return: 304.62 | Length: 217
+Seed: 30 | Step: 7545 | Episode Return: 285.91 | Length: 164
+Seed: 30 | Step: 7690 | Episode Return: 235.65 | Length: 145
+Seed: 30 | Step: 7875 | Episode Return: 302.88 | Length: 185
+Seed: 30 | Step: 8091 | Episode Return: 360.09 | Length: 216
+Seed: 10 | Step: 2942 | Episode Return: 0.52 | Length: 12
+Seed: 10 | Step: 2955 | Episode Return: 2.34 | Length: 13
+Seed: 10 | Step: 2968 | Episode Return: 3.35 | Length: 13
+Seed: 10 | Step: 3002 | Episode Return: 2.45 | Length: 34
+Seed: 10 | Step: 3031 | Episode Return: 5.48 | Length: 29
+Seed: 10 | Step: 3050 | Episode Return: 4.90 | Length: 19
+Seed: 10 | Step: 3080 | Episode Return: 5.48 | Length: 30
+Seed: 10 | Step: 3110 | Episode Return: 9.06 | Length: 30
+Seed: 10 | Step: 3121 | Episode Return: 1.45 | Length: 11
+Seed: 10 | Step: 3134 | Episode Return: 4.61 | Length: 13
+Seed: 10 | Step: 3159 | Episode Return: 5.54 | Length: 25
+Seed: 10 | Step: 3174 | Episode Return: 4.59 | Length: 15
+Seed: 10 | Step: 3192 | Episode Return: 2.49 | Length: 18
+Seed: 10 | Step: 3220 | Episode Return: 6.93 | Length: 28
+Seed: 10 | Step: 3244 | Episode Return: 5.49 | Length: 24
+Seed: 10 | Step: 3266 | Episode Return: 2.99 | Length: 22
+Seed: 10 | Step: 3284 | Episode Return: 4.11 | Length: 18
+Seed: 10 | Step: 3315 | Episode Return: 11.21 | Length: 31
+Seed: 10 | Step: 3331 | Episode Return: -1.95 | Length: 16
+Seed: 10 | Step: 3344 | Episode Return: 1.58 | Length: 13
+Seed: 10 | Step: 3371 | Episode Return: 4.97 | Length: 27
+Seed: 10 | Step: 3380 | Episode Return: -2.41 | Length: 9
+Seed: 10 | Step: 3393 | Episode Return: 2.86 | Length: 13
+Seed: 10 | Step: 3410 | Episode Return: 6.26 | Length: 17
+Seed: 10 | Step: 3428 | Episode Return: 5.60 | Length: 18
+Seed: 10 | Step: 3450 | Episode Return: 5.07 | Length: 22
+Seed: 10 | Step: 3459 | Episode Return: -2.93 | Length: 9
+Seed: 10 | Step: 3481 | Episode Return: 3.48 | Length: 22
+Seed: 10 | Step: 3507 | Episode Return: 13.02 | Length: 26
+Seed: 10 | Step: 3529 | Episode Return: 4.13 | Length: 22
+Seed: 10 | Step: 3540 | Episode Return: -0.18 | Length: 11
+Seed: 10 | Step: 3570 | Episode Return: 8.12 | Length: 30
+Seed: 10 | Step: 3590 | Episode Return: 0.65 | Length: 20
+Seed: 10 | Step: 3605 | Episode Return: -2.73 | Length: 15
+Seed: 10 | Step: 3619 | Episode Return: -5.42 | Length: 14
+Seed: 10 | Step: 3640 | Episode Return: -2.30 | Length: 21
+Seed: 10 | Step: 3656 | Episode Return: 1.98 | Length: 16
+Seed: 10 | Step: 3668 | Episode Return: 2.85 | Length: 12
+Seed: 10 | Step: 3690 | Episode Return: 1.06 | Length: 22
+Seed: 10 | Step: 3705 | Episode Return: 3.97 | Length: 15
+Seed: 10 | Step: 3732 | Episode Return: -0.73 | Length: 27
+Seed: 10 | Step: 3752 | Episode Return: -6.19 | Length: 20
+Seed: 10 | Step: 3762 | Episode Return: -2.35 | Length: 10
+Seed: 10 | Step: 3795 | Episode Return: 10.79 | Length: 33
+Seed: 10 | Step: 3826 | Episode Return: 3.98 | Length: 31
+Seed: 10 | Step: 3844 | Episode Return: -0.72 | Length: 18
+Seed: 10 | Step: 3863 | Episode Return: 7.94 | Length: 19
+Seed: 10 | Step: 3873 | Episode Return: -2.48 | Length: 10
+Seed: 10 | Step: 3893 | Episode Return: 7.69 | Length: 20
+Seed: 10 | Step: 3906 | Episode Return: -1.00 | Length: 13
+Seed: 10 | Step: 3927 | Episode Return: 7.56 | Length: 21
+Seed: 10 | Step: 3968 | Episode Return: 29.28 | Length: 41
+Seed: 10 | Step: 3984 | Episode Return: 5.79 | Length: 16
+Seed: 10 | Step: 4011 | Episode Return: 2.14 | Length: 27
+Seed: 10 | Step: 4026 | Episode Return: 3.67 | Length: 15
+Seed: 10 | Step: 4053 | Episode Return: 13.31 | Length: 27
+Seed: 10 | Step: 4074 | Episode Return: 7.53 | Length: 21
+Seed: 10 | Step: 4086 | Episode Return: 0.51 | Length: 12
+Seed: 10 | Step: 4096 | Episode Return: -0.20 | Length: 10
+Seed: 10 | Step: 4128 | Episode Return: -2.78 | Length: 32
+Seed: 10 | Step: 4146 | Episode Return: -3.34 | Length: 18
+Seed: 10 | Step: 4168 | Episode Return: 7.43 | Length: 22
+Seed: 10 | Step: 4217 | Episode Return: 6.53 | Length: 49
+Seed: 10 | Step: 4247 | Episode Return: 0.14 | Length: 30
+Seed: 10 | Step: 4270 | Episode Return: 8.45 | Length: 23
+Seed: 10 | Step: 4284 | Episode Return: -7.15 | Length: 14
+Seed: 10 | Step: 4303 | Episode Return: 3.07 | Length: 19
+Seed: 10 | Step: 4326 | Episode Return: 10.30 | Length: 23
+Seed: 10 | Step: 4357 | Episode Return: 9.45 | Length: 31
+Seed: 10 | Step: 4377 | Episode Return: 0.08 | Length: 20
+Seed: 10 | Step: 4391 | Episode Return: -2.86 | Length: 14
+Seed: 10 | Step: 4421 | Episode Return: -2.23 | Length: 30
+Seed: 10 | Step: 4446 | Episode Return: -1.46 | Length: 25
+Seed: 10 | Step: 4462 | Episode Return: 4.75 | Length: 16
+Seed: 10 | Step: 4490 | Episode Return: -2.50 | Length: 28
+Seed: 10 | Step: 4505 | Episode Return: 3.25 | Length: 15
+Seed: 10 | Step: 4515 | Episode Return: -2.58 | Length: 10
+Seed: 10 | Step: 4542 | Episode Return: 3.58 | Length: 27
+Seed: 10 | Step: 4584 | Episode Return: 2.78 | Length: 42
+Seed: 10 | Step: 4608 | Episode Return: -1.66 | Length: 24
+Seed: 10 | Step: 4635 | Episode Return: -5.02 | Length: 27
+Seed: 10 | Step: 4656 | Episode Return: 2.96 | Length: 21
+Seed: 10 | Step: 4671 | Episode Return: 4.98 | Length: 15
+Seed: 10 | Step: 4699 | Episode Return: 7.06 | Length: 28
+Seed: 10 | Step: 4717 | Episode Return: 5.00 | Length: 18
+Seed: 10 | Step: 4744 | Episode Return: 2.70 | Length: 27
+Seed: 10 | Step: 4756 | Episode Return: -2.67 | Length: 12
+Seed: 10 | Step: 4765 | Episode Return: -2.20 | Length: 9
+Seed: 10 | Step: 4781 | Episode Return: -3.97 | Length: 16
+Seed: 10 | Step: 4794 | Episode Return: 2.49 | Length: 13
+Seed: 10 | Step: 4814 | Episode Return: 6.44 | Length: 20
+Seed: 10 | Step: 4832 | Episode Return: 4.85 | Length: 18
+Seed: 10 | Step: 4854 | Episode Return: 7.07 | Length: 22
+Seed: 10 | Step: 4869 | Episode Return: 1.98 | Length: 15
+Seed: 10 | Step: 4889 | Episode Return: 4.36 | Length: 20
+Seed: 10 | Step: 4946 | Episode Return: 42.53 | Length: 57
+Seed: 10 | Step: 4958 | Episode Return: 0.19 | Length: 12
+Seed: 10 | Step: 4994 | Episode Return: 3.78 | Length: 36
+
+---> Evaluation (Avg Return over 5 episodes): 49.64
+
+Seed: 10 | Step: 5032 | Episode Return: 5.11 | Length: 38
+Seed: 10 | Step: 5047 | Episode Return: 0.35 | Length: 15
+Seed: 10 | Step: 5064 | Episode Return: 2.30 | Length: 17
+Seed: 10 | Step: 5074 | Episode Return: -0.19 | Length: 10
+Seed: 10 | Step: 5094 | Episode Return: 2.31 | Length: 20
+Seed: 10 | Step: 5120 | Episode Return: -4.62 | Length: 26
+Seed: 10 | Step: 5142 | Episode Return: -0.54 | Length: 22
+Seed: 10 | Step: 5176 | Episode Return: 5.11 | Length: 34
+Seed: 10 | Step: 5190 | Episode Return: 4.49 | Length: 14
+Seed: 10 | Step: 5220 | Episode Return: -0.84 | Length: 30
+Seed: 10 | Step: 5257 | Episode Return: -4.99 | Length: 37
+Seed: 10 | Step: 5297 | Episode Return: -1.49 | Length: 40
+Seed: 10 | Step: 5318 | Episode Return: -4.41 | Length: 21
+Seed: 10 | Step: 5345 | Episode Return: -0.40 | Length: 27
+Seed: 10 | Step: 5370 | Episode Return: -1.14 | Length: 25
+Seed: 10 | Step: 5434 | Episode Return: 18.37 | Length: 64
+Seed: 10 | Step: 5482 | Episode Return: 22.88 | Length: 48
+Seed: 10 | Step: 5518 | Episode Return: 7.76 | Length: 36
+Seed: 10 | Step: 5609 | Episode Return: 4.51 | Length: 91
+Seed: 10 | Step: 5639 | Episode Return: 3.55 | Length: 30
+Seed: 10 | Step: 5672 | Episode Return: 6.17 | Length: 33
+Seed: 10 | Step: 5770 | Episode Return: 9.14 | Length: 98
+Seed: 10 | Step: 5814 | Episode Return: 11.06 | Length: 44
+Seed: 10 | Step: 5898 | Episode Return: -10.66 | Length: 84
+Seed: 10 | Step: 5963 | Episode Return: 40.41 | Length: 65
+Seed: 10 | Step: 6071 | Episode Return: -17.49 | Length: 108
+Seed: 10 | Step: 6177 | Episode Return: -2.22 | Length: 106
+Seed: 10 | Step: 6268 | Episode Return: 4.42 | Length: 91
+Seed: 10 | Step: 6370 | Episode Return: 7.67 | Length: 102
+Seed: 10 | Step: 6495 | Episode Return: 14.25 | Length: 125
+Seed: 10 | Step: 6726 | Episode Return: 333.47 | Length: 231
+Seed: 10 | Step: 6848 | Episode Return: 224.70 | Length: 122
+Seed: 10 | Step: 7066 | Episode Return: 326.50 | Length: 218
+Seed: 10 | Step: 7222 | Episode Return: 259.32 | Length: 156
+Seed: 10 | Step: 7441 | Episode Return: 330.96 | Length: 219
+Seed: 10 | Step: 7878 | Episode Return: 545.37 | Length: 437
+Seed: 10 | Step: 8048 | Episode Return: 281.19 | Length: 170
+Seed: 10 | Step: 8320 | Episode Return: 380.13 | Length: 272
+Seed: 10 | Step: 8674 | Episode Return: 367.20 | Length: 354
+Seed: 10 | Step: 8775 | Episode Return: 171.41 | Length: 101
+Seed: 20 | Step: 2992 | Episode Return: -8.37 | Length: 19
+Seed: 20 | Step: 3015 | Episode Return: 4.58 | Length: 23
+Seed: 20 | Step: 3040 | Episode Return: -0.98 | Length: 25
+Seed: 20 | Step: 3068 | Episode Return: -1.39 | Length: 28
+Seed: 20 | Step: 3097 | Episode Return: 2.84 | Length: 29
+Seed: 20 | Step: 3113 | Episode Return: 3.39 | Length: 16
+Seed: 20 | Step: 3130 | Episode Return: 4.80 | Length: 17
+Seed: 20 | Step: 3160 | Episode Return: -9.06 | Length: 30
+Seed: 20 | Step: 3175 | Episode Return: -9.55 | Length: 15
+Seed: 20 | Step: 3202 | Episode Return: -0.08 | Length: 27
+Seed: 20 | Step: 3231 | Episode Return: -0.39 | Length: 29
+Seed: 20 | Step: 3243 | Episode Return: -3.29 | Length: 12
+Seed: 20 | Step: 3268 | Episode Return: -2.17 | Length: 25
+Seed: 20 | Step: 3290 | Episode Return: -2.93 | Length: 22
+Seed: 20 | Step: 3340 | Episode Return: 10.90 | Length: 50
+Seed: 20 | Step: 3361 | Episode Return: 0.80 | Length: 21
+Seed: 20 | Step: 3385 | Episode Return: 5.61 | Length: 24
+Seed: 20 | Step: 3406 | Episode Return: 1.23 | Length: 21
+Seed: 20 | Step: 3428 | Episode Return: 0.22 | Length: 22
+Seed: 20 | Step: 3473 | Episode Return: 17.02 | Length: 45
+Seed: 20 | Step: 3492 | Episode Return: 1.91 | Length: 19
+Seed: 20 | Step: 3534 | Episode Return: 24.02 | Length: 42
+Seed: 20 | Step: 3554 | Episode Return: -0.59 | Length: 20
+Seed: 20 | Step: 3578 | Episode Return: -5.17 | Length: 24
+Seed: 20 | Step: 3595 | Episode Return: 3.56 | Length: 17
+Seed: 20 | Step: 3607 | Episode Return: -0.19 | Length: 12
+Seed: 20 | Step: 3622 | Episode Return: 2.08 | Length: 15
+Seed: 20 | Step: 3639 | Episode Return: 6.31 | Length: 17
+Seed: 20 | Step: 3664 | Episode Return: -11.47 | Length: 25
+Seed: 20 | Step: 3680 | Episode Return: -0.73 | Length: 16
+Seed: 20 | Step: 3732 | Episode Return: 18.78 | Length: 52
+Seed: 20 | Step: 3772 | Episode Return: 12.50 | Length: 40
+Seed: 20 | Step: 3819 | Episode Return: 31.38 | Length: 47
+Seed: 20 | Step: 3834 | Episode Return: -0.35 | Length: 15
+Seed: 20 | Step: 3852 | Episode Return: 3.91 | Length: 18
+Seed: 20 | Step: 3878 | Episode Return: -1.76 | Length: 26
+Seed: 20 | Step: 3911 | Episode Return: -1.46 | Length: 33
+Seed: 20 | Step: 3924 | Episode Return: 0.62 | Length: 13
+Seed: 20 | Step: 3940 | Episode Return: -1.43 | Length: 16
+Seed: 20 | Step: 3990 | Episode Return: 26.29 | Length: 50
+Seed: 20 | Step: 4008 | Episode Return: -0.60 | Length: 18
+Seed: 20 | Step: 4026 | Episode Return: 8.40 | Length: 18
+Seed: 20 | Step: 4039 | Episode Return: -3.74 | Length: 13
+Seed: 20 | Step: 4051 | Episode Return: -1.89 | Length: 12
+Seed: 20 | Step: 4067 | Episode Return: 2.00 | Length: 16
+Seed: 20 | Step: 4101 | Episode Return: 22.12 | Length: 34
+Seed: 20 | Step: 4125 | Episode Return: 5.28 | Length: 24
+Seed: 20 | Step: 4139 | Episode Return: 2.13 | Length: 14
+Seed: 20 | Step: 4159 | Episode Return: 3.07 | Length: 20
+Seed: 20 | Step: 4197 | Episode Return: 31.05 | Length: 38
+Seed: 20 | Step: 4219 | Episode Return: 4.03 | Length: 22
+Seed: 20 | Step: 4251 | Episode Return: 3.12 | Length: 32
+Seed: 20 | Step: 4264 | Episode Return: 1.63 | Length: 13
+Seed: 20 | Step: 4278 | Episode Return: 1.33 | Length: 14
+Seed: 20 | Step: 4293 | Episode Return: 0.12 | Length: 15
+Seed: 20 | Step: 4308 | Episode Return: -0.07 | Length: 15
+Seed: 20 | Step: 4325 | Episode Return: 0.21 | Length: 17
+Seed: 20 | Step: 4347 | Episode Return: 0.63 | Length: 22
+Seed: 20 | Step: 4362 | Episode Return: 0.91 | Length: 15
+Seed: 20 | Step: 4378 | Episode Return: -1.69 | Length: 16
+Seed: 20 | Step: 4391 | Episode Return: -3.53 | Length: 13
+Seed: 20 | Step: 4404 | Episode Return: 1.67 | Length: 13
+Seed: 20 | Step: 4426 | Episode Return: 7.31 | Length: 22
+Seed: 20 | Step: 4444 | Episode Return: 2.78 | Length: 18
+Seed: 20 | Step: 4467 | Episode Return: 6.05 | Length: 23
+Seed: 20 | Step: 4502 | Episode Return: 6.70 | Length: 35
+Seed: 20 | Step: 4512 | Episode Return: -1.18 | Length: 10
+Seed: 20 | Step: 4524 | Episode Return: -0.48 | Length: 12
+Seed: 20 | Step: 4545 | Episode Return: -0.86 | Length: 21
+Seed: 20 | Step: 4559 | Episode Return: -0.56 | Length: 14
+Seed: 20 | Step: 4577 | Episode Return: -2.86 | Length: 18
+Seed: 20 | Step: 4596 | Episode Return: -0.62 | Length: 19
+Seed: 20 | Step: 4613 | Episode Return: 5.18 | Length: 17
+Seed: 20 | Step: 4642 | Episode Return: 16.75 | Length: 29
+Seed: 20 | Step: 4668 | Episode Return: -2.79 | Length: 26
+Seed: 20 | Step: 4681 | Episode Return: 0.64 | Length: 13
+Seed: 20 | Step: 4693 | Episode Return: 0.63 | Length: 12
+Seed: 20 | Step: 4722 | Episode Return: 1.08 | Length: 29
+Seed: 20 | Step: 4738 | Episode Return: 1.91 | Length: 16
+Seed: 20 | Step: 4755 | Episode Return: 7.65 | Length: 17
+Seed: 20 | Step: 4772 | Episode Return: 3.47 | Length: 17
+Seed: 20 | Step: 4784 | Episode Return: -3.02 | Length: 12
+Seed: 20 | Step: 4811 | Episode Return: -3.74 | Length: 27
+Seed: 20 | Step: 4827 | Episode Return: 1.47 | Length: 16
+Seed: 20 | Step: 4845 | Episode Return: 0.50 | Length: 18
+Seed: 20 | Step: 4860 | Episode Return: 0.09 | Length: 15
+Seed: 20 | Step: 4885 | Episode Return: 1.64 | Length: 25
+Seed: 20 | Step: 4916 | Episode Return: 13.07 | Length: 31
+Seed: 20 | Step: 4930 | Episode Return: 2.96 | Length: 14
+Seed: 20 | Step: 4980 | Episode Return: 16.83 | Length: 50
+Seed: 20 | Step: 4996 | Episode Return: 3.81 | Length: 16
+
+---> Evaluation (Avg Return over 5 episodes): 5.33
+
+Seed: 20 | Step: 5020 | Episode Return: 3.10 | Length: 24
+Seed: 20 | Step: 5029 | Episode Return: -2.00 | Length: 9
+Seed: 20 | Step: 5041 | Episode Return: 2.04 | Length: 12
+Seed: 20 | Step: 5062 | Episode Return: 5.86 | Length: 21
+Seed: 20 | Step: 5076 | Episode Return: -5.50 | Length: 14
+Seed: 20 | Step: 5101 | Episode Return: -6.82 | Length: 25
+Seed: 20 | Step: 5111 | Episode Return: -2.30 | Length: 10
+Seed: 20 | Step: 5147 | Episode Return: 14.39 | Length: 36
+Seed: 20 | Step: 5179 | Episode Return: 2.02 | Length: 32
+Seed: 20 | Step: 5218 | Episode Return: 17.63 | Length: 39
+Seed: 20 | Step: 5243 | Episode Return: 8.29 | Length: 25
+Seed: 20 | Step: 5296 | Episode Return: 19.85 | Length: 53
+Seed: 20 | Step: 5333 | Episode Return: 25.49 | Length: 37
+Seed: 20 | Step: 5398 | Episode Return: -5.40 | Length: 65
+Seed: 20 | Step: 5483 | Episode Return: -12.69 | Length: 85
+Seed: 20 | Step: 5551 | Episode Return: 6.31 | Length: 68
+Seed: 20 | Step: 5624 | Episode Return: -0.74 | Length: 73
+Seed: 20 | Step: 5709 | Episode Return: 21.19 | Length: 85
+Seed: 20 | Step: 5812 | Episode Return: -9.49 | Length: 103
+Seed: 20 | Step: 5863 | Episode Return: -8.44 | Length: 51
+Seed: 20 | Step: 5902 | Episode Return: -1.31 | Length: 39
+Seed: 20 | Step: 6010 | Episode Return: -25.51 | Length: 108
+Seed: 20 | Step: 6086 | Episode Return: 5.80 | Length: 76
+Seed: 20 | Step: 6202 | Episode Return: -24.21 | Length: 116
+Seed: 20 | Step: 6318 | Episode Return: 23.17 | Length: 116
+Seed: 20 | Step: 6414 | Episode Return: -28.48 | Length: 96
+Seed: 20 | Step: 6736 | Episode Return: 142.16 | Length: 322
+Seed: 20 | Step: 6818 | Episode Return: -16.53 | Length: 82
+Seed: 20 | Step: 6958 | Episode Return: 208.79 | Length: 140
+Seed: 20 | Step: 7087 | Episode Return: 8.54 | Length: 129
+Seed: 20 | Step: 7220 | Episode Return: 9.31 | Length: 133
+Seed: 20 | Step: 7397 | Episode Return: 289.24 | Length: 177
+Seed: 20 | Step: 7616 | Episode Return: 68.32 | Length: 219
+Seed: 20 | Step: 7707 | Episode Return: -14.21 | Length: 91
+Seed: 20 | Step: 7954 | Episode Return: 371.61 | Length: 247
+Seed: 20 | Step: 8160 | Episode Return: 317.20 | Length: 206
+Seed: 20 | Step: 8416 | Episode Return: 392.07 | Length: 256
+Seed: 20 | Step: 8621 | Episode Return: 357.27 | Length: 205
+Seed: 20 | Step: 9621 | Episode Return: 795.64 | Length: 1000
+Seed: 20 | Step: 9888 | Episode Return: 475.31 | Length: 267
+
+---> Evaluation (Avg Return over 5 episodes): 181.77
+
+Seed: 20 | Step: 10180 | Episode Return: 451.99 | Length: 292
+Seed: 20 | Step: 10470 | Episode Return: 419.62 | Length: 290
+Seed: 20 | Step: 10577 | Episode Return: -9.89 | Length: 107
+Seed: 20 | Step: 10666 | Episode Return: 8.71 | Length: 89
+Seed: 20 | Step: 10783 | Episode Return: 2.01 | Length: 117
+Seed: 20 | Step: 10946 | Episode Return: 44.33 | Length: 163
+Seed: 10 | Step: 9015 | Episode Return: 333.24 | Length: 240
+Seed: 10 | Step: 9223 | Episode Return: 331.98 | Length: 208
+Seed: 10 | Step: 9670 | Episode Return: 538.75 | Length: 447
+Seed: 10 | Step: 9862 | Episode Return: 335.64 | Length: 192
+Seed: 10 | Step: 9993 | Episode Return: 231.91 | Length: 131
+
+---> Evaluation (Avg Return over 5 episodes): 414.89
+
+Seed: 10 | Step: 10152 | Episode Return: 345.53 | Length: 159
+Seed: 10 | Step: 10348 | Episode Return: 338.80 | Length: 196
+Seed: 10 | Step: 10581 | Episode Return: 367.05 | Length: 233
+Seed: 10 | Step: 10795 | Episode Return: 371.88 | Length: 214
+Seed: 10 | Step: 10959 | Episode Return: 276.60 | Length: 164
+Seed: 10 | Step: 11152 | Episode Return: 333.43 | Length: 193
+Seed: 10 | Step: 11394 | Episode Return: 395.52 | Length: 242
+Seed: 10 | Step: 11673 | Episode Return: 445.26 | Length: 279
+Seed: 10 | Step: 11863 | Episode Return: 335.50 | Length: 190
+Seed: 10 | Step: 12035 | Episode Return: 335.68 | Length: 172
+Seed: 10 | Step: 12220 | Episode Return: 377.34 | Length: 185
+Seed: 10 | Step: 12398 | Episode Return: 298.80 | Length: 178
+Seed: 10 | Step: 12544 | Episode Return: 273.44 | Length: 146
+Seed: 10 | Step: 12767 | Episode Return: 384.19 | Length: 223
+Seed: 10 | Step: 12929 | Episode Return: 266.76 | Length: 162
+Seed: 10 | Step: 13123 | Episode Return: 356.08 | Length: 194
+Seed: 10 | Step: 13321 | Episode Return: 305.37 | Length: 198
+Seed: 10 | Step: 13536 | Episode Return: 53.54 | Length: 215
+Seed: 10 | Step: 13734 | Episode Return: 335.81 | Length: 198
+Seed: 10 | Step: 13939 | Episode Return: 409.79 | Length: 205
+Seed: 10 | Step: 14105 | Episode Return: 264.78 | Length: 166
+Seed: 10 | Step: 14581 | Episode Return: 544.90 | Length: 476
+Seed: 10 | Step: 14834 | Episode Return: 476.99 | Length: 253
+
+---> Evaluation (Avg Return over 5 episodes): 538.78
+
+Seed: 10 | Step: 15023 | Episode Return: 358.75 | Length: 189
+Seed: 10 | Step: 15191 | Episode Return: 239.98 | Length: 168
+Seed: 10 | Step: 15460 | Episode Return: 532.93 | Length: 269
+Seed: 10 | Step: 15805 | Episode Return: 172.14 | Length: 345
+Seed: 10 | Step: 15924 | Episode Return: 58.50 | Length: 119
+Seed: 10 | Step: 16072 | Episode Return: 210.44 | Length: 148
+Seed: 10 | Step: 16239 | Episode Return: 115.51 | Length: 167
+Seed: 10 | Step: 16352 | Episode Return: 58.76 | Length: 113
+Seed: 10 | Step: 16408 | Episode Return: 28.46 | Length: 56
+Seed: 10 | Step: 16786 | Episode Return: 629.63 | Length: 378
+Seed: 10 | Step: 17004 | Episode Return: 392.47 | Length: 218
+Seed: 10 | Step: 17179 | Episode Return: 262.06 | Length: 175
+Seed: 10 | Step: 17349 | Episode Return: 115.04 | Length: 170
+Seed: 10 | Step: 17591 | Episode Return: 357.96 | Length: 242
+Seed: 10 | Step: 17776 | Episode Return: 302.69 | Length: 185
+Seed: 10 | Step: 17935 | Episode Return: 303.48 | Length: 159
+Seed: 10 | Step: 18080 | Episode Return: 320.62 | Length: 145
+Seed: 10 | Step: 18263 | Episode Return: 347.64 | Length: 183
+Seed: 10 | Step: 18512 | Episode Return: 509.43 | Length: 249
+Seed: 10 | Step: 18648 | Episode Return: 57.96 | Length: 136
+Seed: 10 | Step: 18775 | Episode Return: 282.38 | Length: 127
+Seed: 10 | Step: 19028 | Episode Return: 525.90 | Length: 253
+Seed: 10 | Step: 19221 | Episode Return: 125.04 | Length: 193
+Seed: 10 | Step: 19277 | Episode Return: 18.98 | Length: 56
+Seed: 10 | Step: 19449 | Episode Return: 84.94 | Length: 172
+Seed: 10 | Step: 19702 | Episode Return: 441.17 | Length: 253
+Seed: 10 | Step: 19827 | Episode Return: 43.99 | Length: 125
+
+---> Evaluation (Avg Return over 5 episodes): 376.03
+
+Seed: 10 | Step: 20067 | Episode Return: 467.87 | Length: 240
+Seed: 10 | Step: 20256 | Episode Return: 323.77 | Length: 189
+Seed: 10 | Step: 20828 | Episode Return: 1160.42 | Length: 572
+Seed: 10 | Step: 20941 | Episode Return: 74.32 | Length: 113
+Seed: 10 | Step: 21139 | Episode Return: 424.21 | Length: 198
+Seed: 10 | Step: 21296 | Episode Return: 276.78 | Length: 157
+Seed: 10 | Step: 21450 | Episode Return: 290.26 | Length: 154
+Seed: 10 | Step: 21585 | Episode Return: 224.88 | Length: 135
+Seed: 10 | Step: 21732 | Episode Return: 226.62 | Length: 147
+Seed: 10 | Step: 22027 | Episode Return: 647.53 | Length: 295
+Seed: 10 | Step: 22248 | Episode Return: 417.39 | Length: 221
+Seed: 10 | Step: 22423 | Episode Return: 81.77 | Length: 175
+Seed: 10 | Step: 22539 | Episode Return: 24.48 | Length: 116
+Seed: 10 | Step: 22777 | Episode Return: 533.90 | Length: 238
+Seed: 10 | Step: 23094 | Episode Return: 724.20 | Length: 317
+Seed: 10 | Step: 23313 | Episode Return: 400.11 | Length: 219
+Seed: 10 | Step: 23505 | Episode Return: 469.16 | Length: 192
+Seed: 10 | Step: 23753 | Episode Return: 502.00 | Length: 248
+Seed: 10 | Step: 23945 | Episode Return: 416.07 | Length: 192
+Seed: 10 | Step: 24327 | Episode Return: 511.86 | Length: 382
+Seed: 10 | Step: 24673 | Episode Return: 755.52 | Length: 346
+Seed: 10 | Step: 24842 | Episode Return: 350.29 | Length: 169
+
+---> Evaluation (Avg Return over 5 episodes): 361.91
+
+Seed: 10 | Step: 25028 | Episode Return: 97.47 | Length: 186
+Seed: 10 | Step: 25476 | Episode Return: 688.99 | Length: 448
+Seed: 10 | Step: 25723 | Episode Return: 473.88 | Length: 247
+Seed: 10 | Step: 26287 | Episode Return: 1240.24 | Length: 564
+Seed: 10 | Step: 26411 | Episode Return: 30.38 | Length: 124
+Seed: 10 | Step: 26661 | Episode Return: 562.86 | Length: 250
+Seed: 10 | Step: 26897 | Episode Return: 532.31 | Length: 236
+Seed: 10 | Step: 27018 | Episode Return: 204.55 | Length: 121
+Seed: 10 | Step: 27181 | Episode Return: 269.68 | Length: 163
+Seed: 10 | Step: 27368 | Episode Return: 458.52 | Length: 187
+Seed: 10 | Step: 27548 | Episode Return: 306.98 | Length: 180
+Seed: 10 | Step: 27664 | Episode Return: 185.74 | Length: 116
+Seed: 10 | Step: 27905 | Episode Return: 351.85 | Length: 241
+Seed: 10 | Step: 28169 | Episode Return: 627.47 | Length: 264
+Seed: 10 | Step: 28381 | Episode Return: 456.11 | Length: 212
+Seed: 10 | Step: 28512 | Episode Return: 244.04 | Length: 131
+Seed: 10 | Step: 28657 | Episode Return: 309.25 | Length: 145
+Seed: 10 | Step: 28845 | Episode Return: 377.89 | Length: 188
+Seed: 10 | Step: 29038 | Episode Return: 415.27 | Length: 193
+Seed: 10 | Step: 29193 | Episode Return: 359.97 | Length: 155
+Seed: 10 | Step: 29328 | Episode Return: 243.46 | Length: 135
+Seed: 10 | Step: 29494 | Episode Return: 412.38 | Length: 166
+Seed: 10 | Step: 29696 | Episode Return: 469.69 | Length: 202
+Seed: 10 | Step: 29832 | Episode Return: 233.33 | Length: 136
+
+---> Evaluation (Avg Return over 5 episodes): 437.02
+
+Seed: 10 | Step: 30013 | Episode Return: 391.06 | Length: 181
+Seed: 10 | Step: 30221 | Episode Return: 443.39 | Length: 208
+Seed: 10 | Step: 30423 | Episode Return: 365.07 | Length: 202
+Seed: 10 | Step: 30612 | Episode Return: 417.85 | Length: 189
+Seed: 10 | Step: 30750 | Episode Return: 218.76 | Length: 138
+Seed: 10 | Step: 30921 | Episode Return: 388.68 | Length: 171
+Seed: 10 | Step: 31063 | Episode Return: 236.79 | Length: 142
+Seed: 10 | Step: 31265 | Episode Return: 394.54 | Length: 202
+Seed: 10 | Step: 31452 | Episode Return: 404.19 | Length: 187
+Seed: 10 | Step: 31637 | Episode Return: 360.90 | Length: 185
+Seed: 10 | Step: 31871 | Episode Return: 466.31 | Length: 234
+Seed: 10 | Step: 32179 | Episode Return: 579.00 | Length: 308
+Seed: 10 | Step: 32436 | Episode Return: 487.40 | Length: 257
+Seed: 10 | Step: 32586 | Episode Return: 282.72 | Length: 150
+Seed: 10 | Step: 32797 | Episode Return: 365.77 | Length: 211
+Seed: 10 | Step: 32988 | Episode Return: 368.34 | Length: 191
+Seed: 10 | Step: 33176 | Episode Return: 389.23 | Length: 188
+Seed: 10 | Step: 33456 | Episode Return: 592.94 | Length: 280
+Seed: 10 | Step: 33631 | Episode Return: 375.35 | Length: 175
+Seed: 10 | Step: 34072 | Episode Return: 950.25 | Length: 441
+Seed: 10 | Step: 34236 | Episode Return: 309.14 | Length: 164
+Seed: 10 | Step: 34480 | Episode Return: 515.92 | Length: 244
+Seed: 10 | Step: 34822 | Episode Return: 767.11 | Length: 342
+
+---> Evaluation (Avg Return over 5 episodes): 425.09
+
+Seed: 10 | Step: 35052 | Episode Return: 513.79 | Length: 230
+Seed: 10 | Step: 35207 | Episode Return: 278.94 | Length: 155
+Seed: 10 | Step: 35487 | Episode Return: 530.39 | Length: 280
+Seed: 30 | Step: 8257 | Episode Return: 38.69 | Length: 166
+Seed: 30 | Step: 8721 | Episode Return: 510.05 | Length: 464
+Seed: 30 | Step: 8882 | Episode Return: 270.86 | Length: 161
+Seed: 30 | Step: 9208 | Episode Return: 458.47 | Length: 326
+Seed: 30 | Step: 9534 | Episode Return: 385.52 | Length: 326
+Seed: 30 | Step: 9765 | Episode Return: 364.83 | Length: 231
+Seed: 30 | Step: 9975 | Episode Return: 369.80 | Length: 210
+
+---> Evaluation (Avg Return over 5 episodes): 331.82
+
+Seed: 30 | Step: 10122 | Episode Return: 23.94 | Length: 147
+Seed: 30 | Step: 10448 | Episode Return: 54.54 | Length: 326
+Seed: 30 | Step: 10600 | Episode Return: 34.64 | Length: 152
+Seed: 30 | Step: 11408 | Episode Return: 687.44 | Length: 808
+Seed: 30 | Step: 11551 | Episode Return: 246.69 | Length: 143
+Seed: 30 | Step: 11764 | Episode Return: 367.60 | Length: 213
+Seed: 30 | Step: 12297 | Episode Return: 169.17 | Length: 533
+Seed: 30 | Step: 12603 | Episode Return: 342.14 | Length: 306
+Seed: 30 | Step: 12774 | Episode Return: 220.63 | Length: 171
+Seed: 30 | Step: 12931 | Episode Return: 270.90 | Length: 157
+Seed: 30 | Step: 13123 | Episode Return: 315.59 | Length: 192
+Seed: 30 | Step: 13311 | Episode Return: 110.45 | Length: 188
+Seed: 30 | Step: 13627 | Episode Return: 233.96 | Length: 316
+Seed: 30 | Step: 13774 | Episode Return: 242.52 | Length: 147
+Seed: 30 | Step: 13928 | Episode Return: 303.74 | Length: 154
+Seed: 30 | Step: 14034 | Episode Return: -3.98 | Length: 106
+Seed: 30 | Step: 14228 | Episode Return: 311.16 | Length: 194
+Seed: 30 | Step: 14330 | Episode Return: 75.29 | Length: 102
+Seed: 30 | Step: 14574 | Episode Return: 384.35 | Length: 244
+Seed: 30 | Step: 14863 | Episode Return: 168.06 | Length: 289
+
+---> Evaluation (Avg Return over 5 episodes): 296.91
+
+Seed: 30 | Step: 15065 | Episode Return: 269.98 | Length: 202
+Seed: 30 | Step: 15177 | Episode Return: 211.52 | Length: 112
+Seed: 30 | Step: 15377 | Episode Return: 320.92 | Length: 200
+Seed: 30 | Step: 15550 | Episode Return: 283.39 | Length: 173
+Seed: 30 | Step: 15880 | Episode Return: 406.67 | Length: 330
+Seed: 30 | Step: 16050 | Episode Return: 297.01 | Length: 170
+Seed: 30 | Step: 16274 | Episode Return: 88.57 | Length: 224
+Seed: 30 | Step: 16491 | Episode Return: 315.76 | Length: 217
+Seed: 30 | Step: 16607 | Episode Return: 195.95 | Length: 116
+Seed: 30 | Step: 16747 | Episode Return: 246.97 | Length: 140
+Seed: 30 | Step: 16875 | Episode Return: 221.85 | Length: 128
+Seed: 30 | Step: 17195 | Episode Return: 371.25 | Length: 320
+Seed: 30 | Step: 17332 | Episode Return: 232.97 | Length: 137
+Seed: 30 | Step: 17479 | Episode Return: 283.82 | Length: 147
+Seed: 30 | Step: 17613 | Episode Return: 244.14 | Length: 134
+Seed: 30 | Step: 17876 | Episode Return: 50.07 | Length: 263
+Seed: 30 | Step: 18011 | Episode Return: 215.06 | Length: 135
+Seed: 30 | Step: 18249 | Episode Return: 368.18 | Length: 238
+Seed: 30 | Step: 18466 | Episode Return: 326.79 | Length: 217
+Seed: 30 | Step: 18683 | Episode Return: 288.07 | Length: 217
+Seed: 30 | Step: 18836 | Episode Return: 278.53 | Length: 153
+Seed: 30 | Step: 19013 | Episode Return: 254.41 | Length: 177
+Seed: 30 | Step: 19465 | Episode Return: 239.28 | Length: 452
+Seed: 30 | Step: 19655 | Episode Return: 335.42 | Length: 190
+Seed: 30 | Step: 19911 | Episode Return: 87.89 | Length: 256
+
+---> Evaluation (Avg Return over 5 episodes): 178.17
+
+Seed: 30 | Step: 20042 | Episode Return: 260.80 | Length: 131
+Seed: 30 | Step: 20189 | Episode Return: 175.91 | Length: 147
+Seed: 30 | Step: 20342 | Episode Return: 228.64 | Length: 153
+Seed: 30 | Step: 20487 | Episode Return: 24.30 | Length: 145
+Seed: 30 | Step: 20699 | Episode Return: 398.21 | Length: 212
+Seed: 30 | Step: 20956 | Episode Return: 410.51 | Length: 257
+Seed: 30 | Step: 21132 | Episode Return: 221.40 | Length: 176
+Seed: 30 | Step: 21384 | Episode Return: 363.34 | Length: 252
+Seed: 30 | Step: 21518 | Episode Return: 254.03 | Length: 134
+Seed: 30 | Step: 21590 | Episode Return: 21.18 | Length: 72
+Seed: 30 | Step: 21743 | Episode Return: 293.07 | Length: 153
+Seed: 30 | Step: 21960 | Episode Return: 218.62 | Length: 217
+Seed: 30 | Step: 22100 | Episode Return: 221.06 | Length: 140
+Seed: 30 | Step: 22285 | Episode Return: 346.97 | Length: 185
+Seed: 30 | Step: 22470 | Episode Return: 300.40 | Length: 185
+Seed: 30 | Step: 22627 | Episode Return: 248.46 | Length: 157
+Seed: 30 | Step: 22819 | Episode Return: 333.73 | Length: 192
+Seed: 30 | Step: 22991 | Episode Return: 276.94 | Length: 172
+Seed: 30 | Step: 23253 | Episode Return: 394.55 | Length: 262
+Seed: 30 | Step: 23428 | Episode Return: 325.31 | Length: 175
+Seed: 30 | Step: 23594 | Episode Return: 297.69 | Length: 166
+Seed: 30 | Step: 23753 | Episode Return: 274.64 | Length: 159
+Seed: 30 | Step: 23864 | Episode Return: 189.21 | Length: 111
+Seed: 30 | Step: 24081 | Episode Return: 334.76 | Length: 217
+Seed: 30 | Step: 24234 | Episode Return: 267.31 | Length: 153
+Seed: 30 | Step: 24361 | Episode Return: -17.40 | Length: 127
+Seed: 30 | Step: 24566 | Episode Return: 348.87 | Length: 205
+Seed: 30 | Step: 24768 | Episode Return: 312.39 | Length: 202
+
+---> Evaluation (Avg Return over 5 episodes): 306.14
+
+Seed: 30 | Step: 25133 | Episode Return: 499.25 | Length: 365
+Seed: 30 | Step: 25479 | Episode Return: 115.72 | Length: 346
+Seed: 30 | Step: 25651 | Episode Return: 271.35 | Length: 172
+Seed: 30 | Step: 26256 | Episode Return: 555.02 | Length: 605
+Seed: 30 | Step: 26685 | Episode Return: 627.71 | Length: 429
+Seed: 30 | Step: 27094 | Episode Return: 542.74 | Length: 409
+Seed: 30 | Step: 27275 | Episode Return: -7.04 | Length: 181
+Seed: 30 | Step: 27662 | Episode Return: 411.94 | Length: 387
+Seed: 30 | Step: 27924 | Episode Return: 486.83 | Length: 262
+Seed: 30 | Step: 28233 | Episode Return: 59.55 | Length: 309
+Seed: 30 | Step: 28463 | Episode Return: 85.71 | Length: 230
+Seed: 30 | Step: 28572 | Episode Return: 2.94 | Length: 109
+Seed: 30 | Step: 28769 | Episode Return: 386.37 | Length: 197
+Seed: 30 | Step: 28952 | Episode Return: 321.99 | Length: 183
+Seed: 30 | Step: 29079 | Episode Return: 237.46 | Length: 127
+Seed: 30 | Step: 29445 | Episode Return: 94.66 | Length: 366
+Seed: 30 | Step: 29651 | Episode Return: 391.18 | Length: 206
+Seed: 30 | Step: 29797 | Episode Return: 269.95 | Length: 146
+Seed: 30 | Step: 29908 | Episode Return: 218.01 | Length: 111
+
+---> Evaluation (Avg Return over 5 episodes): 188.08
+
+Seed: 30 | Step: 30118 | Episode Return: 343.40 | Length: 210
+Seed: 30 | Step: 30596 | Episode Return: 533.35 | Length: 478
+Seed: 30 | Step: 30764 | Episode Return: 287.89 | Length: 168
+Seed: 30 | Step: 31075 | Episode Return: 428.92 | Length: 311
+Seed: 30 | Step: 31266 | Episode Return: 307.75 | Length: 191
+Seed: 30 | Step: 31386 | Episode Return: 203.69 | Length: 120
+Seed: 30 | Step: 31653 | Episode Return: 372.26 | Length: 267
+Seed: 30 | Step: 31822 | Episode Return: 242.15 | Length: 169
+Seed: 30 | Step: 32021 | Episode Return: 257.18 | Length: 199
+Seed: 30 | Step: 32307 | Episode Return: 171.49 | Length: 286
+Seed: 30 | Step: 32503 | Episode Return: 92.81 | Length: 196
+Seed: 30 | Step: 32639 | Episode Return: 245.36 | Length: 136
+Seed: 30 | Step: 32770 | Episode Return: 205.09 | Length: 131
+Seed: 30 | Step: 33139 | Episode Return: 188.13 | Length: 369
+Seed: 30 | Step: 33287 | Episode Return: 273.83 | Length: 148
+Seed: 30 | Step: 33473 | Episode Return: 299.88 | Length: 186
+Seed: 30 | Step: 33900 | Episode Return: 137.90 | Length: 427
+Seed: 30 | Step: 34092 | Episode Return: 275.53 | Length: 192
+Seed: 30 | Step: 34287 | Episode Return: 268.88 | Length: 195
+Seed: 30 | Step: 34434 | Episode Return: 215.81 | Length: 147
+Seed: 30 | Step: 34600 | Episode Return: 238.98 | Length: 166
+Seed: 30 | Step: 34808 | Episode Return: 345.75 | Length: 208
+
+---> Evaluation (Avg Return over 5 episodes): 316.63
+
+Seed: 30 | Step: 35027 | Episode Return: 353.85 | Length: 219
+Seed: 30 | Step: 35229 | Episode Return: 367.56 | Length: 202
+Seed: 30 | Step: 35532 | Episode Return: 455.74 | Length: 303
+Seed: 30 | Step: 35646 | Episode Return: 213.69 | Length: 114
+Seed: 30 | Step: 35898 | Episode Return: 363.35 | Length: 252
+Seed: 30 | Step: 36083 | Episode Return: 316.00 | Length: 185
+Seed: 20 | Step: 11057 | Episode Return: 15.65 | Length: 111
+Seed: 20 | Step: 11196 | Episode Return: 28.22 | Length: 139
+Seed: 20 | Step: 11448 | Episode Return: 360.12 | Length: 252
+Seed: 20 | Step: 11555 | Episode Return: 47.01 | Length: 107
+Seed: 20 | Step: 11781 | Episode Return: 81.62 | Length: 226
+Seed: 20 | Step: 11875 | Episode Return: 7.26 | Length: 94
+Seed: 20 | Step: 12057 | Episode Return: 312.50 | Length: 182
+Seed: 20 | Step: 12299 | Episode Return: 82.18 | Length: 242
+Seed: 20 | Step: 12505 | Episode Return: 91.58 | Length: 206
+Seed: 20 | Step: 12644 | Episode Return: 227.54 | Length: 139
+Seed: 20 | Step: 12782 | Episode Return: 266.43 | Length: 138
+Seed: 20 | Step: 13183 | Episode Return: 497.05 | Length: 401
+Seed: 20 | Step: 13339 | Episode Return: 294.56 | Length: 156
+Seed: 20 | Step: 13474 | Episode Return: 247.05 | Length: 135
+Seed: 20 | Step: 13665 | Episode Return: 80.48 | Length: 191
+Seed: 20 | Step: 13794 | Episode Return: 239.81 | Length: 129
+Seed: 20 | Step: 13967 | Episode Return: 48.69 | Length: 173
+Seed: 20 | Step: 14191 | Episode Return: 409.33 | Length: 224
+Seed: 20 | Step: 14457 | Episode Return: 409.45 | Length: 266
+Seed: 20 | Step: 14599 | Episode Return: 291.93 | Length: 142
+Seed: 20 | Step: 14775 | Episode Return: 320.58 | Length: 176
+Seed: 20 | Step: 14978 | Episode Return: 403.04 | Length: 203
+
+---> Evaluation (Avg Return over 5 episodes): 432.57
+
+Seed: 20 | Step: 15163 | Episode Return: 310.00 | Length: 185
+Seed: 20 | Step: 15321 | Episode Return: 273.95 | Length: 158
+Seed: 20 | Step: 15440 | Episode Return: 221.05 | Length: 119
+Seed: 20 | Step: 15586 | Episode Return: 263.73 | Length: 146
+Seed: 20 | Step: 15714 | Episode Return: 248.40 | Length: 128
+Seed: 20 | Step: 15866 | Episode Return: 265.30 | Length: 152
+Seed: 20 | Step: 16059 | Episode Return: 322.39 | Length: 193
+Seed: 20 | Step: 16227 | Episode Return: 302.62 | Length: 168
+Seed: 20 | Step: 16509 | Episode Return: 408.17 | Length: 282
+Seed: 20 | Step: 16619 | Episode Return: 189.50 | Length: 110
+Seed: 20 | Step: 16881 | Episode Return: 158.65 | Length: 262
+Seed: 20 | Step: 17134 | Episode Return: 394.35 | Length: 253
+Seed: 20 | Step: 17255 | Episode Return: 69.61 | Length: 121
+Seed: 20 | Step: 17449 | Episode Return: 113.70 | Length: 194
+Seed: 20 | Step: 17770 | Episode Return: 178.94 | Length: 321
+Seed: 20 | Step: 18268 | Episode Return: 519.97 | Length: 498
+Seed: 20 | Step: 18349 | Episode Return: 8.11 | Length: 81
+Seed: 20 | Step: 18828 | Episode Return: 455.30 | Length: 479
+Seed: 20 | Step: 18934 | Episode Return: 26.63 | Length: 106
+Seed: 20 | Step: 19042 | Episode Return: 209.89 | Length: 108
+Seed: 20 | Step: 19222 | Episode Return: 334.69 | Length: 180
+Seed: 20 | Step: 19366 | Episode Return: 238.06 | Length: 144
+Seed: 20 | Step: 19453 | Episode Return: 22.97 | Length: 87
+Seed: 20 | Step: 19590 | Episode Return: 216.18 | Length: 137
+Seed: 20 | Step: 19704 | Episode Return: -12.62 | Length: 114
+Seed: 20 | Step: 19914 | Episode Return: 12.29 | Length: 210
+
+---> Evaluation (Avg Return over 5 episodes): 102.51
+
+Seed: 20 | Step: 20028 | Episode Return: 213.11 | Length: 114
+Seed: 20 | Step: 20258 | Episode Return: 389.59 | Length: 230
+Seed: 20 | Step: 20402 | Episode Return: -5.44 | Length: 144
+Seed: 20 | Step: 20521 | Episode Return: 9.94 | Length: 119
+Seed: 20 | Step: 20666 | Episode Return: 176.23 | Length: 145
+Seed: 20 | Step: 20798 | Episode Return: 226.17 | Length: 132
+Seed: 20 | Step: 21268 | Episode Return: 356.86 | Length: 470
+Seed: 20 | Step: 21408 | Episode Return: -1.63 | Length: 140
+Seed: 20 | Step: 21614 | Episode Return: -25.97 | Length: 206
+Seed: 20 | Step: 21745 | Episode Return: 244.52 | Length: 131
+Seed: 20 | Step: 21832 | Episode Return: 172.78 | Length: 87
+Seed: 20 | Step: 22028 | Episode Return: 76.55 | Length: 196
+Seed: 20 | Step: 22154 | Episode Return: 237.39 | Length: 126
+Seed: 20 | Step: 22289 | Episode Return: 251.25 | Length: 135
+Seed: 20 | Step: 22608 | Episode Return: 478.21 | Length: 319
+Seed: 20 | Step: 22840 | Episode Return: 80.04 | Length: 232
+Seed: 20 | Step: 23074 | Episode Return: 66.24 | Length: 234
+Seed: 20 | Step: 23243 | Episode Return: 288.72 | Length: 169
+Seed: 20 | Step: 24243 | Episode Return: 782.41 | Length: 1000
+Seed: 20 | Step: 24447 | Episode Return: 304.60 | Length: 204
+Seed: 20 | Step: 24985 | Episode Return: 579.75 | Length: 538
+
+---> Evaluation (Avg Return over 5 episodes): 571.02
+
+Seed: 20 | Step: 25181 | Episode Return: 335.48 | Length: 196
+Seed: 20 | Step: 25380 | Episode Return: 295.19 | Length: 199
+Seed: 20 | Step: 25543 | Episode Return: 298.25 | Length: 163
+Seed: 20 | Step: 25898 | Episode Return: 448.62 | Length: 355
+Seed: 20 | Step: 26057 | Episode Return: 294.01 | Length: 159
+Seed: 20 | Step: 26233 | Episode Return: 264.73 | Length: 176
+Seed: 20 | Step: 26394 | Episode Return: 276.44 | Length: 161
+Seed: 20 | Step: 26627 | Episode Return: 387.58 | Length: 233
+Seed: 20 | Step: 26785 | Episode Return: 266.60 | Length: 158
+Seed: 20 | Step: 27090 | Episode Return: 327.36 | Length: 305
+Seed: 20 | Step: 27305 | Episode Return: 369.21 | Length: 215
+Seed: 20 | Step: 27426 | Episode Return: 227.71 | Length: 121
+Seed: 20 | Step: 27597 | Episode Return: 302.98 | Length: 171
+Seed: 20 | Step: 27763 | Episode Return: 280.34 | Length: 166
+Seed: 20 | Step: 27903 | Episode Return: 72.93 | Length: 140
+Seed: 20 | Step: 28031 | Episode Return: 244.88 | Length: 128
+Seed: 20 | Step: 28288 | Episode Return: 320.10 | Length: 257
+Seed: 20 | Step: 28525 | Episode Return: 178.51 | Length: 237
+Seed: 20 | Step: 28726 | Episode Return: 417.99 | Length: 201
+Seed: 20 | Step: 28875 | Episode Return: 333.71 | Length: 149
+Seed: 20 | Step: 29138 | Episode Return: 254.38 | Length: 263
+Seed: 20 | Step: 29380 | Episode Return: 453.14 | Length: 242
+Seed: 20 | Step: 29883 | Episode Return: 590.41 | Length: 503
+
+---> Evaluation (Avg Return over 5 episodes): 160.72
+
+Seed: 20 | Step: 30057 | Episode Return: 350.14 | Length: 174
+Seed: 20 | Step: 30278 | Episode Return: 411.78 | Length: 221
+Seed: 20 | Step: 30535 | Episode Return: 455.30 | Length: 257
+Seed: 20 | Step: 30682 | Episode Return: 274.27 | Length: 147
+Seed: 20 | Step: 30850 | Episode Return: 214.42 | Length: 168
+Seed: 20 | Step: 31120 | Episode Return: 506.38 | Length: 270
+Seed: 20 | Step: 31313 | Episode Return: 351.04 | Length: 193
+Seed: 20 | Step: 31646 | Episode Return: 603.71 | Length: 333
+Seed: 20 | Step: 31861 | Episode Return: 440.04 | Length: 215
+Seed: 20 | Step: 32332 | Episode Return: 786.91 | Length: 471
+Seed: 20 | Step: 32618 | Episode Return: 510.23 | Length: 286
+Seed: 20 | Step: 32918 | Episode Return: 436.43 | Length: 300
+Seed: 20 | Step: 33266 | Episode Return: 572.71 | Length: 348
+Seed: 20 | Step: 33462 | Episode Return: 346.24 | Length: 196
+Seed: 20 | Step: 33631 | Episode Return: 72.90 | Length: 169
+Seed: 20 | Step: 33887 | Episode Return: 429.23 | Length: 256
+Seed: 20 | Step: 34184 | Episode Return: 524.92 | Length: 297
+Seed: 20 | Step: 34421 | Episode Return: 434.87 | Length: 237
+Seed: 20 | Step: 34648 | Episode Return: 419.08 | Length: 227
+Seed: 20 | Step: 34945 | Episode Return: 466.74 | Length: 297
+
+---> Evaluation (Avg Return over 5 episodes): 397.22
+
+Seed: 20 | Step: 35143 | Episode Return: 374.81 | Length: 198
+Seed: 20 | Step: 35329 | Episode Return: 359.96 | Length: 186
+Seed: 20 | Step: 35609 | Episode Return: 477.06 | Length: 280
+Seed: 20 | Step: 36055 | Episode Return: 602.21 | Length: 446
+Seed: 20 | Step: 36226 | Episode Return: 332.85 | Length: 171
+Seed: 20 | Step: 36419 | Episode Return: 363.34 | Length: 193
+Seed: 20 | Step: 36624 | Episode Return: 386.01 | Length: 205
+Seed: 20 | Step: 37015 | Episode Return: 776.35 | Length: 391
+Seed: 20 | Step: 37203 | Episode Return: 350.50 | Length: 188
+Seed: 20 | Step: 37494 | Episode Return: 465.96 | Length: 291
+Seed: 20 | Step: 37892 | Episode Return: -34.84 | Length: 398
+Seed: 20 | Step: 38185 | Episode Return: 474.35 | Length: 293
+Seed: 20 | Step: 38406 | Episode Return: 417.67 | Length: 221
+Seed: 20 | Step: 38576 | Episode Return: 349.13 | Length: 170
+Seed: 20 | Step: 39576 | Episode Return: 1372.19 | Length: 1000
+
+---> Evaluation (Avg Return over 5 episodes): 406.09
+
+Seed: 30 | Step: 36422 | Episode Return: 511.60 | Length: 339
+Seed: 30 | Step: 36668 | Episode Return: 534.60 | Length: 246
+Seed: 30 | Step: 36937 | Episode Return: 395.04 | Length: 269
+Seed: 30 | Step: 37235 | Episode Return: 513.92 | Length: 298
+Seed: 30 | Step: 37394 | Episode Return: 272.71 | Length: 159
+Seed: 30 | Step: 37586 | Episode Return: 357.71 | Length: 192
+Seed: 30 | Step: 37746 | Episode Return: 326.86 | Length: 160
+Seed: 30 | Step: 38010 | Episode Return: 381.50 | Length: 264
+Seed: 30 | Step: 38263 | Episode Return: 503.54 | Length: 253
+Seed: 30 | Step: 38397 | Episode Return: 262.26 | Length: 134
+Seed: 30 | Step: 38996 | Episode Return: 768.42 | Length: 599
+Seed: 30 | Step: 39228 | Episode Return: 389.59 | Length: 232
+Seed: 30 | Step: 39440 | Episode Return: 287.34 | Length: 212
+Seed: 30 | Step: 39657 | Episode Return: 401.48 | Length: 217
+Seed: 30 | Step: 39790 | Episode Return: 196.34 | Length: 133
+Seed: 30 | Step: 39962 | Episode Return: 318.76 | Length: 172
+
+---> Evaluation (Avg Return over 5 episodes): 332.72
+
+Seed: 30 | Step: 40218 | Episode Return: 425.48 | Length: 256
+Seed: 30 | Step: 40519 | Episode Return: 429.18 | Length: 301
+Seed: 30 | Step: 40789 | Episode Return: 495.66 | Length: 270
+Seed: 30 | Step: 40896 | Episode Return: 179.00 | Length: 107
+Seed: 30 | Step: 41094 | Episode Return: 337.62 | Length: 198
+Seed: 30 | Step: 41509 | Episode Return: 543.63 | Length: 415
+Seed: 30 | Step: 41631 | Episode Return: 193.11 | Length: 122
+Seed: 30 | Step: 41812 | Episode Return: 288.84 | Length: 181
+Seed: 30 | Step: 41981 | Episode Return: 263.33 | Length: 169
+Seed: 30 | Step: 42115 | Episode Return: 226.19 | Length: 134
+Seed: 30 | Step: 42300 | Episode Return: 93.14 | Length: 185
+Seed: 30 | Step: 42535 | Episode Return: 386.86 | Length: 235
+Seed: 30 | Step: 42723 | Episode Return: 344.48 | Length: 188
+Seed: 30 | Step: 43221 | Episode Return: 297.38 | Length: 498
+Seed: 30 | Step: 43373 | Episode Return: 286.86 | Length: 152
+Seed: 30 | Step: 43742 | Episode Return: 285.44 | Length: 369
+Seed: 30 | Step: 43904 | Episode Return: 299.21 | Length: 162
+Seed: 30 | Step: 44125 | Episode Return: 388.38 | Length: 221
+Seed: 30 | Step: 44379 | Episode Return: 512.12 | Length: 254
+Seed: 30 | Step: 44558 | Episode Return: 297.07 | Length: 179
+Seed: 30 | Step: 44729 | Episode Return: 298.45 | Length: 171
+Seed: 30 | Step: 44871 | Episode Return: 268.20 | Length: 142
+
+---> Evaluation (Avg Return over 5 episodes): 289.96
+
+Seed: 30 | Step: 45136 | Episode Return: 509.79 | Length: 265
+Seed: 30 | Step: 45307 | Episode Return: 301.35 | Length: 171
+Seed: 30 | Step: 45515 | Episode Return: 413.45 | Length: 208
+Seed: 30 | Step: 45778 | Episode Return: 554.67 | Length: 263
+Seed: 30 | Step: 45893 | Episode Return: 154.63 | Length: 115
+Seed: 30 | Step: 46127 | Episode Return: 370.25 | Length: 234
+Seed: 30 | Step: 46509 | Episode Return: 846.72 | Length: 382
+Seed: 30 | Step: 46696 | Episode Return: 350.82 | Length: 187
+Seed: 30 | Step: 46975 | Episode Return: 502.17 | Length: 279
+Seed: 30 | Step: 47170 | Episode Return: 385.14 | Length: 195
+Seed: 30 | Step: 47467 | Episode Return: 100.75 | Length: 297
+Seed: 30 | Step: 47649 | Episode Return: 326.96 | Length: 182
+Seed: 30 | Step: 47883 | Episode Return: 427.46 | Length: 234
+Seed: 30 | Step: 48043 | Episode Return: 330.32 | Length: 160
+Seed: 30 | Step: 48136 | Episode Return: 76.36 | Length: 93
+Seed: 30 | Step: 48441 | Episode Return: 552.45 | Length: 305
+Seed: 30 | Step: 48702 | Episode Return: 490.35 | Length: 261
+Seed: 30 | Step: 48834 | Episode Return: 235.66 | Length: 132
+Seed: 30 | Step: 49014 | Episode Return: 335.80 | Length: 180
+Seed: 30 | Step: 49219 | Episode Return: 390.35 | Length: 205
+Seed: 30 | Step: 49459 | Episode Return: 488.73 | Length: 240
+Seed: 30 | Step: 49596 | Episode Return: 257.50 | Length: 137
+Seed: 30 | Step: 49752 | Episode Return: 264.27 | Length: 156
+
+---> Evaluation (Avg Return over 5 episodes): 359.66
+
+Seed: 30 | Step: 50097 | Episode Return: 737.34 | Length: 345
+Seed: 30 | Step: 50205 | Episode Return: 199.34 | Length: 108
+Seed: 30 | Step: 50329 | Episode Return: 218.84 | Length: 124
+Seed: 30 | Step: 50542 | Episode Return: 440.64 | Length: 213
+Seed: 30 | Step: 50683 | Episode Return: 275.30 | Length: 141
+Seed: 30 | Step: 50847 | Episode Return: 298.81 | Length: 164
+Seed: 30 | Step: 51029 | Episode Return: 331.20 | Length: 182
+Seed: 30 | Step: 51231 | Episode Return: 396.16 | Length: 202
+Seed: 30 | Step: 51349 | Episode Return: 227.41 | Length: 118
+Seed: 30 | Step: 51564 | Episode Return: 436.30 | Length: 215
+Seed: 30 | Step: 51753 | Episode Return: 319.62 | Length: 189
+Seed: 30 | Step: 51942 | Episode Return: 330.68 | Length: 189
+Seed: 30 | Step: 52099 | Episode Return: 318.72 | Length: 157
+Seed: 30 | Step: 52282 | Episode Return: 402.39 | Length: 183
+Seed: 30 | Step: 52431 | Episode Return: 283.23 | Length: 149
+Seed: 30 | Step: 52617 | Episode Return: 347.55 | Length: 186
+Seed: 30 | Step: 52807 | Episode Return: 320.85 | Length: 190
+Seed: 30 | Step: 53165 | Episode Return: 527.27 | Length: 358
+Seed: 30 | Step: 53359 | Episode Return: 326.16 | Length: 194
+Seed: 30 | Step: 53556 | Episode Return: 351.17 | Length: 197
+Seed: 30 | Step: 53732 | Episode Return: 323.54 | Length: 176
+Seed: 30 | Step: 53971 | Episode Return: 397.60 | Length: 239
+Seed: 30 | Step: 54104 | Episode Return: 285.00 | Length: 133
+Seed: 30 | Step: 54344 | Episode Return: 435.90 | Length: 240
+Seed: 30 | Step: 54557 | Episode Return: 418.96 | Length: 213
+Seed: 30 | Step: 54795 | Episode Return: 483.04 | Length: 238
+Seed: 30 | Step: 54929 | Episode Return: 184.24 | Length: 134
+
+---> Evaluation (Avg Return over 5 episodes): 623.61
+
+Seed: 30 | Step: 55141 | Episode Return: 311.61 | Length: 212
+Seed: 30 | Step: 55331 | Episode Return: 338.61 | Length: 190
+Seed: 30 | Step: 55580 | Episode Return: 440.70 | Length: 249
+Seed: 30 | Step: 55764 | Episode Return: 310.58 | Length: 184
+Seed: 30 | Step: 55945 | Episode Return: 359.19 | Length: 181
+Seed: 30 | Step: 56081 | Episode Return: 217.16 | Length: 136
+Seed: 30 | Step: 56229 | Episode Return: 241.74 | Length: 148
+Seed: 30 | Step: 56385 | Episode Return: 267.88 | Length: 156
+Seed: 30 | Step: 56603 | Episode Return: 357.75 | Length: 218
+Seed: 30 | Step: 56866 | Episode Return: 515.80 | Length: 263
+Seed: 30 | Step: 57126 | Episode Return: 451.07 | Length: 260
+Seed: 30 | Step: 57594 | Episode Return: 1065.80 | Length: 468
+Seed: 30 | Step: 57719 | Episode Return: 216.76 | Length: 125
+Seed: 30 | Step: 57894 | Episode Return: 289.86 | Length: 175
+Seed: 30 | Step: 58083 | Episode Return: 228.58 | Length: 189
+Seed: 30 | Step: 58379 | Episode Return: 590.25 | Length: 296
+Seed: 30 | Step: 58492 | Episode Return: 195.89 | Length: 113
+Seed: 30 | Step: 58717 | Episode Return: 466.78 | Length: 225
+Seed: 30 | Step: 58977 | Episode Return: 505.86 | Length: 260
+Seed: 30 | Step: 59416 | Episode Return: 955.90 | Length: 439
+Seed: 30 | Step: 59624 | Episode Return: 320.31 | Length: 208
+Seed: 30 | Step: 59831 | Episode Return: 419.88 | Length: 207
+Seed: 30 | Step: 59990 | Episode Return: 240.60 | Length: 159
+
+---> Evaluation (Avg Return over 5 episodes): 339.13
+
+Seed: 30 | Step: 60299 | Episode Return: 446.75 | Length: 309
+Seed: 30 | Step: 60610 | Episode Return: 563.43 | Length: 311
+Seed: 30 | Step: 60862 | Episode Return: 453.75 | Length: 252
+Seed: 30 | Step: 61191 | Episode Return: 535.52 | Length: 329
+Seed: 30 | Step: 61459 | Episode Return: 505.66 | Length: 268
+Seed: 30 | Step: 61645 | Episode Return: 382.86 | Length: 186
+Seed: 30 | Step: 61764 | Episode Return: 209.36 | Length: 119
+Seed: 30 | Step: 61987 | Episode Return: 384.90 | Length: 223
+Seed: 30 | Step: 62155 | Episode Return: 267.69 | Length: 168
+Seed: 30 | Step: 62447 | Episode Return: 464.08 | Length: 292
+Seed: 30 | Step: 62574 | Episode Return: 229.94 | Length: 127
+Seed: 30 | Step: 62794 | Episode Return: 421.11 | Length: 220
+Seed: 30 | Step: 62999 | Episode Return: 435.52 | Length: 205
+Seed: 30 | Step: 63067 | Episode Return: 42.98 | Length: 68
+Seed: 30 | Step: 63261 | Episode Return: 354.41 | Length: 194
+Seed: 30 | Step: 63574 | Episode Return: 557.12 | Length: 313
+Seed: 10 | Step: 35683 | Episode Return: 316.73 | Length: 196
+Seed: 10 | Step: 35790 | Episode Return: 30.68 | Length: 107
+Seed: 10 | Step: 36011 | Episode Return: 485.11 | Length: 221
+Seed: 10 | Step: 36179 | Episode Return: 307.84 | Length: 168
+Seed: 10 | Step: 36301 | Episode Return: 201.80 | Length: 122
+Seed: 10 | Step: 36606 | Episode Return: 703.88 | Length: 305
+Seed: 10 | Step: 36819 | Episode Return: 440.36 | Length: 213
+Seed: 10 | Step: 37077 | Episode Return: 496.06 | Length: 258
+Seed: 10 | Step: 37191 | Episode Return: 203.89 | Length: 114
+Seed: 10 | Step: 37402 | Episode Return: 305.09 | Length: 211
+Seed: 10 | Step: 37577 | Episode Return: 30.80 | Length: 175
+Seed: 10 | Step: 37756 | Episode Return: 377.94 | Length: 179
+Seed: 10 | Step: 37951 | Episode Return: 293.81 | Length: 195
+Seed: 10 | Step: 38072 | Episode Return: 224.31 | Length: 121
+Seed: 10 | Step: 38261 | Episode Return: 428.97 | Length: 189
+Seed: 10 | Step: 38502 | Episode Return: 396.62 | Length: 241
+Seed: 10 | Step: 38705 | Episode Return: 394.42 | Length: 203
+Seed: 10 | Step: 38981 | Episode Return: 631.61 | Length: 276
+Seed: 10 | Step: 39452 | Episode Return: 863.07 | Length: 471
+Seed: 10 | Step: 39784 | Episode Return: 682.06 | Length: 332
+
+---> Evaluation (Avg Return over 5 episodes): 626.93
+
+Seed: 10 | Step: 40201 | Episode Return: 829.13 | Length: 417
+Seed: 10 | Step: 40425 | Episode Return: 434.22 | Length: 224
+Seed: 10 | Step: 40945 | Episode Return: 1110.69 | Length: 520
+Seed: 10 | Step: 41112 | Episode Return: 222.53 | Length: 167
+Seed: 10 | Step: 41381 | Episode Return: 685.46 | Length: 269
+Seed: 10 | Step: 42112 | Episode Return: 1844.11 | Length: 731
+Seed: 10 | Step: 42366 | Episode Return: 766.26 | Length: 254
+Seed: 10 | Step: 42747 | Episode Return: 625.01 | Length: 381
+Seed: 10 | Step: 42958 | Episode Return: 556.38 | Length: 211
+Seed: 10 | Step: 43232 | Episode Return: 664.48 | Length: 274
+Seed: 10 | Step: 43787 | Episode Return: 1041.08 | Length: 555
+Seed: 10 | Step: 44055 | Episode Return: 636.53 | Length: 268
+Seed: 10 | Step: 44346 | Episode Return: 481.64 | Length: 291
+Seed: 10 | Step: 44600 | Episode Return: 594.45 | Length: 254
+Seed: 10 | Step: 44894 | Episode Return: 618.92 | Length: 294
+
+---> Evaluation (Avg Return over 5 episodes): 637.79
+
+Seed: 10 | Step: 45277 | Episode Return: 1003.88 | Length: 383
+Seed: 10 | Step: 45396 | Episode Return: 208.25 | Length: 119
+Seed: 10 | Step: 45694 | Episode Return: 475.25 | Length: 298
+Seed: 10 | Step: 45872 | Episode Return: 62.62 | Length: 178
+Seed: 10 | Step: 46299 | Episode Return: 902.68 | Length: 427
+Seed: 10 | Step: 46572 | Episode Return: 557.37 | Length: 273
+Seed: 10 | Step: 46824 | Episode Return: 629.95 | Length: 252
+Seed: 10 | Step: 47183 | Episode Return: 837.48 | Length: 359
+Seed: 10 | Step: 47294 | Episode Return: 169.47 | Length: 111
+Seed: 10 | Step: 47406 | Episode Return: 188.55 | Length: 112
+Seed: 10 | Step: 47593 | Episode Return: 364.78 | Length: 187
+Seed: 10 | Step: 47779 | Episode Return: 302.27 | Length: 186
+Seed: 10 | Step: 47908 | Episode Return: 166.80 | Length: 129
+Seed: 10 | Step: 48115 | Episode Return: 307.26 | Length: 207
+Seed: 10 | Step: 48489 | Episode Return: 801.25 | Length: 374
+Seed: 10 | Step: 48992 | Episode Return: 717.71 | Length: 503
+Seed: 10 | Step: 49327 | Episode Return: 718.13 | Length: 335
+Seed: 10 | Step: 49511 | Episode Return: 359.60 | Length: 184
+Seed: 10 | Step: 49715 | Episode Return: 507.75 | Length: 204
+
+---> Evaluation (Avg Return over 5 episodes): 642.58
+
+Seed: 10 | Step: 50000 | Episode Return: 775.07 | Length: 285
+Seed: 10 | Step: 50243 | Episode Return: 620.77 | Length: 243
+Seed: 10 | Step: 50377 | Episode Return: 221.29 | Length: 134
+Seed: 10 | Step: 50521 | Episode Return: 286.70 | Length: 144
+Seed: 10 | Step: 50949 | Episode Return: 773.82 | Length: 428
+Seed: 10 | Step: 51164 | Episode Return: 401.44 | Length: 215
+Seed: 10 | Step: 51560 | Episode Return: 915.25 | Length: 396
+Seed: 10 | Step: 51686 | Episode Return: 227.50 | Length: 126
+Seed: 10 | Step: 51903 | Episode Return: 440.80 | Length: 217
+Seed: 10 | Step: 52312 | Episode Return: 972.33 | Length: 409
+Seed: 10 | Step: 52895 | Episode Return: 1419.02 | Length: 583
+Seed: 10 | Step: 53370 | Episode Return: 790.33 | Length: 475
+Seed: 10 | Step: 53535 | Episode Return: 318.03 | Length: 165
+Seed: 10 | Step: 53864 | Episode Return: 953.41 | Length: 329
+Seed: 10 | Step: 54256 | Episode Return: 748.78 | Length: 392
+Seed: 10 | Step: 54763 | Episode Return: 1062.29 | Length: 507
+Seed: 10 | Step: 54901 | Episode Return: 256.14 | Length: 138
+
+---> Evaluation (Avg Return over 5 episodes): 485.68
+
+Seed: 10 | Step: 55233 | Episode Return: 661.93 | Length: 332
+Seed: 10 | Step: 55594 | Episode Return: 1024.77 | Length: 361
+Seed: 10 | Step: 55882 | Episode Return: 649.24 | Length: 288
+Seed: 10 | Step: 55999 | Episode Return: 65.02 | Length: 117
+Seed: 10 | Step: 56127 | Episode Return: 244.54 | Length: 128
+Seed: 10 | Step: 56361 | Episode Return: 583.52 | Length: 234
+Seed: 10 | Step: 56687 | Episode Return: 971.40 | Length: 326
+Seed: 10 | Step: 57049 | Episode Return: 639.00 | Length: 362
+Seed: 10 | Step: 57339 | Episode Return: 721.86 | Length: 290
+Seed: 10 | Step: 57646 | Episode Return: 649.46 | Length: 307
+Seed: 10 | Step: 58072 | Episode Return: 1126.44 | Length: 426
+Seed: 10 | Step: 58472 | Episode Return: 1121.97 | Length: 400
+Seed: 10 | Step: 58774 | Episode Return: 735.10 | Length: 302
+Seed: 10 | Step: 58911 | Episode Return: 297.34 | Length: 137
+Seed: 10 | Step: 59195 | Episode Return: 564.26 | Length: 284
+Seed: 10 | Step: 59327 | Episode Return: 224.03 | Length: 132
+Seed: 10 | Step: 59664 | Episode Return: 890.28 | Length: 337
+Seed: 10 | Step: 59886 | Episode Return: 439.26 | Length: 222
+
+---> Evaluation (Avg Return over 5 episodes): 413.36
+
+Seed: 10 | Step: 60005 | Episode Return: 174.67 | Length: 119
+Seed: 10 | Step: 60157 | Episode Return: 319.62 | Length: 152
+Seed: 10 | Step: 60351 | Episode Return: 468.99 | Length: 194
+Seed: 10 | Step: 60479 | Episode Return: 217.81 | Length: 128
+Seed: 10 | Step: 60766 | Episode Return: 630.20 | Length: 287
+Seed: 10 | Step: 61064 | Episode Return: 681.49 | Length: 298
+Seed: 10 | Step: 61549 | Episode Return: 1155.76 | Length: 485
+Seed: 10 | Step: 61801 | Episode Return: 653.04 | Length: 252
+Seed: 10 | Step: 62126 | Episode Return: 883.16 | Length: 325
+Seed: 10 | Step: 62260 | Episode Return: 240.61 | Length: 134
+Seed: 10 | Step: 62446 | Episode Return: 430.72 | Length: 186
+Seed: 10 | Step: 62550 | Episode Return: 176.63 | Length: 104
+Seed: 10 | Step: 62710 | Episode Return: 318.75 | Length: 160
+Seed: 10 | Step: 62954 | Episode Return: 559.61 | Length: 244
+Seed: 10 | Step: 63101 | Episode Return: 286.91 | Length: 147
+Seed: 10 | Step: 63216 | Episode Return: 177.24 | Length: 115
+Seed: 10 | Step: 63435 | Episode Return: 470.00 | Length: 219
+Seed: 10 | Step: 63881 | Episode Return: 1169.81 | Length: 446
+Seed: 10 | Step: 64093 | Episode Return: 476.88 | Length: 212
+Seed: 10 | Step: 64213 | Episode Return: 187.91 | Length: 120
+Seed: 10 | Step: 64367 | Episode Return: 266.85 | Length: 154
+Seed: 10 | Step: 64511 | Episode Return: 291.95 | Length: 144
+Seed: 10 | Step: 64687 | Episode Return: 363.26 | Length: 176
+Seed: 10 | Step: 64896 | Episode Return: 535.81 | Length: 209
+
+---> Evaluation (Avg Return over 5 episodes): 585.22
+
+Seed: 10 | Step: 65224 | Episode Return: 851.63 | Length: 328
+Seed: 10 | Step: 65365 | Episode Return: 243.90 | Length: 141
+Seed: 10 | Step: 65722 | Episode Return: 1052.26 | Length: 357
+Seed: 10 | Step: 66177 | Episode Return: 1190.85 | Length: 455
+Seed: 10 | Step: 66405 | Episode Return: 480.25 | Length: 228
+Seed: 10 | Step: 66566 | Episode Return: 267.83 | Length: 161
+Seed: 10 | Step: 66898 | Episode Return: 1003.72 | Length: 332
+Seed: 10 | Step: 67233 | Episode Return: 1031.60 | Length: 335
+Seed: 10 | Step: 67916 | Episode Return: 1710.93 | Length: 683
+Seed: 10 | Step: 68082 | Episode Return: 327.34 | Length: 166
+Seed: 10 | Step: 68377 | Episode Return: 662.99 | Length: 295
+Seed: 10 | Step: 68547 | Episode Return: 234.96 | Length: 170
+Seed: 10 | Step: 68709 | Episode Return: 328.88 | Length: 162
+Seed: 20 | Step: 40022 | Episode Return: 654.22 | Length: 446
+Seed: 20 | Step: 40246 | Episode Return: 525.69 | Length: 224
+Seed: 20 | Step: 40440 | Episode Return: 369.52 | Length: 194
+Seed: 20 | Step: 40635 | Episode Return: 414.02 | Length: 195
+Seed: 20 | Step: 40874 | Episode Return: 459.94 | Length: 239
+Seed: 20 | Step: 41094 | Episode Return: 398.81 | Length: 220
+Seed: 20 | Step: 41417 | Episode Return: 543.36 | Length: 323
+Seed: 20 | Step: 41624 | Episode Return: 430.24 | Length: 207
+Seed: 20 | Step: 41897 | Episode Return: 540.59 | Length: 273
+Seed: 20 | Step: 42120 | Episode Return: 427.83 | Length: 223
+Seed: 20 | Step: 42258 | Episode Return: 183.60 | Length: 138
+Seed: 20 | Step: 42404 | Episode Return: 324.23 | Length: 146
+Seed: 20 | Step: 42674 | Episode Return: 449.49 | Length: 270
+Seed: 20 | Step: 42827 | Episode Return: 301.87 | Length: 153
+Seed: 20 | Step: 43012 | Episode Return: 368.88 | Length: 185
+Seed: 20 | Step: 43175 | Episode Return: 230.98 | Length: 163
+Seed: 20 | Step: 43395 | Episode Return: 476.99 | Length: 220
+Seed: 20 | Step: 43576 | Episode Return: 437.60 | Length: 181
+Seed: 20 | Step: 43713 | Episode Return: 270.22 | Length: 137
+Seed: 20 | Step: 43842 | Episode Return: 198.37 | Length: 129
+Seed: 20 | Step: 44033 | Episode Return: 448.44 | Length: 191
+Seed: 20 | Step: 44275 | Episode Return: 519.62 | Length: 242
+Seed: 20 | Step: 44423 | Episode Return: 269.49 | Length: 148
+Seed: 20 | Step: 44648 | Episode Return: 403.98 | Length: 225
+Seed: 20 | Step: 44788 | Episode Return: 209.22 | Length: 140
+Seed: 20 | Step: 44922 | Episode Return: 204.57 | Length: 134
+
+---> Evaluation (Avg Return over 5 episodes): 262.69
+
+Seed: 20 | Step: 45168 | Episode Return: 459.96 | Length: 246
+Seed: 20 | Step: 45506 | Episode Return: 457.31 | Length: 338
+Seed: 20 | Step: 45598 | Episode Return: 124.56 | Length: 92
+Seed: 20 | Step: 45784 | Episode Return: 358.64 | Length: 186
+Seed: 20 | Step: 45973 | Episode Return: 401.62 | Length: 189
+Seed: 20 | Step: 46170 | Episode Return: 290.87 | Length: 197
+Seed: 20 | Step: 46409 | Episode Return: 445.31 | Length: 239
+Seed: 20 | Step: 46600 | Episode Return: 374.20 | Length: 191
+Seed: 20 | Step: 46715 | Episode Return: 18.42 | Length: 115
+Seed: 20 | Step: 46757 | Episode Return: 8.38 | Length: 42
+Seed: 20 | Step: 47002 | Episode Return: 476.01 | Length: 245
+Seed: 20 | Step: 47256 | Episode Return: 459.03 | Length: 254
+Seed: 20 | Step: 47405 | Episode Return: -30.37 | Length: 149
+Seed: 20 | Step: 47587 | Episode Return: 381.02 | Length: 182
+Seed: 20 | Step: 47665 | Episode Return: -33.94 | Length: 78
+Seed: 20 | Step: 47878 | Episode Return: 392.99 | Length: 213
+Seed: 20 | Step: 48148 | Episode Return: 501.16 | Length: 270
+Seed: 20 | Step: 48349 | Episode Return: 385.95 | Length: 201
+Seed: 20 | Step: 48572 | Episode Return: 549.54 | Length: 223
+Seed: 20 | Step: 48840 | Episode Return: 534.34 | Length: 268
+Seed: 20 | Step: 49042 | Episode Return: 373.26 | Length: 202
+Seed: 20 | Step: 49387 | Episode Return: 613.75 | Length: 345
+Seed: 20 | Step: 49552 | Episode Return: 42.26 | Length: 165
+Seed: 20 | Step: 49759 | Episode Return: 425.44 | Length: 207
+Seed: 20 | Step: 49970 | Episode Return: 432.77 | Length: 211
+
+---> Evaluation (Avg Return over 5 episodes): 594.11
+
+Seed: 20 | Step: 50128 | Episode Return: 64.26 | Length: 158
+Seed: 20 | Step: 50387 | Episode Return: 526.65 | Length: 259
+Seed: 20 | Step: 50609 | Episode Return: 415.59 | Length: 222
+Seed: 20 | Step: 50831 | Episode Return: 87.35 | Length: 222
+Seed: 20 | Step: 51059 | Episode Return: 483.56 | Length: 228
+Seed: 20 | Step: 51341 | Episode Return: 610.20 | Length: 282
+Seed: 20 | Step: 51542 | Episode Return: 398.68 | Length: 201
+Seed: 20 | Step: 51766 | Episode Return: 486.43 | Length: 224
+Seed: 20 | Step: 52054 | Episode Return: 549.29 | Length: 288
+Seed: 20 | Step: 52291 | Episode Return: 547.19 | Length: 237
+Seed: 20 | Step: 52503 | Episode Return: 379.73 | Length: 212
+Seed: 20 | Step: 52636 | Episode Return: 239.17 | Length: 133
+Seed: 20 | Step: 52986 | Episode Return: 775.46 | Length: 350
+Seed: 20 | Step: 53462 | Episode Return: 1189.65 | Length: 476
+Seed: 20 | Step: 53716 | Episode Return: 447.07 | Length: 254
+Seed: 20 | Step: 54225 | Episode Return: 1062.73 | Length: 509
+Seed: 20 | Step: 54361 | Episode Return: 77.41 | Length: 136
+Seed: 20 | Step: 54492 | Episode Return: 74.75 | Length: 131
+Seed: 20 | Step: 54744 | Episode Return: 247.86 | Length: 252
+Seed: 20 | Step: 54781 | Episode Return: 10.81 | Length: 37
+Seed: 20 | Step: 54919 | Episode Return: 257.46 | Length: 138
+
+---> Evaluation (Avg Return over 5 episodes): 388.85
+
+Seed: 20 | Step: 55049 | Episode Return: 70.98 | Length: 130
+Seed: 20 | Step: 55178 | Episode Return: 173.20 | Length: 129
+Seed: 20 | Step: 55340 | Episode Return: 318.99 | Length: 162
+Seed: 20 | Step: 56269 | Episode Return: 1803.72 | Length: 929
+Seed: 20 | Step: 56458 | Episode Return: 391.81 | Length: 189
+Seed: 20 | Step: 56851 | Episode Return: 808.08 | Length: 393
+Seed: 20 | Step: 57048 | Episode Return: 308.44 | Length: 197
+Seed: 20 | Step: 57263 | Episode Return: 460.32 | Length: 215
+Seed: 20 | Step: 58038 | Episode Return: 1390.58 | Length: 775
+Seed: 20 | Step: 58220 | Episode Return: 346.69 | Length: 182
+Seed: 20 | Step: 58361 | Episode Return: 222.70 | Length: 141
+Seed: 20 | Step: 58516 | Episode Return: 324.87 | Length: 155
+Seed: 20 | Step: 58683 | Episode Return: 331.04 | Length: 167
+Seed: 20 | Step: 58829 | Episode Return: 287.73 | Length: 146
+Seed: 20 | Step: 59092 | Episode Return: 271.57 | Length: 263
+Seed: 20 | Step: 59251 | Episode Return: 322.10 | Length: 159
+Seed: 20 | Step: 59402 | Episode Return: 266.68 | Length: 151
+Seed: 20 | Step: 59742 | Episode Return: 476.61 | Length: 340
+
+---> Evaluation (Avg Return over 5 episodes): 449.23
+
+Seed: 20 | Step: 60001 | Episode Return: 586.15 | Length: 259
+Seed: 20 | Step: 60391 | Episode Return: 756.36 | Length: 390
+Seed: 20 | Step: 60665 | Episode Return: 588.63 | Length: 274
+Seed: 20 | Step: 61024 | Episode Return: 431.00 | Length: 359
+Seed: 20 | Step: 61244 | Episode Return: 421.81 | Length: 220
+Seed: 20 | Step: 61423 | Episode Return: 385.95 | Length: 179
+Seed: 20 | Step: 61760 | Episode Return: 593.13 | Length: 337
+Seed: 20 | Step: 62062 | Episode Return: 565.05 | Length: 302
+Seed: 20 | Step: 62369 | Episode Return: 598.48 | Length: 307
+Seed: 20 | Step: 62747 | Episode Return: 768.68 | Length: 378
+Seed: 20 | Step: 63176 | Episode Return: 117.45 | Length: 429
+Seed: 20 | Step: 63585 | Episode Return: 835.52 | Length: 409
+Seed: 20 | Step: 63895 | Episode Return: 657.42 | Length: 310
+Seed: 20 | Step: 64266 | Episode Return: 808.69 | Length: 371
+Seed: 20 | Step: 64622 | Episode Return: 749.55 | Length: 356
+
+---> Evaluation (Avg Return over 5 episodes): 559.78
+
+Seed: 20 | Step: 65090 | Episode Return: 1026.77 | Length: 468
+Seed: 20 | Step: 65408 | Episode Return: 502.86 | Length: 318
+Seed: 20 | Step: 65801 | Episode Return: 577.18 | Length: 393
+Seed: 20 | Step: 65988 | Episode Return: 408.32 | Length: 187
+Seed: 20 | Step: 66288 | Episode Return: 642.63 | Length: 300
+Seed: 20 | Step: 66534 | Episode Return: 535.36 | Length: 246
+Seed: 20 | Step: 66780 | Episode Return: 597.57 | Length: 246
+Seed: 20 | Step: 67065 | Episode Return: 533.46 | Length: 285
+Seed: 20 | Step: 67314 | Episode Return: 488.83 | Length: 249
+Seed: 20 | Step: 67582 | Episode Return: 670.42 | Length: 268
+Seed: 20 | Step: 67855 | Episode Return: 676.16 | Length: 273
+Seed: 20 | Step: 68100 | Episode Return: 516.82 | Length: 245
+Seed: 20 | Step: 68349 | Episode Return: 483.58 | Length: 249
+Seed: 20 | Step: 68749 | Episode Return: 1024.07 | Length: 400
+Seed: 20 | Step: 69137 | Episode Return: 832.65 | Length: 388
+Seed: 20 | Step: 69382 | Episode Return: 460.00 | Length: 245
+Seed: 20 | Step: 69666 | Episode Return: 708.44 | Length: 284
+Seed: 20 | Step: 69898 | Episode Return: 451.72 | Length: 232
+
+---> Evaluation (Avg Return over 5 episodes): 572.48
+
+Seed: 20 | Step: 70245 | Episode Return: 861.24 | Length: 347
+Seed: 20 | Step: 70511 | Episode Return: 602.27 | Length: 266
+Seed: 20 | Step: 70806 | Episode Return: 650.96 | Length: 295
+Seed: 30 | Step: 63759 | Episode Return: 251.70 | Length: 185
+Seed: 30 | Step: 64183 | Episode Return: 459.99 | Length: 424
+Seed: 30 | Step: 64338 | Episode Return: 251.45 | Length: 155
+Seed: 30 | Step: 64855 | Episode Return: 1043.85 | Length: 517
+
+---> Evaluation (Avg Return over 5 episodes): 339.75
+
+Seed: 30 | Step: 65078 | Episode Return: 366.81 | Length: 223
+Seed: 30 | Step: 65330 | Episode Return: 461.22 | Length: 252
+Seed: 30 | Step: 65768 | Episode Return: 1071.81 | Length: 438
+Seed: 30 | Step: 66116 | Episode Return: 747.20 | Length: 348
+Seed: 30 | Step: 66381 | Episode Return: 521.23 | Length: 265
+Seed: 30 | Step: 66578 | Episode Return: 196.35 | Length: 197
+Seed: 30 | Step: 66774 | Episode Return: 383.43 | Length: 196
+Seed: 30 | Step: 67078 | Episode Return: 497.02 | Length: 304
+Seed: 30 | Step: 67296 | Episode Return: 321.22 | Length: 218
+Seed: 30 | Step: 67572 | Episode Return: 490.08 | Length: 276
+Seed: 30 | Step: 67723 | Episode Return: 202.70 | Length: 151
+Seed: 30 | Step: 68246 | Episode Return: 1018.08 | Length: 523
+Seed: 30 | Step: 68377 | Episode Return: 56.36 | Length: 131
+Seed: 30 | Step: 68712 | Episode Return: 711.66 | Length: 335
+Seed: 30 | Step: 69054 | Episode Return: 513.35 | Length: 342
+Seed: 30 | Step: 69206 | Episode Return: 180.31 | Length: 152
+Seed: 30 | Step: 69418 | Episode Return: 353.66 | Length: 212
+Seed: 30 | Step: 69685 | Episode Return: 472.84 | Length: 267
+
+---> Evaluation (Avg Return over 5 episodes): 378.12
+
+Seed: 30 | Step: 70126 | Episode Return: 714.70 | Length: 441
+Seed: 30 | Step: 70417 | Episode Return: 482.98 | Length: 291
+Seed: 30 | Step: 70536 | Episode Return: 203.74 | Length: 119
+Seed: 30 | Step: 70908 | Episode Return: 907.88 | Length: 372
+Seed: 30 | Step: 71200 | Episode Return: 646.23 | Length: 292
+Seed: 30 | Step: 71735 | Episode Return: 828.31 | Length: 535
+Seed: 30 | Step: 72053 | Episode Return: 702.08 | Length: 318
+Seed: 30 | Step: 72409 | Episode Return: 663.46 | Length: 356
+Seed: 30 | Step: 72632 | Episode Return: 448.30 | Length: 223
+Seed: 30 | Step: 73075 | Episode Return: 559.08 | Length: 443
+Seed: 30 | Step: 73327 | Episode Return: 432.14 | Length: 252
+Seed: 30 | Step: 73451 | Episode Return: 151.03 | Length: 124
+Seed: 30 | Step: 73768 | Episode Return: 544.42 | Length: 317
+Seed: 30 | Step: 73881 | Episode Return: 162.64 | Length: 113
+Seed: 30 | Step: 74357 | Episode Return: 960.45 | Length: 476
+Seed: 30 | Step: 74755 | Episode Return: 839.85 | Length: 398
+
+---> Evaluation (Avg Return over 5 episodes): 432.32
+
+Seed: 30 | Step: 75139 | Episode Return: 500.63 | Length: 384
+Seed: 30 | Step: 75401 | Episode Return: 604.17 | Length: 262
+Seed: 30 | Step: 75681 | Episode Return: 458.98 | Length: 280
+Seed: 30 | Step: 76048 | Episode Return: 512.01 | Length: 367
+Seed: 30 | Step: 76236 | Episode Return: 304.72 | Length: 188
+Seed: 30 | Step: 76479 | Episode Return: 564.09 | Length: 243
+Seed: 30 | Step: 76777 | Episode Return: 394.23 | Length: 298
+Seed: 30 | Step: 77026 | Episode Return: 563.44 | Length: 249
+Seed: 30 | Step: 77260 | Episode Return: 453.78 | Length: 234
+Seed: 30 | Step: 77461 | Episode Return: 437.88 | Length: 201
+Seed: 30 | Step: 77742 | Episode Return: 615.90 | Length: 281
+Seed: 30 | Step: 77967 | Episode Return: 397.02 | Length: 225
+Seed: 30 | Step: 78186 | Episode Return: 396.08 | Length: 219
+Seed: 30 | Step: 78495 | Episode Return: 466.59 | Length: 309
+Seed: 30 | Step: 78800 | Episode Return: 656.49 | Length: 305
+Seed: 30 | Step: 79073 | Episode Return: 552.58 | Length: 273
+Seed: 30 | Step: 79344 | Episode Return: 563.16 | Length: 271
+Seed: 30 | Step: 79739 | Episode Return: 534.04 | Length: 395
+
+---> Evaluation (Avg Return over 5 episodes): 523.27
+
+Seed: 30 | Step: 80087 | Episode Return: 550.92 | Length: 348
+Seed: 30 | Step: 80362 | Episode Return: 530.43 | Length: 275
+Seed: 30 | Step: 80734 | Episode Return: 533.60 | Length: 372
+Seed: 30 | Step: 81046 | Episode Return: 708.67 | Length: 312
+Seed: 30 | Step: 81354 | Episode Return: 696.98 | Length: 308
+Seed: 30 | Step: 81711 | Episode Return: 491.85 | Length: 357
+Seed: 30 | Step: 81984 | Episode Return: 276.46 | Length: 273
+Seed: 30 | Step: 82085 | Episode Return: 163.96 | Length: 101
+Seed: 30 | Step: 82362 | Episode Return: 574.48 | Length: 277
+Seed: 30 | Step: 82483 | Episode Return: 210.43 | Length: 121
+Seed: 30 | Step: 82779 | Episode Return: 633.07 | Length: 296
+Seed: 30 | Step: 83087 | Episode Return: 683.74 | Length: 308
+Seed: 30 | Step: 83557 | Episode Return: 1091.96 | Length: 470
+Seed: 30 | Step: 83889 | Episode Return: 284.28 | Length: 332
+Seed: 30 | Step: 84330 | Episode Return: 928.40 | Length: 441
+Seed: 30 | Step: 84800 | Episode Return: 558.92 | Length: 470
+
+---> Evaluation (Avg Return over 5 episodes): 703.93
+
+Seed: 30 | Step: 85068 | Episode Return: 646.51 | Length: 268
+Seed: 30 | Step: 85235 | Episode Return: 234.48 | Length: 167
+Seed: 30 | Step: 85440 | Episode Return: 324.20 | Length: 205
+Seed: 30 | Step: 85788 | Episode Return: 757.30 | Length: 348
+Seed: 30 | Step: 86055 | Episode Return: 650.86 | Length: 267
+Seed: 30 | Step: 86359 | Episode Return: 546.32 | Length: 304
+Seed: 30 | Step: 86624 | Episode Return: 81.44 | Length: 265
+Seed: 30 | Step: 86855 | Episode Return: 390.42 | Length: 231
+Seed: 30 | Step: 87050 | Episode Return: 470.91 | Length: 195
+Seed: 30 | Step: 87836 | Episode Return: 1431.01 | Length: 786
+Seed: 30 | Step: 88136 | Episode Return: 681.31 | Length: 300
+Seed: 30 | Step: 88513 | Episode Return: 832.16 | Length: 377
+Seed: 30 | Step: 88829 | Episode Return: 99.08 | Length: 316
+Seed: 30 | Step: 89306 | Episode Return: 885.60 | Length: 477
+Seed: 30 | Step: 89586 | Episode Return: 583.70 | Length: 280
+Seed: 30 | Step: 89950 | Episode Return: 799.80 | Length: 364
+
+---> Evaluation (Avg Return over 5 episodes): 607.89
+
+Seed: 30 | Step: 90220 | Episode Return: 666.71 | Length: 270
+Seed: 30 | Step: 90476 | Episode Return: 579.04 | Length: 256
+Seed: 30 | Step: 90676 | Episode Return: 273.75 | Length: 200
+Seed: 30 | Step: 91039 | Episode Return: 743.01 | Length: 363
+Seed: 30 | Step: 91566 | Episode Return: 994.01 | Length: 527
+Seed: 30 | Step: 91866 | Episode Return: 700.09 | Length: 300
+Seed: 30 | Step: 92177 | Episode Return: 711.57 | Length: 311
+Seed: 30 | Step: 92400 | Episode Return: 543.45 | Length: 223
+Seed: 30 | Step: 92744 | Episode Return: 784.67 | Length: 344
+Seed: 30 | Step: 92899 | Episode Return: 224.51 | Length: 155
+Seed: 30 | Step: 93208 | Episode Return: 700.97 | Length: 309
+Seed: 30 | Step: 93476 | Episode Return: 668.39 | Length: 268
+Seed: 30 | Step: 93966 | Episode Return: 1084.31 | Length: 490
+Seed: 30 | Step: 94205 | Episode Return: 599.81 | Length: 239
+Seed: 30 | Step: 94602 | Episode Return: 779.03 | Length: 397
+Seed: 30 | Step: 94890 | Episode Return: 189.05 | Length: 288
+
+---> Evaluation (Avg Return over 5 episodes): 539.45
+
+Seed: 30 | Step: 95206 | Episode Return: 736.39 | Length: 316
+Seed: 30 | Step: 95456 | Episode Return: 641.23 | Length: 250
+Seed: 30 | Step: 95756 | Episode Return: 653.24 | Length: 300
+Seed: 30 | Step: 95957 | Episode Return: 496.88 | Length: 201
+Seed: 30 | Step: 96188 | Episode Return: 582.22 | Length: 231
+Seed: 30 | Step: 96461 | Episode Return: 630.61 | Length: 273
+Seed: 30 | Step: 96767 | Episode Return: 613.92 | Length: 306
+Seed: 30 | Step: 96981 | Episode Return: 497.42 | Length: 214
+Seed: 30 | Step: 97246 | Episode Return: 581.07 | Length: 265
+Seed: 30 | Step: 97497 | Episode Return: 542.58 | Length: 251
+Seed: 30 | Step: 97845 | Episode Return: 772.02 | Length: 348
+Seed: 30 | Step: 98097 | Episode Return: 563.99 | Length: 252
+Seed: 30 | Step: 98411 | Episode Return: 702.55 | Length: 314
+Seed: 30 | Step: 98562 | Episode Return: 358.01 | Length: 151
+Seed: 30 | Step: 98807 | Episode Return: 642.60 | Length: 245
+Seed: 30 | Step: 99056 | Episode Return: 724.36 | Length: 249
+Seed: 30 | Step: 99305 | Episode Return: 583.23 | Length: 249
+Seed: 30 | Step: 99757 | Episode Return: 905.08 | Length: 452
+
+---> Evaluation (Avg Return over 5 episodes): 649.68
+
+Seed: 30 | Step: 100137 | Episode Return: 924.32 | Length: 380
+Seed: 30 | Step: 100357 | Episode Return: 525.68 | Length: 220
+Seed: 10 | Step: 69101 | Episode Return: 1267.73 | Length: 392
+Seed: 10 | Step: 69437 | Episode Return: 903.59 | Length: 336
+Seed: 10 | Step: 69655 | Episode Return: 481.44 | Length: 218
+Seed: 10 | Step: 69902 | Episode Return: 562.28 | Length: 247
+
+---> Evaluation (Avg Return over 5 episodes): 489.41
+
+Seed: 10 | Step: 70565 | Episode Return: 1346.50 | Length: 663
+Seed: 10 | Step: 70766 | Episode Return: 408.89 | Length: 201
+Seed: 10 | Step: 70896 | Episode Return: 232.88 | Length: 130
+Seed: 10 | Step: 71046 | Episode Return: 299.85 | Length: 150
+Seed: 10 | Step: 71163 | Episode Return: 224.63 | Length: 117
+Seed: 10 | Step: 71704 | Episode Return: 1285.56 | Length: 541
+Seed: 10 | Step: 72246 | Episode Return: 1391.59 | Length: 542
+Seed: 10 | Step: 72912 | Episode Return: 1531.48 | Length: 666
+Seed: 10 | Step: 73342 | Episode Return: 1157.54 | Length: 430
+Seed: 10 | Step: 73455 | Episode Return: 206.04 | Length: 113
+Seed: 10 | Step: 73625 | Episode Return: 207.84 | Length: 170
+Seed: 10 | Step: 73852 | Episode Return: 262.20 | Length: 227
+Seed: 10 | Step: 74291 | Episode Return: 981.09 | Length: 439
+Seed: 10 | Step: 74440 | Episode Return: 232.34 | Length: 149
+Seed: 10 | Step: 74902 | Episode Return: 1196.32 | Length: 462
+
+---> Evaluation (Avg Return over 5 episodes): 533.11
+
+Seed: 10 | Step: 75228 | Episode Return: 997.66 | Length: 326
+Seed: 10 | Step: 75649 | Episode Return: 1032.11 | Length: 421
+Seed: 10 | Step: 75756 | Episode Return: 194.87 | Length: 107
+Seed: 10 | Step: 75984 | Episode Return: 420.60 | Length: 228
+Seed: 10 | Step: 76141 | Episode Return: 186.74 | Length: 157
+Seed: 10 | Step: 76293 | Episode Return: -35.02 | Length: 152
+Seed: 10 | Step: 76913 | Episode Return: 1246.34 | Length: 620
+Seed: 10 | Step: 77135 | Episode Return: 407.76 | Length: 222
+Seed: 10 | Step: 77344 | Episode Return: 253.64 | Length: 209
+Seed: 10 | Step: 77554 | Episode Return: -31.10 | Length: 210
+Seed: 10 | Step: 78325 | Episode Return: 1913.61 | Length: 771
+Seed: 10 | Step: 78848 | Episode Return: 1305.12 | Length: 523
+Seed: 10 | Step: 79269 | Episode Return: 1166.36 | Length: 421
+Seed: 10 | Step: 79552 | Episode Return: 562.28 | Length: 283
+Seed: 10 | Step: 79973 | Episode Return: 1085.48 | Length: 421
+
+---> Evaluation (Avg Return over 5 episodes): 779.16
+
+Seed: 10 | Step: 80231 | Episode Return: 591.14 | Length: 258
+Seed: 10 | Step: 80347 | Episode Return: 212.94 | Length: 116
+Seed: 10 | Step: 80759 | Episode Return: 1077.35 | Length: 412
+Seed: 10 | Step: 81153 | Episode Return: 987.11 | Length: 394
+Seed: 10 | Step: 81409 | Episode Return: 632.23 | Length: 256
+Seed: 10 | Step: 81781 | Episode Return: 993.44 | Length: 372
+Seed: 10 | Step: 81935 | Episode Return: 237.34 | Length: 154
+Seed: 10 | Step: 82272 | Episode Return: 933.92 | Length: 337
+Seed: 10 | Step: 82471 | Episode Return: 311.06 | Length: 199
+Seed: 10 | Step: 82793 | Episode Return: 929.79 | Length: 322
+Seed: 10 | Step: 83432 | Episode Return: 1347.82 | Length: 639
+Seed: 10 | Step: 83688 | Episode Return: 276.14 | Length: 256
+Seed: 10 | Step: 83916 | Episode Return: 566.79 | Length: 228
+Seed: 10 | Step: 84237 | Episode Return: 792.81 | Length: 321
+Seed: 10 | Step: 84571 | Episode Return: 943.96 | Length: 334
+Seed: 10 | Step: 84972 | Episode Return: 850.45 | Length: 401
+
+---> Evaluation (Avg Return over 5 episodes): 685.70
+
+Seed: 10 | Step: 85222 | Episode Return: 667.23 | Length: 250
+Seed: 10 | Step: 85535 | Episode Return: 743.64 | Length: 313
+Seed: 10 | Step: 85871 | Episode Return: 835.15 | Length: 336
+Seed: 10 | Step: 86136 | Episode Return: 642.61 | Length: 265
+Seed: 10 | Step: 86442 | Episode Return: 795.95 | Length: 306
+Seed: 10 | Step: 86865 | Episode Return: 1005.60 | Length: 423
+Seed: 10 | Step: 87240 | Episode Return: 1009.90 | Length: 375
+Seed: 10 | Step: 87753 | Episode Return: 1098.75 | Length: 513
+Seed: 10 | Step: 88127 | Episode Return: 875.30 | Length: 374
+Seed: 10 | Step: 88336 | Episode Return: 384.33 | Length: 209
+Seed: 10 | Step: 88813 | Episode Return: 1118.64 | Length: 477
+Seed: 10 | Step: 89175 | Episode Return: 932.85 | Length: 362
+Seed: 10 | Step: 89819 | Episode Return: 1646.30 | Length: 644
+
+---> Evaluation (Avg Return over 5 episodes): 567.99
+
+Seed: 10 | Step: 90096 | Episode Return: 619.00 | Length: 277
+Seed: 10 | Step: 90404 | Episode Return: 825.49 | Length: 308
+Seed: 10 | Step: 90775 | Episode Return: 820.87 | Length: 371
+Seed: 10 | Step: 91131 | Episode Return: 984.30 | Length: 356
+Seed: 10 | Step: 91298 | Episode Return: 274.22 | Length: 167
+Seed: 10 | Step: 91686 | Episode Return: 1121.41 | Length: 388
+Seed: 10 | Step: 91816 | Episode Return: 254.22 | Length: 130
+Seed: 10 | Step: 92322 | Episode Return: 1515.90 | Length: 506
+Seed: 10 | Step: 92487 | Episode Return: 117.56 | Length: 165
+Seed: 10 | Step: 92879 | Episode Return: 973.70 | Length: 392
+Seed: 10 | Step: 93214 | Episode Return: 908.65 | Length: 335
+Seed: 10 | Step: 93415 | Episode Return: 368.79 | Length: 201
+Seed: 10 | Step: 93646 | Episode Return: 322.98 | Length: 231
+Seed: 10 | Step: 93908 | Episode Return: 719.15 | Length: 262
+Seed: 10 | Step: 94174 | Episode Return: 771.46 | Length: 266
+Seed: 10 | Step: 94437 | Episode Return: 773.05 | Length: 263
+Seed: 10 | Step: 94925 | Episode Return: 1118.01 | Length: 488
+
+---> Evaluation (Avg Return over 5 episodes): 598.98
+
+Seed: 10 | Step: 95171 | Episode Return: 779.28 | Length: 246
+Seed: 10 | Step: 95378 | Episode Return: 342.91 | Length: 207
+Seed: 10 | Step: 95839 | Episode Return: 1071.55 | Length: 461
+Seed: 10 | Step: 95970 | Episode Return: 133.08 | Length: 131
+Seed: 10 | Step: 96304 | Episode Return: 1026.14 | Length: 334
+Seed: 10 | Step: 96566 | Episode Return: 719.59 | Length: 262
+Seed: 10 | Step: 96830 | Episode Return: 688.37 | Length: 264
+Seed: 10 | Step: 96968 | Episode Return: -24.35 | Length: 138
+Seed: 10 | Step: 97547 | Episode Return: 1194.22 | Length: 579
+Seed: 10 | Step: 98064 | Episode Return: 1272.40 | Length: 517
+Seed: 10 | Step: 98394 | Episode Return: 994.98 | Length: 330
+Seed: 10 | Step: 98684 | Episode Return: 761.94 | Length: 290
+Seed: 10 | Step: 99072 | Episode Return: 1046.29 | Length: 388
+Seed: 10 | Step: 99476 | Episode Return: 1074.49 | Length: 404
+Seed: 10 | Step: 99727 | Episode Return: 650.25 | Length: 251
+
+---> Evaluation (Avg Return over 5 episodes): 555.98
+
+Seed: 10 | Step: 100023 | Episode Return: 746.22 | Length: 296
+Seed: 10 | Step: 100159 | Episode Return: 57.89 | Length: 136
+Seed: 10 | Step: 100579 | Episode Return: 999.36 | Length: 420
+Seed: 10 | Step: 100903 | Episode Return: 1005.84 | Length: 324
+Seed: 10 | Step: 101290 | Episode Return: 1081.49 | Length: 387
+Seed: 10 | Step: 101726 | Episode Return: 1210.83 | Length: 436
+Seed: 10 | Step: 102063 | Episode Return: 1008.46 | Length: 337
+Seed: 10 | Step: 102399 | Episode Return: 872.88 | Length: 336
+Seed: 10 | Step: 102855 | Episode Return: 1321.77 | Length: 456
+Seed: 10 | Step: 103200 | Episode Return: 829.23 | Length: 345
+Seed: 10 | Step: 103468 | Episode Return: 799.47 | Length: 268
+Seed: 10 | Step: 103847 | Episode Return: 1091.10 | Length: 379
+Seed: 10 | Step: 104130 | Episode Return: 186.96 | Length: 283
+Seed: 10 | Step: 104537 | Episode Return: 922.26 | Length: 407
+Seed: 10 | Step: 104802 | Episode Return: 770.79 | Length: 265
+
+---> Evaluation (Avg Return over 5 episodes): 832.19
+
+Seed: 10 | Step: 105105 | Episode Return: 600.28 | Length: 303
+Seed: 10 | Step: 105381 | Episode Return: 789.76 | Length: 276
+Seed: 10 | Step: 105652 | Episode Return: 711.31 | Length: 271
+Seed: 10 | Step: 105992 | Episode Return: 856.85 | Length: 340
+Seed: 10 | Step: 106352 | Episode Return: 870.54 | Length: 360
+Seed: 10 | Step: 106704 | Episode Return: 950.09 | Length: 352
+Seed: 10 | Step: 107009 | Episode Return: 906.93 | Length: 305
+Seed: 10 | Step: 107331 | Episode Return: 670.18 | Length: 322
+Seed: 10 | Step: 107670 | Episode Return: 963.41 | Length: 339
+Seed: 10 | Step: 108040 | Episode Return: 1061.80 | Length: 370
+Seed: 10 | Step: 108402 | Episode Return: 1028.10 | Length: 362
+Seed: 10 | Step: 108747 | Episode Return: 1020.06 | Length: 345
+Seed: 10 | Step: 109184 | Episode Return: 1099.71 | Length: 437
+Seed: 20 | Step: 71185 | Episode Return: 866.31 | Length: 379
+Seed: 20 | Step: 71568 | Episode Return: 783.64 | Length: 383
+Seed: 20 | Step: 72005 | Episode Return: 988.27 | Length: 437
+Seed: 20 | Step: 72524 | Episode Return: 1076.82 | Length: 519
+Seed: 20 | Step: 72912 | Episode Return: 921.90 | Length: 388
+Seed: 20 | Step: 73190 | Episode Return: 699.52 | Length: 278
+Seed: 20 | Step: 73526 | Episode Return: 805.98 | Length: 336
+Seed: 20 | Step: 73900 | Episode Return: 804.02 | Length: 374
+Seed: 20 | Step: 74014 | Episode Return: 188.40 | Length: 114
+Seed: 20 | Step: 74534 | Episode Return: 1143.66 | Length: 520
+Seed: 20 | Step: 74972 | Episode Return: 843.97 | Length: 438
+
+---> Evaluation (Avg Return over 5 episodes): 676.94
+
+Seed: 20 | Step: 75752 | Episode Return: 1550.71 | Length: 780
+Seed: 20 | Step: 76004 | Episode Return: 559.18 | Length: 252
+Seed: 20 | Step: 76292 | Episode Return: 823.98 | Length: 288
+Seed: 20 | Step: 76565 | Episode Return: 715.68 | Length: 273
+Seed: 20 | Step: 76761 | Episode Return: 511.68 | Length: 196
+Seed: 20 | Step: 77046 | Episode Return: 716.14 | Length: 285
+Seed: 20 | Step: 77231 | Episode Return: 452.93 | Length: 185
+Seed: 20 | Step: 77412 | Episode Return: 453.93 | Length: 181
+Seed: 20 | Step: 77590 | Episode Return: 405.77 | Length: 178
+Seed: 20 | Step: 77929 | Episode Return: 850.17 | Length: 339
+Seed: 20 | Step: 78159 | Episode Return: 596.06 | Length: 230
+Seed: 20 | Step: 78380 | Episode Return: 469.61 | Length: 221
+Seed: 20 | Step: 78623 | Episode Return: 719.23 | Length: 243
+Seed: 20 | Step: 78826 | Episode Return: 474.68 | Length: 203
+Seed: 20 | Step: 79064 | Episode Return: 687.64 | Length: 238
+Seed: 20 | Step: 79469 | Episode Return: 835.34 | Length: 405
+Seed: 20 | Step: 79642 | Episode Return: 413.81 | Length: 173
+Seed: 20 | Step: 79815 | Episode Return: 361.71 | Length: 173
+
+---> Evaluation (Avg Return over 5 episodes): 351.84
+
+Seed: 20 | Step: 80135 | Episode Return: 922.02 | Length: 320
+Seed: 20 | Step: 80338 | Episode Return: 604.31 | Length: 203
+Seed: 20 | Step: 80783 | Episode Return: 1161.64 | Length: 445
+Seed: 20 | Step: 81000 | Episode Return: 628.47 | Length: 217
+Seed: 20 | Step: 81200 | Episode Return: 493.77 | Length: 200
+Seed: 20 | Step: 81650 | Episode Return: 1271.66 | Length: 450
+Seed: 20 | Step: 81911 | Episode Return: 637.60 | Length: 261
+Seed: 20 | Step: 82192 | Episode Return: 800.53 | Length: 281
+Seed: 20 | Step: 82430 | Episode Return: 689.37 | Length: 238
+Seed: 20 | Step: 82680 | Episode Return: 549.15 | Length: 250
+Seed: 20 | Step: 83158 | Episode Return: 1253.06 | Length: 478
+Seed: 20 | Step: 83417 | Episode Return: 592.72 | Length: 259
+Seed: 20 | Step: 83985 | Episode Return: 1410.10 | Length: 568
+Seed: 20 | Step: 84302 | Episode Return: 882.92 | Length: 317
+Seed: 20 | Step: 84683 | Episode Return: 973.32 | Length: 381
+Seed: 20 | Step: 84878 | Episode Return: 492.52 | Length: 195
+
+---> Evaluation (Avg Return over 5 episodes): 665.58
+
+Seed: 20 | Step: 85247 | Episode Return: 857.16 | Length: 369
+Seed: 20 | Step: 85540 | Episode Return: 713.88 | Length: 293
+Seed: 20 | Step: 85822 | Episode Return: 776.03 | Length: 282
+Seed: 20 | Step: 86042 | Episode Return: 532.98 | Length: 220
+Seed: 20 | Step: 86317 | Episode Return: 725.01 | Length: 275
+Seed: 20 | Step: 86563 | Episode Return: 540.15 | Length: 246
+Seed: 20 | Step: 86841 | Episode Return: 721.66 | Length: 278
+Seed: 20 | Step: 87209 | Episode Return: 825.96 | Length: 368
+Seed: 20 | Step: 87668 | Episode Return: 1124.10 | Length: 459
+Seed: 20 | Step: 87915 | Episode Return: 664.54 | Length: 247
+Seed: 20 | Step: 88171 | Episode Return: 675.59 | Length: 256
+Seed: 20 | Step: 88779 | Episode Return: 1085.06 | Length: 608
+Seed: 20 | Step: 89074 | Episode Return: 893.52 | Length: 295
+Seed: 20 | Step: 89341 | Episode Return: 568.81 | Length: 267
+Seed: 20 | Step: 89589 | Episode Return: 757.82 | Length: 248
+Seed: 20 | Step: 89830 | Episode Return: 520.31 | Length: 241
+
+---> Evaluation (Avg Return over 5 episodes): 1059.66
+
+Seed: 20 | Step: 90127 | Episode Return: 886.91 | Length: 297
+Seed: 20 | Step: 90333 | Episode Return: 584.00 | Length: 206
+Seed: 20 | Step: 90831 | Episode Return: 1132.87 | Length: 498
+Seed: 20 | Step: 91045 | Episode Return: 474.43 | Length: 214
+Seed: 20 | Step: 91354 | Episode Return: 778.50 | Length: 309
+Seed: 20 | Step: 91672 | Episode Return: 765.37 | Length: 318
+Seed: 20 | Step: 92277 | Episode Return: 1530.04 | Length: 605
+Seed: 20 | Step: 92771 | Episode Return: 1214.63 | Length: 494
+Seed: 20 | Step: 92966 | Episode Return: 98.93 | Length: 195
+Seed: 20 | Step: 93220 | Episode Return: 779.55 | Length: 254
+Seed: 20 | Step: 93573 | Episode Return: 935.32 | Length: 353
+Seed: 20 | Step: 93918 | Episode Return: 864.16 | Length: 345
+Seed: 20 | Step: 94207 | Episode Return: 751.93 | Length: 289
+Seed: 20 | Step: 94532 | Episode Return: 844.96 | Length: 325
+Seed: 20 | Step: 94877 | Episode Return: 791.66 | Length: 345
+
+---> Evaluation (Avg Return over 5 episodes): 1160.68
+
+Seed: 20 | Step: 95317 | Episode Return: 1066.52 | Length: 440
+Seed: 20 | Step: 95489 | Episode Return: 396.17 | Length: 172
+Seed: 20 | Step: 95763 | Episode Return: 755.38 | Length: 274
+Seed: 20 | Step: 95982 | Episode Return: 531.04 | Length: 219
+Seed: 20 | Step: 96124 | Episode Return: 349.01 | Length: 142
+Seed: 20 | Step: 96357 | Episode Return: 667.56 | Length: 233
+Seed: 20 | Step: 96509 | Episode Return: 358.29 | Length: 152
+Seed: 20 | Step: 96766 | Episode Return: 788.93 | Length: 257
+Seed: 20 | Step: 96948 | Episode Return: 436.05 | Length: 182
+Seed: 20 | Step: 97328 | Episode Return: 949.59 | Length: 380
+Seed: 20 | Step: 97765 | Episode Return: 988.52 | Length: 437
+Seed: 20 | Step: 97952 | Episode Return: 467.44 | Length: 187
+Seed: 20 | Step: 98216 | Episode Return: 690.28 | Length: 264
+Seed: 20 | Step: 98445 | Episode Return: 620.07 | Length: 229
+Seed: 20 | Step: 98665 | Episode Return: 639.44 | Length: 220
+Seed: 20 | Step: 98913 | Episode Return: 608.31 | Length: 248
+Seed: 20 | Step: 99370 | Episode Return: 1227.73 | Length: 457
+Seed: 20 | Step: 99658 | Episode Return: 806.91 | Length: 288
+
+---> Evaluation (Avg Return over 5 episodes): 483.56
+
+Seed: 20 | Step: 100022 | Episode Return: 985.55 | Length: 364
+Seed: 20 | Step: 100331 | Episode Return: 883.87 | Length: 309
+Seed: 20 | Step: 100729 | Episode Return: 1043.27 | Length: 398
+Seed: 20 | Step: 101259 | Episode Return: 1451.11 | Length: 530
+Seed: 20 | Step: 101530 | Episode Return: 687.87 | Length: 271
+Seed: 20 | Step: 101907 | Episode Return: 1102.52 | Length: 377
+Seed: 20 | Step: 102123 | Episode Return: 503.24 | Length: 216
+Seed: 20 | Step: 102445 | Episode Return: 570.65 | Length: 322
+Seed: 20 | Step: 102859 | Episode Return: 1193.92 | Length: 414
+Seed: 20 | Step: 103343 | Episode Return: 1087.58 | Length: 484
+Seed: 20 | Step: 103762 | Episode Return: 1033.60 | Length: 419
+Seed: 20 | Step: 103886 | Episode Return: 116.28 | Length: 124
+Seed: 20 | Step: 104017 | Episode Return: 270.93 | Length: 131
+Seed: 20 | Step: 104477 | Episode Return: 1496.19 | Length: 460
+Seed: 20 | Step: 104983 | Episode Return: 1371.59 | Length: 506
+
+---> Evaluation (Avg Return over 5 episodes): 878.30
+
+Seed: 20 | Step: 105309 | Episode Return: 899.97 | Length: 326
+Seed: 20 | Step: 105567 | Episode Return: 637.01 | Length: 258
+Seed: 20 | Step: 105887 | Episode Return: 725.51 | Length: 320
+Seed: 20 | Step: 106198 | Episode Return: 842.49 | Length: 311
+Seed: 20 | Step: 106513 | Episode Return: 894.01 | Length: 315
+Seed: 20 | Step: 106907 | Episode Return: 1158.94 | Length: 394
+Seed: 20 | Step: 107120 | Episode Return: 507.10 | Length: 213
+Seed: 20 | Step: 107402 | Episode Return: 778.83 | Length: 282
+Seed: 20 | Step: 107799 | Episode Return: 1158.74 | Length: 397
+Seed: 20 | Step: 108122 | Episode Return: 903.81 | Length: 323
+Seed: 20 | Step: 108350 | Episode Return: 532.48 | Length: 228
+Seed: 20 | Step: 108789 | Episode Return: 1153.58 | Length: 439
+Seed: 20 | Step: 109204 | Episode Return: 1174.79 | Length: 415
+Seed: 20 | Step: 109540 | Episode Return: 890.35 | Length: 336
+Seed: 20 | Step: 109654 | Episode Return: 42.55 | Length: 114
+
+---> Evaluation (Avg Return over 5 episodes): 982.28
+
+Seed: 30 | Step: 100550 | Episode Return: 488.01 | Length: 193
+Seed: 30 | Step: 100866 | Episode Return: 757.09 | Length: 316
+Seed: 30 | Step: 101429 | Episode Return: 950.55 | Length: 563
+Seed: 30 | Step: 101519 | Episode Return: 162.04 | Length: 90
+Seed: 30 | Step: 101811 | Episode Return: 713.23 | Length: 292
+Seed: 30 | Step: 102063 | Episode Return: 676.15 | Length: 252
+Seed: 30 | Step: 102292 | Episode Return: 612.11 | Length: 229
+Seed: 30 | Step: 102595 | Episode Return: 619.89 | Length: 303
+Seed: 30 | Step: 102871 | Episode Return: 637.78 | Length: 276
+Seed: 30 | Step: 103123 | Episode Return: 609.45 | Length: 252
+Seed: 30 | Step: 103561 | Episode Return: 844.34 | Length: 438
+Seed: 30 | Step: 103960 | Episode Return: 979.38 | Length: 399
+Seed: 30 | Step: 104229 | Episode Return: 579.36 | Length: 269
+Seed: 30 | Step: 104471 | Episode Return: 537.99 | Length: 242
+Seed: 30 | Step: 104689 | Episode Return: 549.03 | Length: 218
+
+---> Evaluation (Avg Return over 5 episodes): 806.02
+
+Seed: 30 | Step: 105045 | Episode Return: 794.75 | Length: 356
+Seed: 30 | Step: 105412 | Episode Return: 809.61 | Length: 367
+Seed: 30 | Step: 105723 | Episode Return: 777.03 | Length: 311
+Seed: 30 | Step: 106026 | Episode Return: 830.40 | Length: 303
+Seed: 30 | Step: 106238 | Episode Return: 410.73 | Length: 212
+Seed: 30 | Step: 106540 | Episode Return: 933.94 | Length: 302
+Seed: 30 | Step: 106769 | Episode Return: 531.05 | Length: 229
+Seed: 30 | Step: 106945 | Episode Return: 184.27 | Length: 176
+Seed: 30 | Step: 107165 | Episode Return: 528.29 | Length: 220
+Seed: 30 | Step: 107394 | Episode Return: 604.18 | Length: 229
+Seed: 30 | Step: 107661 | Episode Return: 809.02 | Length: 267
+Seed: 30 | Step: 107928 | Episode Return: 617.67 | Length: 267
+Seed: 30 | Step: 108168 | Episode Return: 541.10 | Length: 240
+Seed: 30 | Step: 108442 | Episode Return: 702.35 | Length: 274
+Seed: 30 | Step: 108605 | Episode Return: 243.43 | Length: 163
+Seed: 30 | Step: 108901 | Episode Return: 647.93 | Length: 296
+Seed: 30 | Step: 109150 | Episode Return: 647.74 | Length: 249
+Seed: 30 | Step: 109445 | Episode Return: 736.71 | Length: 295
+Seed: 30 | Step: 109737 | Episode Return: 795.66 | Length: 292
+
+---> Evaluation (Avg Return over 5 episodes): 886.33
+
+Seed: 30 | Step: 110028 | Episode Return: 801.20 | Length: 291
+Seed: 30 | Step: 110265 | Episode Return: 561.35 | Length: 237
+Seed: 30 | Step: 110586 | Episode Return: 791.89 | Length: 321
+Seed: 30 | Step: 110924 | Episode Return: 855.18 | Length: 338
+Seed: 30 | Step: 111081 | Episode Return: -4.43 | Length: 157
+Seed: 30 | Step: 111352 | Episode Return: 283.53 | Length: 271
+Seed: 30 | Step: 111770 | Episode Return: 1141.10 | Length: 418
+Seed: 30 | Step: 111991 | Episode Return: 399.95 | Length: 221
+Seed: 30 | Step: 112353 | Episode Return: 967.87 | Length: 362
+Seed: 30 | Step: 112624 | Episode Return: 703.24 | Length: 271
+Seed: 30 | Step: 112902 | Episode Return: 708.40 | Length: 278
+Seed: 30 | Step: 113177 | Episode Return: 753.67 | Length: 275
+Seed: 30 | Step: 113488 | Episode Return: 729.79 | Length: 311
+Seed: 30 | Step: 113772 | Episode Return: 694.75 | Length: 284
+Seed: 30 | Step: 114121 | Episode Return: 202.83 | Length: 349
+Seed: 30 | Step: 114442 | Episode Return: 897.07 | Length: 321
+Seed: 30 | Step: 114571 | Episode Return: 235.52 | Length: 129
+Seed: 30 | Step: 114680 | Episode Return: 170.10 | Length: 109
+Seed: 30 | Step: 114952 | Episode Return: 757.07 | Length: 272
+
+---> Evaluation (Avg Return over 5 episodes): 715.15
+
+Seed: 30 | Step: 115231 | Episode Return: 777.74 | Length: 279
+Seed: 30 | Step: 115367 | Episode Return: 283.37 | Length: 136
+Seed: 30 | Step: 115481 | Episode Return: 242.89 | Length: 114
+Seed: 30 | Step: 115574 | Episode Return: 162.46 | Length: 93
+Seed: 30 | Step: 115773 | Episode Return: 406.36 | Length: 199
+Seed: 30 | Step: 116003 | Episode Return: 577.20 | Length: 230
+Seed: 30 | Step: 116253 | Episode Return: 599.31 | Length: 250
+Seed: 30 | Step: 116450 | Episode Return: 323.06 | Length: 197
+Seed: 30 | Step: 116734 | Episode Return: 689.72 | Length: 284
+Seed: 30 | Step: 117033 | Episode Return: 763.02 | Length: 299
+Seed: 30 | Step: 117123 | Episode Return: 165.46 | Length: 90
+Seed: 30 | Step: 117228 | Episode Return: 206.71 | Length: 105
+Seed: 30 | Step: 117444 | Episode Return: 546.14 | Length: 216
+Seed: 30 | Step: 117755 | Episode Return: 1021.87 | Length: 311
+Seed: 30 | Step: 117869 | Episode Return: 231.69 | Length: 114
+Seed: 30 | Step: 118096 | Episode Return: 676.20 | Length: 227
+Seed: 30 | Step: 118401 | Episode Return: 872.90 | Length: 305
+Seed: 30 | Step: 118643 | Episode Return: 641.77 | Length: 242
+Seed: 30 | Step: 118770 | Episode Return: 301.85 | Length: 127
+Seed: 30 | Step: 119016 | Episode Return: 129.12 | Length: 246
+Seed: 30 | Step: 119153 | Episode Return: 341.13 | Length: 137
+Seed: 30 | Step: 119815 | Episode Return: 1958.55 | Length: 662
+
+---> Evaluation (Avg Return over 5 episodes): 735.62
+
+Seed: 30 | Step: 120214 | Episode Return: 1044.09 | Length: 399
+Seed: 30 | Step: 120445 | Episode Return: 65.54 | Length: 231
+Seed: 30 | Step: 120923 | Episode Return: 887.78 | Length: 478
+Seed: 30 | Step: 121124 | Episode Return: 505.45 | Length: 201
+Seed: 30 | Step: 121278 | Episode Return: 298.95 | Length: 154
+Seed: 30 | Step: 121614 | Episode Return: 831.70 | Length: 336
+Seed: 30 | Step: 121847 | Episode Return: 530.33 | Length: 233
+Seed: 30 | Step: 122042 | Episode Return: 527.06 | Length: 195
+Seed: 30 | Step: 122652 | Episode Return: 1874.74 | Length: 610
+Seed: 30 | Step: 122912 | Episode Return: 736.75 | Length: 260
+Seed: 30 | Step: 123093 | Episode Return: 478.31 | Length: 181
+Seed: 30 | Step: 123626 | Episode Return: 1639.35 | Length: 533
+Seed: 30 | Step: 124213 | Episode Return: 915.35 | Length: 587
+Seed: 30 | Step: 124551 | Episode Return: 1001.52 | Length: 338
+Seed: 30 | Step: 124770 | Episode Return: 603.29 | Length: 219
+Seed: 30 | Step: 124999 | Episode Return: 579.73 | Length: 229
+
+---> Evaluation (Avg Return over 5 episodes): 816.25
+
+Seed: 30 | Step: 125637 | Episode Return: 1670.30 | Length: 638
+Seed: 30 | Step: 125852 | Episode Return: 468.61 | Length: 215
+Seed: 30 | Step: 126107 | Episode Return: 734.57 | Length: 255
+Seed: 30 | Step: 126326 | Episode Return: 644.74 | Length: 219
+Seed: 30 | Step: 126535 | Episode Return: 529.24 | Length: 209
+Seed: 30 | Step: 126703 | Episode Return: 115.85 | Length: 168
+Seed: 30 | Step: 127008 | Episode Return: 841.11 | Length: 305
+Seed: 30 | Step: 127312 | Episode Return: 870.74 | Length: 304
+Seed: 30 | Step: 127666 | Episode Return: 948.74 | Length: 354
+Seed: 30 | Step: 128210 | Episode Return: 1684.73 | Length: 544
+Seed: 30 | Step: 128587 | Episode Return: 978.78 | Length: 377
+Seed: 30 | Step: 128930 | Episode Return: 872.69 | Length: 343
+Seed: 30 | Step: 129930 | Episode Return: 3337.29 | Length: 1000
+
+---> Evaluation (Avg Return over 5 episodes): 1598.04
+
+Seed: 30 | Step: 130661 | Episode Return: 2419.20 | Length: 731
+Seed: 30 | Step: 131290 | Episode Return: 1829.00 | Length: 629
+Seed: 30 | Step: 131513 | Episode Return: 654.33 | Length: 223
+Seed: 30 | Step: 131836 | Episode Return: 1111.97 | Length: 323
+Seed: 30 | Step: 132066 | Episode Return: 645.68 | Length: 230
+Seed: 30 | Step: 133063 | Episode Return: 2702.91 | Length: 997
+Seed: 30 | Step: 133471 | Episode Return: 1091.45 | Length: 408
+Seed: 30 | Step: 133803 | Episode Return: 1056.33 | Length: 332
+Seed: 30 | Step: 134268 | Episode Return: 1185.60 | Length: 465
+Seed: 30 | Step: 134448 | Episode Return: 397.03 | Length: 180
+Seed: 30 | Step: 134734 | Episode Return: 735.87 | Length: 286
+
+---> Evaluation (Avg Return over 5 episodes): 871.31
+
+Seed: 30 | Step: 135294 | Episode Return: 1606.93 | Length: 560
+Seed: 30 | Step: 135769 | Episode Return: 1291.68 | Length: 475
+Seed: 30 | Step: 136059 | Episode Return: 919.08 | Length: 290
+Seed: 30 | Step: 136314 | Episode Return: 783.33 | Length: 255
+Seed: 30 | Step: 136788 | Episode Return: 1524.16 | Length: 474
+Seed: 30 | Step: 137788 | Episode Return: 2948.94 | Length: 1000
+Seed: 30 | Step: 138788 | Episode Return: 2401.75 | Length: 1000
+Seed: 30 | Step: 139334 | Episode Return: 1514.97 | Length: 546
+Seed: 10 | Step: 109283 | Episode Return: 171.92 | Length: 99
+Seed: 10 | Step: 109539 | Episode Return: 750.85 | Length: 256
+Seed: 10 | Step: 109862 | Episode Return: 876.20 | Length: 323
+
+---> Evaluation (Avg Return over 5 episodes): 628.36
+
+Seed: 10 | Step: 110275 | Episode Return: 1072.48 | Length: 413
+Seed: 10 | Step: 110649 | Episode Return: 1067.88 | Length: 374
+Seed: 10 | Step: 111093 | Episode Return: 1153.82 | Length: 444
+Seed: 10 | Step: 111355 | Episode Return: 763.11 | Length: 262
+Seed: 10 | Step: 111638 | Episode Return: 793.93 | Length: 283
+Seed: 10 | Step: 111990 | Episode Return: 736.23 | Length: 352
+Seed: 10 | Step: 112149 | Episode Return: 313.54 | Length: 159
+Seed: 10 | Step: 112453 | Episode Return: 929.71 | Length: 304
+Seed: 10 | Step: 112656 | Episode Return: 562.03 | Length: 203
+Seed: 10 | Step: 112892 | Episode Return: 545.54 | Length: 236
+Seed: 10 | Step: 113037 | Episode Return: 257.99 | Length: 145
+Seed: 10 | Step: 113448 | Episode Return: 975.73 | Length: 411
+Seed: 10 | Step: 113871 | Episode Return: 1059.29 | Length: 423
+Seed: 10 | Step: 114227 | Episode Return: 846.40 | Length: 356
+Seed: 10 | Step: 114520 | Episode Return: 723.12 | Length: 293
+Seed: 10 | Step: 114820 | Episode Return: 844.03 | Length: 300
+Seed: 10 | Step: 114937 | Episode Return: 218.46 | Length: 117
+
+---> Evaluation (Avg Return over 5 episodes): 709.76
+
+Seed: 10 | Step: 115247 | Episode Return: 825.12 | Length: 310
+Seed: 10 | Step: 115366 | Episode Return: 229.98 | Length: 119
+Seed: 10 | Step: 115657 | Episode Return: 839.87 | Length: 291
+Seed: 10 | Step: 115937 | Episode Return: 698.67 | Length: 280
+Seed: 10 | Step: 116126 | Episode Return: 348.99 | Length: 189
+Seed: 10 | Step: 116340 | Episode Return: 538.91 | Length: 214
+Seed: 10 | Step: 116589 | Episode Return: 532.86 | Length: 249
+Seed: 10 | Step: 116700 | Episode Return: 197.83 | Length: 111
+Seed: 10 | Step: 117004 | Episode Return: 701.74 | Length: 304
+Seed: 10 | Step: 117387 | Episode Return: 1097.17 | Length: 383
+Seed: 10 | Step: 117686 | Episode Return: 798.52 | Length: 299
+Seed: 10 | Step: 118008 | Episode Return: 815.08 | Length: 322
+Seed: 10 | Step: 118156 | Episode Return: 290.28 | Length: 148
+Seed: 10 | Step: 118519 | Episode Return: 1022.09 | Length: 363
+Seed: 10 | Step: 118814 | Episode Return: 661.41 | Length: 295
+Seed: 10 | Step: 119069 | Episode Return: 623.83 | Length: 255
+Seed: 10 | Step: 119175 | Episode Return: 146.49 | Length: 106
+Seed: 10 | Step: 119629 | Episode Return: 1301.26 | Length: 454
+
+---> Evaluation (Avg Return over 5 episodes): 593.91
+
+Seed: 10 | Step: 120104 | Episode Return: 1358.38 | Length: 475
+Seed: 10 | Step: 120423 | Episode Return: 970.87 | Length: 319
+Seed: 10 | Step: 120880 | Episode Return: 1312.25 | Length: 457
+Seed: 10 | Step: 121237 | Episode Return: 1035.45 | Length: 357
+Seed: 10 | Step: 121585 | Episode Return: 1032.86 | Length: 348
+Seed: 10 | Step: 121675 | Episode Return: 165.86 | Length: 90
+Seed: 10 | Step: 121954 | Episode Return: 736.87 | Length: 279
+Seed: 10 | Step: 122240 | Episode Return: 844.94 | Length: 286
+Seed: 10 | Step: 122501 | Episode Return: 662.28 | Length: 261
+Seed: 10 | Step: 122586 | Episode Return: 117.87 | Length: 85
+Seed: 10 | Step: 122809 | Episode Return: 501.21 | Length: 223
+Seed: 10 | Step: 123205 | Episode Return: 1113.81 | Length: 396
+Seed: 10 | Step: 123336 | Episode Return: 227.10 | Length: 131
+Seed: 10 | Step: 123880 | Episode Return: 1413.88 | Length: 544
+Seed: 10 | Step: 124108 | Episode Return: 405.28 | Length: 228
+Seed: 10 | Step: 124426 | Episode Return: 914.86 | Length: 318
+Seed: 10 | Step: 124650 | Episode Return: 312.36 | Length: 224
+
+---> Evaluation (Avg Return over 5 episodes): 759.13
+
+Seed: 10 | Step: 125073 | Episode Return: 882.46 | Length: 423
+Seed: 10 | Step: 125474 | Episode Return: 1094.98 | Length: 401
+Seed: 10 | Step: 125875 | Episode Return: 628.04 | Length: 401
+Seed: 10 | Step: 126300 | Episode Return: 1218.88 | Length: 425
+Seed: 10 | Step: 126689 | Episode Return: 1148.22 | Length: 389
+Seed: 10 | Step: 127183 | Episode Return: 1532.91 | Length: 494
+Seed: 10 | Step: 127604 | Episode Return: 1319.46 | Length: 421
+Seed: 10 | Step: 127816 | Episode Return: 497.29 | Length: 212
+Seed: 10 | Step: 127970 | Episode Return: 247.62 | Length: 154
+Seed: 10 | Step: 128282 | Episode Return: 880.65 | Length: 312
+Seed: 10 | Step: 128624 | Episode Return: 1018.59 | Length: 342
+Seed: 10 | Step: 129052 | Episode Return: 1308.32 | Length: 428
+Seed: 10 | Step: 129337 | Episode Return: 716.08 | Length: 285
+Seed: 10 | Step: 129774 | Episode Return: 1333.01 | Length: 437
+Seed: 10 | Step: 129915 | Episode Return: 315.82 | Length: 141
+
+---> Evaluation (Avg Return over 5 episodes): 1047.54
+
+Seed: 10 | Step: 130291 | Episode Return: 1161.60 | Length: 376
+Seed: 10 | Step: 130807 | Episode Return: 1477.46 | Length: 516
+Seed: 10 | Step: 131000 | Episode Return: 470.51 | Length: 193
+Seed: 10 | Step: 131216 | Episode Return: 650.42 | Length: 216
+Seed: 10 | Step: 131638 | Episode Return: 1113.38 | Length: 422
+Seed: 10 | Step: 132015 | Episode Return: 1101.45 | Length: 377
+Seed: 10 | Step: 132296 | Episode Return: 720.68 | Length: 281
+Seed: 10 | Step: 132450 | Episode Return: 217.92 | Length: 154
+Seed: 10 | Step: 132584 | Episode Return: 210.16 | Length: 134
+Seed: 10 | Step: 133256 | Episode Return: 1756.62 | Length: 672
+Seed: 10 | Step: 133385 | Episode Return: 102.12 | Length: 129
+Seed: 10 | Step: 133718 | Episode Return: 929.34 | Length: 333
+Seed: 10 | Step: 134042 | Episode Return: 938.62 | Length: 324
+Seed: 10 | Step: 134413 | Episode Return: 973.60 | Length: 371
+Seed: 10 | Step: 134760 | Episode Return: 952.51 | Length: 347
+
+---> Evaluation (Avg Return over 5 episodes): 1040.75
+
+Seed: 10 | Step: 135186 | Episode Return: 1088.05 | Length: 426
+Seed: 10 | Step: 135491 | Episode Return: 690.85 | Length: 305
+Seed: 10 | Step: 135969 | Episode Return: 1370.82 | Length: 478
+Seed: 10 | Step: 136465 | Episode Return: 985.76 | Length: 496
+Seed: 10 | Step: 137262 | Episode Return: 1802.50 | Length: 797
+Seed: 10 | Step: 137695 | Episode Return: 1195.40 | Length: 433
+Seed: 10 | Step: 138215 | Episode Return: 1468.83 | Length: 520
+Seed: 10 | Step: 138928 | Episode Return: 935.76 | Length: 713
+Seed: 10 | Step: 139541 | Episode Return: 1411.97 | Length: 613
+Seed: 10 | Step: 139961 | Episode Return: 1159.84 | Length: 420
+
+---> Evaluation (Avg Return over 5 episodes): 1178.74
+
+Seed: 10 | Step: 140482 | Episode Return: 1388.27 | Length: 521
+Seed: 10 | Step: 140851 | Episode Return: 1132.32 | Length: 369
+Seed: 10 | Step: 141310 | Episode Return: 1323.29 | Length: 459
+Seed: 10 | Step: 141486 | Episode Return: 253.67 | Length: 176
+Seed: 10 | Step: 142077 | Episode Return: 1681.70 | Length: 591
+Seed: 10 | Step: 142523 | Episode Return: 1347.03 | Length: 446
+Seed: 10 | Step: 142973 | Episode Return: 1072.36 | Length: 450
+Seed: 10 | Step: 143401 | Episode Return: 1371.83 | Length: 428
+Seed: 10 | Step: 143912 | Episode Return: 1392.62 | Length: 511
+Seed: 10 | Step: 144305 | Episode Return: 1137.51 | Length: 393
+Seed: 10 | Step: 144754 | Episode Return: 1187.27 | Length: 449
+
+---> Evaluation (Avg Return over 5 episodes): 1106.45
+
+Seed: 10 | Step: 145096 | Episode Return: 977.04 | Length: 342
+Seed: 10 | Step: 145443 | Episode Return: 986.95 | Length: 347
+Seed: 10 | Step: 145561 | Episode Return: 251.45 | Length: 118
+Seed: 10 | Step: 146050 | Episode Return: 1118.84 | Length: 489
+Seed: 10 | Step: 146560 | Episode Return: 1447.90 | Length: 510
+Seed: 10 | Step: 146682 | Episode Return: 211.42 | Length: 122
+Seed: 10 | Step: 146834 | Episode Return: 219.80 | Length: 152
+Seed: 10 | Step: 147553 | Episode Return: 1699.53 | Length: 719
+Seed: 10 | Step: 147681 | Episode Return: 259.35 | Length: 128
+Seed: 10 | Step: 147774 | Episode Return: 140.81 | Length: 93
+Seed: 10 | Step: 148093 | Episode Return: 903.60 | Length: 319
+Seed: 10 | Step: 148626 | Episode Return: 1300.39 | Length: 533
+Seed: 10 | Step: 149116 | Episode Return: 1363.70 | Length: 490
+Seed: 10 | Step: 149262 | Episode Return: 352.30 | Length: 146
+Seed: 10 | Step: 149628 | Episode Return: 1088.28 | Length: 366
+Seed: 10 | Step: 149894 | Episode Return: 476.09 | Length: 266
+Seed: 20 | Step: 110055 | Episode Return: 999.25 | Length: 401
+Seed: 20 | Step: 110363 | Episode Return: 745.00 | Length: 308
+Seed: 20 | Step: 110606 | Episode Return: 715.97 | Length: 243
+Seed: 20 | Step: 111079 | Episode Return: 1167.48 | Length: 473
+Seed: 20 | Step: 111548 | Episode Return: 1249.76 | Length: 469
+Seed: 20 | Step: 111823 | Episode Return: 709.26 | Length: 275
+Seed: 20 | Step: 112126 | Episode Return: 806.40 | Length: 303
+Seed: 20 | Step: 112229 | Episode Return: 169.17 | Length: 103
+Seed: 20 | Step: 112442 | Episode Return: 203.28 | Length: 213
+Seed: 20 | Step: 112930 | Episode Return: 1205.32 | Length: 488
+Seed: 20 | Step: 113275 | Episode Return: 1009.49 | Length: 345
+Seed: 20 | Step: 113589 | Episode Return: 743.92 | Length: 314
+Seed: 20 | Step: 113749 | Episode Return: 360.54 | Length: 160
+Seed: 20 | Step: 114178 | Episode Return: 1194.79 | Length: 429
+Seed: 20 | Step: 114445 | Episode Return: 625.79 | Length: 267
+Seed: 20 | Step: 114957 | Episode Return: 1364.34 | Length: 512
+
+---> Evaluation (Avg Return over 5 episodes): 819.09
+
+Seed: 20 | Step: 115291 | Episode Return: 996.62 | Length: 334
+Seed: 20 | Step: 115704 | Episode Return: 1279.74 | Length: 413
+Seed: 20 | Step: 115966 | Episode Return: 804.40 | Length: 262
+Seed: 20 | Step: 116222 | Episode Return: 822.86 | Length: 256
+Seed: 20 | Step: 116398 | Episode Return: 450.35 | Length: 176
+Seed: 20 | Step: 116660 | Episode Return: 741.41 | Length: 262
+Seed: 20 | Step: 116981 | Episode Return: 923.63 | Length: 321
+Seed: 20 | Step: 117222 | Episode Return: 741.20 | Length: 241
+Seed: 20 | Step: 117476 | Episode Return: 647.99 | Length: 254
+Seed: 20 | Step: 117854 | Episode Return: 1024.99 | Length: 378
+Seed: 20 | Step: 118089 | Episode Return: 712.45 | Length: 235
+Seed: 20 | Step: 118356 | Episode Return: 837.44 | Length: 267
+Seed: 20 | Step: 118652 | Episode Return: 982.13 | Length: 296
+Seed: 20 | Step: 118906 | Episode Return: 830.08 | Length: 254
+Seed: 20 | Step: 119236 | Episode Return: 928.04 | Length: 330
+Seed: 20 | Step: 119491 | Episode Return: 713.30 | Length: 255
+Seed: 20 | Step: 119941 | Episode Return: 1449.33 | Length: 450
+
+---> Evaluation (Avg Return over 5 episodes): 743.07
+
+Seed: 20 | Step: 120174 | Episode Return: 646.65 | Length: 233
+Seed: 20 | Step: 120428 | Episode Return: 613.86 | Length: 254
+Seed: 20 | Step: 120804 | Episode Return: 926.87 | Length: 376
+Seed: 20 | Step: 121046 | Episode Return: 727.38 | Length: 242
+Seed: 20 | Step: 121323 | Episode Return: 805.66 | Length: 277
+Seed: 20 | Step: 121443 | Episode Return: 245.54 | Length: 120
+Seed: 20 | Step: 121748 | Episode Return: 496.60 | Length: 305
+Seed: 20 | Step: 122038 | Episode Return: 978.35 | Length: 290
+Seed: 20 | Step: 122360 | Episode Return: 852.38 | Length: 322
+Seed: 20 | Step: 122596 | Episode Return: 661.15 | Length: 236
+Seed: 20 | Step: 122705 | Episode Return: 244.38 | Length: 109
+Seed: 20 | Step: 122955 | Episode Return: 687.60 | Length: 250
+Seed: 20 | Step: 123127 | Episode Return: 435.37 | Length: 172
+Seed: 20 | Step: 123661 | Episode Return: 1628.95 | Length: 534
+Seed: 20 | Step: 123817 | Episode Return: 389.42 | Length: 156
+Seed: 20 | Step: 124085 | Episode Return: 895.03 | Length: 268
+Seed: 20 | Step: 124115 | Episode Return: 16.79 | Length: 30
+Seed: 20 | Step: 124394 | Episode Return: 865.77 | Length: 279
+Seed: 20 | Step: 124736 | Episode Return: 1075.49 | Length: 342
+
+---> Evaluation (Avg Return over 5 episodes): 767.29
+
+Seed: 20 | Step: 125208 | Episode Return: 1540.27 | Length: 472
+Seed: 20 | Step: 125500 | Episode Return: 813.54 | Length: 292
+Seed: 20 | Step: 125681 | Episode Return: 459.35 | Length: 181
+Seed: 20 | Step: 126003 | Episode Return: 954.19 | Length: 322
+Seed: 20 | Step: 126494 | Episode Return: 1093.07 | Length: 491
+Seed: 20 | Step: 127058 | Episode Return: 1452.54 | Length: 564
+Seed: 20 | Step: 127289 | Episode Return: 578.24 | Length: 231
+Seed: 20 | Step: 127683 | Episode Return: 1020.07 | Length: 394
+Seed: 20 | Step: 127987 | Episode Return: 999.72 | Length: 304
+Seed: 20 | Step: 128085 | Episode Return: 89.29 | Length: 98
+Seed: 20 | Step: 128318 | Episode Return: 676.17 | Length: 233
+Seed: 20 | Step: 128556 | Episode Return: 548.99 | Length: 238
+Seed: 20 | Step: 129003 | Episode Return: 1318.07 | Length: 447
+Seed: 20 | Step: 129184 | Episode Return: 457.56 | Length: 181
+Seed: 20 | Step: 129722 | Episode Return: 1877.83 | Length: 538
+
+---> Evaluation (Avg Return over 5 episodes): 1271.52
+
+Seed: 20 | Step: 130048 | Episode Return: 1009.40 | Length: 326
+Seed: 20 | Step: 130291 | Episode Return: 607.78 | Length: 243
+Seed: 20 | Step: 130636 | Episode Return: 968.00 | Length: 345
+Seed: 20 | Step: 131359 | Episode Return: 2305.49 | Length: 723
+Seed: 20 | Step: 132053 | Episode Return: 1658.36 | Length: 694
+Seed: 20 | Step: 132405 | Episode Return: 808.92 | Length: 352
+Seed: 20 | Step: 132660 | Episode Return: 651.60 | Length: 255
+Seed: 20 | Step: 133660 | Episode Return: 3405.16 | Length: 1000
+Seed: 20 | Step: 134644 | Episode Return: 3299.49 | Length: 984
+
+---> Evaluation (Avg Return over 5 episodes): 1770.21
+
+Seed: 20 | Step: 135071 | Episode Return: 1209.20 | Length: 427
+Seed: 20 | Step: 135606 | Episode Return: 1781.40 | Length: 535
+Seed: 20 | Step: 136001 | Episode Return: 1443.15 | Length: 395
+Seed: 20 | Step: 136479 | Episode Return: 1409.52 | Length: 478
+Seed: 20 | Step: 137077 | Episode Return: 2146.67 | Length: 598
+Seed: 20 | Step: 137474 | Episode Return: 1454.37 | Length: 397
+Seed: 20 | Step: 137890 | Episode Return: 1347.15 | Length: 416
+Seed: 20 | Step: 138377 | Episode Return: 1367.16 | Length: 487
+Seed: 20 | Step: 138638 | Episode Return: 883.00 | Length: 261
+Seed: 20 | Step: 139066 | Episode Return: 1240.78 | Length: 428
+Seed: 20 | Step: 139447 | Episode Return: 1269.96 | Length: 381
+Seed: 20 | Step: 139805 | Episode Return: 984.71 | Length: 358
+
+---> Evaluation (Avg Return over 5 episodes): 681.19
+
+Seed: 20 | Step: 140299 | Episode Return: 1545.78 | Length: 494
+Seed: 20 | Step: 140785 | Episode Return: 1750.98 | Length: 486
+Seed: 20 | Step: 141199 | Episode Return: 1260.02 | Length: 414
+Seed: 20 | Step: 141527 | Episode Return: 1054.38 | Length: 328
+Seed: 20 | Step: 142167 | Episode Return: 2371.56 | Length: 640
+Seed: 20 | Step: 143167 | Episode Return: 3965.26 | Length: 1000
+Seed: 20 | Step: 143691 | Episode Return: 1811.70 | Length: 524
+Seed: 20 | Step: 144482 | Episode Return: 2734.71 | Length: 791
+
+---> Evaluation (Avg Return over 5 episodes): 350.55
+
+Seed: 20 | Step: 145179 | Episode Return: 2444.17 | Length: 697
+Seed: 20 | Step: 145605 | Episode Return: 1706.94 | Length: 426
+Seed: 20 | Step: 146026 | Episode Return: 1205.09 | Length: 421
+Seed: 20 | Step: 146645 | Episode Return: 2353.95 | Length: 619
+Seed: 20 | Step: 146759 | Episode Return: 171.80 | Length: 114
+Seed: 20 | Step: 147190 | Episode Return: 1486.23 | Length: 431
+Seed: 20 | Step: 147879 | Episode Return: 2479.78 | Length: 689
+Seed: 20 | Step: 148114 | Episode Return: 708.02 | Length: 235
+Seed: 20 | Step: 148579 | Episode Return: 1611.02 | Length: 465
+Seed: 20 | Step: 148885 | Episode Return: 871.73 | Length: 306
+Seed: 20 | Step: 149293 | Episode Return: 1295.49 | Length: 408
+Seed: 20 | Step: 149750 | Episode Return: 1709.69 | Length: 457
+Seed: 20 | Step: 149860 | Episode Return: 175.28 | Length: 110
+
+---> Evaluation (Avg Return over 5 episodes): 1882.66
+
+Seed: 20 | Step: 150380 | Episode Return: 1955.10 | Length: 520
+Seed: 20 | Step: 150468 | Episode Return: 160.18 | Length: 88
+Seed: 20 | Step: 150968 | Episode Return: 2062.08 | Length: 500
+Seed: 20 | Step: 151064 | Episode Return: 154.10 | Length: 96
+Seed: 20 | Step: 151325 | Episode Return: 840.81 | Length: 261
+Seed: 20 | Step: 151769 | Episode Return: 1433.36 | Length: 444
+Seed: 20 | Step: 152158 | Episode Return: 1289.38 | Length: 389
+Seed: 20 | Step: 152643 | Episode Return: 1785.52 | Length: 485
+Seed: 20 | Step: 153407 | Episode Return: 3197.20 | Length: 764
+Seed: 20 | Step: 153939 | Episode Return: 2263.00 | Length: 532
+Seed: 20 | Step: 154353 | Episode Return: 1293.90 | Length: 414
+Seed: 20 | Step: 154599 | Episode Return: 801.90 | Length: 246
+Seed: 20 | Step: 154781 | Episode Return: 238.16 | Length: 182
+
+---> Evaluation (Avg Return over 5 episodes): 865.99
+
+Seed: 10 | Step: 150258 | Episode Return: 1137.57 | Length: 364
+Seed: 10 | Step: 150760 | Episode Return: 1352.09 | Length: 502
+Seed: 10 | Step: 151434 | Episode Return: 1726.62 | Length: 674
+Seed: 10 | Step: 151586 | Episode Return: 339.94 | Length: 152
+Seed: 10 | Step: 152034 | Episode Return: 1191.71 | Length: 448
+Seed: 10 | Step: 152718 | Episode Return: 1767.29 | Length: 684
+Seed: 10 | Step: 153147 | Episode Return: 1325.28 | Length: 429
+Seed: 10 | Step: 153286 | Episode Return: 260.93 | Length: 139
+Seed: 10 | Step: 153843 | Episode Return: 1812.01 | Length: 557
+Seed: 10 | Step: 154276 | Episode Return: 1269.73 | Length: 433
+Seed: 10 | Step: 154715 | Episode Return: 1348.49 | Length: 439
+
+---> Evaluation (Avg Return over 5 episodes): 1462.67
+
+Seed: 10 | Step: 155571 | Episode Return: 2788.24 | Length: 856
+Seed: 10 | Step: 155933 | Episode Return: 960.20 | Length: 362
+Seed: 10 | Step: 156151 | Episode Return: 608.55 | Length: 218
+Seed: 10 | Step: 156595 | Episode Return: 1373.01 | Length: 444
+Seed: 10 | Step: 156962 | Episode Return: 1136.16 | Length: 367
+Seed: 10 | Step: 157241 | Episode Return: 576.46 | Length: 279
+Seed: 10 | Step: 157612 | Episode Return: 823.47 | Length: 371
+Seed: 10 | Step: 157983 | Episode Return: 1086.10 | Length: 371
+Seed: 10 | Step: 158373 | Episode Return: 1113.95 | Length: 390
+Seed: 10 | Step: 158782 | Episode Return: 1286.63 | Length: 409
+Seed: 10 | Step: 159083 | Episode Return: 763.71 | Length: 301
+Seed: 10 | Step: 159541 | Episode Return: 1328.13 | Length: 458
+
+---> Evaluation (Avg Return over 5 episodes): 1254.09
+
+Seed: 10 | Step: 160009 | Episode Return: 1552.08 | Length: 468
+Seed: 10 | Step: 160461 | Episode Return: 1314.74 | Length: 452
+Seed: 10 | Step: 160821 | Episode Return: 1051.26 | Length: 360
+Seed: 10 | Step: 161279 | Episode Return: 1468.53 | Length: 458
+Seed: 10 | Step: 161614 | Episode Return: 831.08 | Length: 335
+Seed: 10 | Step: 162196 | Episode Return: 1623.72 | Length: 582
+Seed: 10 | Step: 162675 | Episode Return: 1100.09 | Length: 479
+Seed: 10 | Step: 162824 | Episode Return: 265.21 | Length: 149
+Seed: 10 | Step: 163272 | Episode Return: 1424.58 | Length: 448
+Seed: 10 | Step: 163666 | Episode Return: 1077.27 | Length: 394
+Seed: 10 | Step: 163896 | Episode Return: 86.74 | Length: 230
+Seed: 10 | Step: 164286 | Episode Return: 1148.39 | Length: 390
+Seed: 10 | Step: 164512 | Episode Return: 692.74 | Length: 226
+Seed: 10 | Step: 164926 | Episode Return: 1249.22 | Length: 414
+
+---> Evaluation (Avg Return over 5 episodes): 831.65
+
+Seed: 10 | Step: 165453 | Episode Return: 1582.73 | Length: 527
+Seed: 10 | Step: 165632 | Episode Return: 372.73 | Length: 179
+Seed: 10 | Step: 166191 | Episode Return: 1838.25 | Length: 559
+Seed: 10 | Step: 167036 | Episode Return: 2756.14 | Length: 845
+Seed: 10 | Step: 167888 | Episode Return: 2360.55 | Length: 852
+Seed: 10 | Step: 168747 | Episode Return: 2278.36 | Length: 859
+Seed: 10 | Step: 169315 | Episode Return: 1453.36 | Length: 568
+Seed: 10 | Step: 169987 | Episode Return: 1655.64 | Length: 672
+
+---> Evaluation (Avg Return over 5 episodes): 771.50
+
+Seed: 10 | Step: 170477 | Episode Return: 1276.62 | Length: 490
+Seed: 10 | Step: 171157 | Episode Return: 1539.68 | Length: 680
+Seed: 10 | Step: 171473 | Episode Return: 822.38 | Length: 316
+Seed: 10 | Step: 172285 | Episode Return: 1926.77 | Length: 812
+Seed: 10 | Step: 172962 | Episode Return: 1977.45 | Length: 677
+Seed: 10 | Step: 173303 | Episode Return: 327.62 | Length: 341
+Seed: 10 | Step: 173771 | Episode Return: 1201.55 | Length: 468
+Seed: 10 | Step: 174353 | Episode Return: 1466.99 | Length: 582
+Seed: 10 | Step: 174823 | Episode Return: 1163.95 | Length: 470
+
+---> Evaluation (Avg Return over 5 episodes): 1135.58
+
+Seed: 10 | Step: 175492 | Episode Return: 1791.17 | Length: 669
+Seed: 10 | Step: 175993 | Episode Return: 1224.80 | Length: 501
+Seed: 10 | Step: 176806 | Episode Return: 1276.49 | Length: 813
+Seed: 10 | Step: 177271 | Episode Return: 1338.78 | Length: 465
+Seed: 10 | Step: 177735 | Episode Return: 1171.73 | Length: 464
+Seed: 10 | Step: 178735 | Episode Return: 2501.39 | Length: 1000
+Seed: 10 | Step: 179593 | Episode Return: 2645.43 | Length: 858
+
+---> Evaluation (Avg Return over 5 episodes): 355.94
+
+Seed: 10 | Step: 180120 | Episode Return: 1606.01 | Length: 527
+Seed: 10 | Step: 180331 | Episode Return: 99.28 | Length: 211
+Seed: 10 | Step: 180424 | Episode Return: 149.93 | Length: 93
+Seed: 10 | Step: 180807 | Episode Return: 1345.67 | Length: 383
+Seed: 10 | Step: 180919 | Episode Return: 170.67 | Length: 112
+Seed: 10 | Step: 181249 | Episode Return: 1078.77 | Length: 330
+Seed: 10 | Step: 181597 | Episode Return: 840.89 | Length: 348
+Seed: 10 | Step: 182193 | Episode Return: 1715.05 | Length: 596
+Seed: 10 | Step: 182533 | Episode Return: 1180.05 | Length: 340
+Seed: 10 | Step: 182943 | Episode Return: 1209.36 | Length: 410
+Seed: 10 | Step: 183432 | Episode Return: 1507.59 | Length: 489
+Seed: 10 | Step: 183804 | Episode Return: 1042.45 | Length: 372
+Seed: 10 | Step: 183842 | Episode Return: 18.73 | Length: 38
+Seed: 10 | Step: 183992 | Episode Return: 378.49 | Length: 150
+Seed: 10 | Step: 184542 | Episode Return: 1879.79 | Length: 550
+Seed: 10 | Step: 184659 | Episode Return: 202.92 | Length: 117
+Seed: 10 | Step: 184906 | Episode Return: 523.05 | Length: 247
+
+---> Evaluation (Avg Return over 5 episodes): 713.96
+
+Seed: 10 | Step: 185220 | Episode Return: 794.59 | Length: 314
+Seed: 10 | Step: 185547 | Episode Return: 558.21 | Length: 327
+Seed: 10 | Step: 186153 | Episode Return: 1553.60 | Length: 606
+Seed: 10 | Step: 186642 | Episode Return: 1417.46 | Length: 489
+Seed: 10 | Step: 187102 | Episode Return: 1516.86 | Length: 460
+Seed: 10 | Step: 187207 | Episode Return: 209.69 | Length: 105
+Seed: 10 | Step: 187975 | Episode Return: 2323.43 | Length: 768
+Seed: 10 | Step: 188158 | Episode Return: 339.05 | Length: 183
+Seed: 10 | Step: 188447 | Episode Return: 506.04 | Length: 289
+Seed: 10 | Step: 189337 | Episode Return: 2432.11 | Length: 890
+Seed: 10 | Step: 189839 | Episode Return: 1348.47 | Length: 502
+
+---> Evaluation (Avg Return over 5 episodes): 1296.45
+
+Seed: 10 | Step: 190275 | Episode Return: 1207.43 | Length: 436
+Seed: 10 | Step: 190625 | Episode Return: 999.92 | Length: 350
+Seed: 10 | Step: 191326 | Episode Return: 1872.19 | Length: 701
+Seed: 10 | Step: 191485 | Episode Return: 387.89 | Length: 159
+Seed: 10 | Step: 191889 | Episode Return: 1075.38 | Length: 404
+Seed: 10 | Step: 192310 | Episode Return: 1340.47 | Length: 421
+Seed: 10 | Step: 192761 | Episode Return: 1352.64 | Length: 451
+Seed: 10 | Step: 193234 | Episode Return: 1579.73 | Length: 473
+Seed: 10 | Step: 193981 | Episode Return: 1837.00 | Length: 747
+Seed: 10 | Step: 194176 | Episode Return: 456.08 | Length: 195
+Seed: 10 | Step: 194327 | Episode Return: 289.20 | Length: 151
+Seed: 10 | Step: 194953 | Episode Return: 1719.51 | Length: 626
+
+---> Evaluation (Avg Return over 5 episodes): 1402.99
+
+Seed: 10 | Step: 195953 | Episode Return: 2278.44 | Length: 1000
+Seed: 10 | Step: 196360 | Episode Return: 1292.63 | Length: 407
+Seed: 10 | Step: 196761 | Episode Return: 1088.97 | Length: 401
+Seed: 10 | Step: 197017 | Episode Return: 682.64 | Length: 256
+Seed: 10 | Step: 197125 | Episode Return: 144.61 | Length: 108
+Seed: 10 | Step: 197685 | Episode Return: 1802.89 | Length: 560
+Seed: 10 | Step: 197939 | Episode Return: 568.03 | Length: 254
+Seed: 10 | Step: 198332 | Episode Return: 1155.35 | Length: 393
+Seed: 10 | Step: 198728 | Episode Return: 1241.71 | Length: 396
+Seed: 10 | Step: 198991 | Episode Return: 705.19 | Length: 263
+Seed: 10 | Step: 199991 | Episode Return: 3155.72 | Length: 1000
+
+---> Evaluation (Avg Return over 5 episodes): 1474.56
+
+
+---> Evaluation (Avg Return over 5 episodes): 1264.39
+
+Seed: 20 | Step: 155204 | Episode Return: 1520.55 | Length: 423
+Seed: 20 | Step: 156204 | Episode Return: 3800.40 | Length: 1000
+Seed: 20 | Step: 156667 | Episode Return: 1717.90 | Length: 463
+Seed: 20 | Step: 157051 | Episode Return: 1387.87 | Length: 384
+Seed: 20 | Step: 157691 | Episode Return: 2471.35 | Length: 640
+Seed: 20 | Step: 158124 | Episode Return: 1482.03 | Length: 433
+Seed: 20 | Step: 158789 | Episode Return: 2425.80 | Length: 665
+Seed: 20 | Step: 159257 | Episode Return: 1594.21 | Length: 468
+Seed: 20 | Step: 159373 | Episode Return: 184.33 | Length: 116
+Seed: 20 | Step: 159906 | Episode Return: 1794.14 | Length: 533
+
+---> Evaluation (Avg Return over 5 episodes): 1466.33
+
+Seed: 20 | Step: 160330 | Episode Return: 1680.21 | Length: 424
+Seed: 20 | Step: 160414 | Episode Return: 120.15 | Length: 84
+Seed: 20 | Step: 160807 | Episode Return: 1349.18 | Length: 393
+Seed: 20 | Step: 161413 | Episode Return: 2050.01 | Length: 606
+Seed: 20 | Step: 161753 | Episode Return: 1105.88 | Length: 340
+Seed: 20 | Step: 162238 | Episode Return: 1864.94 | Length: 485
+Seed: 20 | Step: 162342 | Episode Return: 201.00 | Length: 104
+Seed: 20 | Step: 163014 | Episode Return: 2452.23 | Length: 672
+Seed: 20 | Step: 163692 | Episode Return: 2344.85 | Length: 678
+Seed: 20 | Step: 164692 | Episode Return: 3787.50 | Length: 1000
+Seed: 20 | Step: 164924 | Episode Return: 679.13 | Length: 232
+
+---> Evaluation (Avg Return over 5 episodes): 1140.24
+
+Seed: 20 | Step: 165772 | Episode Return: 3179.22 | Length: 848
+Seed: 20 | Step: 166355 | Episode Return: 2090.69 | Length: 583
+Seed: 20 | Step: 166459 | Episode Return: 191.71 | Length: 104
+Seed: 20 | Step: 166544 | Episode Return: 116.05 | Length: 85
+Seed: 20 | Step: 166691 | Episode Return: 359.15 | Length: 147
+Seed: 20 | Step: 167192 | Episode Return: 1819.86 | Length: 501
+Seed: 20 | Step: 167637 | Episode Return: 1682.36 | Length: 445
+Seed: 20 | Step: 168260 | Episode Return: 2062.07 | Length: 623
+Seed: 20 | Step: 168812 | Episode Return: 1960.35 | Length: 552
+Seed: 20 | Step: 169176 | Episode Return: 1126.55 | Length: 364
+Seed: 20 | Step: 169365 | Episode Return: 485.05 | Length: 189
+Seed: 20 | Step: 169588 | Episode Return: 549.57 | Length: 223
+Seed: 20 | Step: 169935 | Episode Return: 1047.36 | Length: 347
+
+---> Evaluation (Avg Return over 5 episodes): 1397.88
+
+Seed: 20 | Step: 170519 | Episode Return: 2259.19 | Length: 584
+Seed: 20 | Step: 170948 | Episode Return: 1694.57 | Length: 429
+Seed: 20 | Step: 171341 | Episode Return: 1281.07 | Length: 393
+Seed: 20 | Step: 172141 | Episode Return: 2945.46 | Length: 800
+Seed: 20 | Step: 172260 | Episode Return: 270.34 | Length: 119
+Seed: 20 | Step: 172680 | Episode Return: 1445.70 | Length: 420
+Seed: 20 | Step: 173115 | Episode Return: 1645.79 | Length: 435
+Seed: 20 | Step: 173239 | Episode Return: 279.07 | Length: 124
+Seed: 20 | Step: 173325 | Episode Return: 132.43 | Length: 86
+Seed: 20 | Step: 174325 | Episode Return: 3833.99 | Length: 1000
+Seed: 20 | Step: 174358 | Episode Return: 22.32 | Length: 33
+Seed: 20 | Step: 174740 | Episode Return: 1197.96 | Length: 382
+
+---> Evaluation (Avg Return over 5 episodes): 1817.86
+
+Seed: 20 | Step: 175060 | Episode Return: 929.21 | Length: 320
+Seed: 20 | Step: 176060 | Episode Return: 3427.79 | Length: 1000
+Seed: 20 | Step: 176474 | Episode Return: 1461.73 | Length: 414
+Seed: 20 | Step: 176805 | Episode Return: 1062.99 | Length: 331
+Seed: 20 | Step: 176839 | Episode Return: 25.19 | Length: 34
+Seed: 20 | Step: 177082 | Episode Return: 675.97 | Length: 243
+Seed: 20 | Step: 177398 | Episode Return: 1030.27 | Length: 316
+Seed: 20 | Step: 177718 | Episode Return: 1049.63 | Length: 320
+Seed: 20 | Step: 178216 | Episode Return: 1720.88 | Length: 498
+Seed: 20 | Step: 178662 | Episode Return: 1726.93 | Length: 446
+Seed: 20 | Step: 179196 | Episode Return: 1898.31 | Length: 534
+Seed: 20 | Step: 179396 | Episode Return: 223.98 | Length: 200
+Seed: 20 | Step: 179873 | Episode Return: 1872.47 | Length: 477
+
+---> Evaluation (Avg Return over 5 episodes): 1327.69
+
+Seed: 20 | Step: 180382 | Episode Return: 1874.33 | Length: 509
+Seed: 20 | Step: 180985 | Episode Return: 2077.75 | Length: 603
+Seed: 20 | Step: 181458 | Episode Return: 1741.30 | Length: 473
+Seed: 20 | Step: 181555 | Episode Return: 161.35 | Length: 97
+Seed: 20 | Step: 181876 | Episode Return: 1094.72 | Length: 321
+Seed: 20 | Step: 182327 | Episode Return: 1464.92 | Length: 451
+Seed: 20 | Step: 182415 | Episode Return: 138.67 | Length: 88
+Seed: 20 | Step: 182741 | Episode Return: 1125.53 | Length: 326
+Seed: 20 | Step: 182899 | Episode Return: 187.54 | Length: 158
+Seed: 20 | Step: 183305 | Episode Return: 1404.75 | Length: 406
+Seed: 20 | Step: 183390 | Episode Return: 174.52 | Length: 85
+Seed: 20 | Step: 183782 | Episode Return: 1470.19 | Length: 392
+Seed: 20 | Step: 184221 | Episode Return: 1658.72 | Length: 439
+Seed: 20 | Step: 184338 | Episode Return: 126.26 | Length: 117
+Seed: 20 | Step: 184753 | Episode Return: 1334.42 | Length: 415
+
+---> Evaluation (Avg Return over 5 episodes): 690.93
+
+Seed: 20 | Step: 185088 | Episode Return: 1121.24 | Length: 335
+Seed: 20 | Step: 185650 | Episode Return: 1940.10 | Length: 562
+Seed: 20 | Step: 185942 | Episode Return: 812.16 | Length: 292
+Seed: 20 | Step: 186246 | Episode Return: 855.93 | Length: 304
+Seed: 20 | Step: 186723 | Episode Return: 1787.74 | Length: 477
+Seed: 20 | Step: 187001 | Episode Return: 894.62 | Length: 278
+Seed: 20 | Step: 187330 | Episode Return: 1066.00 | Length: 329
+Seed: 20 | Step: 187680 | Episode Return: 1214.07 | Length: 350
+Seed: 20 | Step: 187888 | Episode Return: 535.90 | Length: 208
+Seed: 20 | Step: 187958 | Episode Return: 62.83 | Length: 70
+Seed: 20 | Step: 188379 | Episode Return: 1534.30 | Length: 421
+Seed: 20 | Step: 189042 | Episode Return: 2658.83 | Length: 663
+Seed: 20 | Step: 189326 | Episode Return: 848.94 | Length: 284
+Seed: 20 | Step: 189777 | Episode Return: 1581.65 | Length: 451
+
+---> Evaluation (Avg Return over 5 episodes): 1636.29
+
+Seed: 20 | Step: 190196 | Episode Return: 1578.14 | Length: 419
+Seed: 20 | Step: 190349 | Episode Return: 319.12 | Length: 153
+Seed: 20 | Step: 190861 | Episode Return: 2043.46 | Length: 512
+Seed: 20 | Step: 191242 | Episode Return: 1330.16 | Length: 381
+Seed: 20 | Step: 191535 | Episode Return: 989.67 | Length: 293
+Seed: 20 | Step: 191898 | Episode Return: 1222.46 | Length: 363
+Seed: 20 | Step: 192295 | Episode Return: 1563.84 | Length: 397
+Seed: 20 | Step: 192674 | Episode Return: 1397.19 | Length: 379
+Seed: 20 | Step: 193009 | Episode Return: 1062.82 | Length: 335
+Seed: 20 | Step: 193751 | Episode Return: 2575.61 | Length: 742
+Seed: 20 | Step: 194172 | Episode Return: 1537.24 | Length: 421
+Seed: 20 | Step: 194655 | Episode Return: 2063.10 | Length: 483
+
+---> Evaluation (Avg Return over 5 episodes): 1461.29
+
+Seed: 20 | Step: 195134 | Episode Return: 1671.21 | Length: 479
+Seed: 20 | Step: 195477 | Episode Return: 1272.07 | Length: 343
+Seed: 20 | Step: 195775 | Episode Return: 1002.96 | Length: 298
+Seed: 20 | Step: 196233 | Episode Return: 1724.86 | Length: 458
+Seed: 20 | Step: 196679 | Episode Return: 1523.43 | Length: 446
+Seed: 20 | Step: 197013 | Episode Return: 1157.01 | Length: 334
+Seed: 20 | Step: 197442 | Episode Return: 1785.78 | Length: 429
+Seed: 20 | Step: 198011 | Episode Return: 2039.42 | Length: 569
+Seed: 20 | Step: 198397 | Episode Return: 1359.67 | Length: 386
+Seed: 20 | Step: 199105 | Episode Return: 2868.88 | Length: 708
+Seed: 20 | Step: 199586 | Episode Return: 1430.03 | Length: 481
+Seed: 20 | Step: 199669 | Episode Return: 142.54 | Length: 83
+
+---> Evaluation (Avg Return over 5 episodes): 1803.40
+
+Seed: 30 | Step: 139730 | Episode Return: 1167.82 | Length: 396
+
+---> Evaluation (Avg Return over 5 episodes): 1476.04
+
+Seed: 30 | Step: 140730 | Episode Return: 3007.05 | Length: 1000
+Seed: 30 | Step: 141484 | Episode Return: 2079.00 | Length: 754
+Seed: 30 | Step: 142484 | Episode Return: 3051.75 | Length: 1000
+Seed: 30 | Step: 143484 | Episode Return: 2580.12 | Length: 1000
+Seed: 30 | Step: 144484 | Episode Return: 2642.90 | Length: 1000
+
+---> Evaluation (Avg Return over 5 episodes): 2574.75
+
+Seed: 30 | Step: 145484 | Episode Return: 3418.31 | Length: 1000
+Seed: 30 | Step: 146149 | Episode Return: 2107.34 | Length: 665
+Seed: 30 | Step: 147149 | Episode Return: 3012.25 | Length: 1000
+Seed: 30 | Step: 147542 | Episode Return: 1191.64 | Length: 393
+Seed: 30 | Step: 147891 | Episode Return: 818.23 | Length: 349
+Seed: 30 | Step: 148128 | Episode Return: 299.41 | Length: 237
+Seed: 30 | Step: 148561 | Episode Return: 1459.06 | Length: 433
+Seed: 30 | Step: 149212 | Episode Return: 1945.82 | Length: 651
+Seed: 30 | Step: 149662 | Episode Return: 1500.70 | Length: 450
+
+---> Evaluation (Avg Return over 5 episodes): 2658.96
+
+Seed: 30 | Step: 150662 | Episode Return: 3660.76 | Length: 1000
+Seed: 30 | Step: 151509 | Episode Return: 3085.02 | Length: 847
+Seed: 30 | Step: 152393 | Episode Return: 3217.75 | Length: 884
+Seed: 30 | Step: 153393 | Episode Return: 3628.09 | Length: 1000
+Seed: 30 | Step: 153843 | Episode Return: 1437.13 | Length: 450
+Seed: 30 | Step: 154129 | Episode Return: 941.54 | Length: 286
+Seed: 30 | Step: 154522 | Episode Return: 1193.50 | Length: 393
+
+---> Evaluation (Avg Return over 5 episodes): 1536.17
+
+Seed: 30 | Step: 155522 | Episode Return: 3638.75 | Length: 1000
+Seed: 30 | Step: 156163 | Episode Return: 2443.68 | Length: 641
+Seed: 30 | Step: 156598 | Episode Return: 1537.14 | Length: 435
+Seed: 30 | Step: 157279 | Episode Return: 2502.93 | Length: 681
+Seed: 30 | Step: 157766 | Episode Return: 1817.43 | Length: 487
+Seed: 30 | Step: 158113 | Episode Return: 1126.70 | Length: 347
+Seed: 30 | Step: 158488 | Episode Return: 1177.49 | Length: 375
+Seed: 30 | Step: 159488 | Episode Return: 3753.36 | Length: 1000
+
+---> Evaluation (Avg Return over 5 episodes): 1323.88
+
+Seed: 30 | Step: 160488 | Episode Return: 3755.50 | Length: 1000
+Seed: 30 | Step: 161488 | Episode Return: 3943.31 | Length: 1000
+Seed: 30 | Step: 161946 | Episode Return: 1165.53 | Length: 458
+Seed: 30 | Step: 162946 | Episode Return: 3822.89 | Length: 1000
+Seed: 30 | Step: 163874 | Episode Return: 4113.62 | Length: 928
+Seed: 30 | Step: 164874 | Episode Return: 3821.03 | Length: 1000
+
+---> Evaluation (Avg Return over 5 episodes): 3796.41
+
+Seed: 30 | Step: 165874 | Episode Return: 3789.98 | Length: 1000
+Seed: 30 | Step: 166267 | Episode Return: 1343.91 | Length: 393
+Seed: 30 | Step: 166949 | Episode Return: 2523.87 | Length: 682
+Seed: 30 | Step: 167949 | Episode Return: 3539.58 | Length: 1000
+Seed: 30 | Step: 168864 | Episode Return: 3373.83 | Length: 915
+Seed: 30 | Step: 169864 | Episode Return: 3446.14 | Length: 1000
+
+---> Evaluation (Avg Return over 5 episodes): 3234.28
+
+Seed: 30 | Step: 170419 | Episode Return: 1842.14 | Length: 555
+Seed: 30 | Step: 171192 | Episode Return: 2970.90 | Length: 773
+Seed: 30 | Step: 172027 | Episode Return: 3321.87 | Length: 835
+Seed: 30 | Step: 172653 | Episode Return: 2410.10 | Length: 626
+Seed: 30 | Step: 173491 | Episode Return: 3122.85 | Length: 838
+Seed: 30 | Step: 173872 | Episode Return: 1358.13 | Length: 381
+Seed: 30 | Step: 174759 | Episode Return: 3522.40 | Length: 887
+
+---> Evaluation (Avg Return over 5 episodes): 3975.60
+
+Seed: 30 | Step: 175759 | Episode Return: 3813.69 | Length: 1000
+Seed: 30 | Step: 176759 | Episode Return: 3884.21 | Length: 1000
+Seed: 30 | Step: 177372 | Episode Return: 2292.22 | Length: 613
+Seed: 30 | Step: 178372 | Episode Return: 3843.37 | Length: 1000
+Seed: 30 | Step: 179372 | Episode Return: 3944.92 | Length: 1000
+
+---> Evaluation (Avg Return over 5 episodes): 1575.94
+
+Seed: 30 | Step: 180304 | Episode Return: 3667.68 | Length: 932
+Seed: 30 | Step: 181304 | Episode Return: 3910.12 | Length: 1000
+Seed: 30 | Step: 182304 | Episode Return: 3820.06 | Length: 1000
+Seed: 30 | Step: 182713 | Episode Return: 1385.62 | Length: 409
+Seed: 30 | Step: 183713 | Episode Return: 3961.60 | Length: 1000
+Seed: 30 | Step: 183915 | Episode Return: 591.13 | Length: 202
+Seed: 30 | Step: 184915 | Episode Return: 3633.83 | Length: 1000
+
+---> Evaluation (Avg Return over 5 episodes): 3342.55
+
+Seed: 30 | Step: 185915 | Episode Return: 3745.51 | Length: 1000
+Seed: 30 | Step: 186079 | Episode Return: 293.95 | Length: 164
+Seed: 30 | Step: 186219 | Episode Return: 293.04 | Length: 140
+Seed: 30 | Step: 186242 | Episode Return: 7.36 | Length: 23
+Seed: 30 | Step: 186260 | Episode Return: -4.67 | Length: 18
+Seed: 30 | Step: 187260 | Episode Return: 3609.45 | Length: 1000
+Seed: 30 | Step: 188260 | Episode Return: 4003.39 | Length: 1000
+Seed: 30 | Step: 189260 | Episode Return: 3873.64 | Length: 1000
+
+---> Evaluation (Avg Return over 5 episodes): 3433.17
+
+Seed: 30 | Step: 190260 | Episode Return: 3715.46 | Length: 1000
+Seed: 30 | Step: 190452 | Episode Return: 360.49 | Length: 192
+Seed: 30 | Step: 191452 | Episode Return: 3834.96 | Length: 1000
+Seed: 30 | Step: 192452 | Episode Return: 4001.21 | Length: 1000
+Seed: 30 | Step: 193452 | Episode Return: 3954.01 | Length: 1000
+Seed: 30 | Step: 194452 | Episode Return: 4088.76 | Length: 1000
+
+---> Evaluation (Avg Return over 5 episodes): 3042.23
+
+Seed: 30 | Step: 195291 | Episode Return: 3427.40 | Length: 839
+Seed: 30 | Step: 196291 | Episode Return: 3913.87 | Length: 1000
+Seed: 30 | Step: 196373 | Episode Return: 141.38 | Length: 82
+Seed: 30 | Step: 197373 | Episode Return: 4002.04 | Length: 1000
+Seed: 30 | Step: 197927 | Episode Return: 2159.22 | Length: 554
+Seed: 30 | Step: 198927 | Episode Return: 4170.58 | Length: 1000
+Seed: 30 | Step: 199927 | Episode Return: 4118.86 | Length: 1000
+
+---> Evaluation (Avg Return over 5 episodes): 3317.28
+
+All seeds have finished training!
