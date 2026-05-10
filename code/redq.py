@@ -11,6 +11,8 @@ class REDQ:
     def __init__(self, obs_dim, act_dim, act_limit, device='mps', hidden_sizes=(256, 256),
                  lr=3e-4, N=5, replay_size=int(1e6), gamma=0.99, blend_weight=0.995,
                  batch_size=256, critics_chosen=2):
+
+        #save variables for use in methods
         self.device = device
         self.act_dim = act_dim
         self.act_limit = act_limit
@@ -22,46 +24,42 @@ class REDQ:
 
 
 
-        # 1. Initialize the Policy Network (The Actor)
-        # We pass the dimensions, hidden sizes, and the action limit (to scale the Tanh output)
-        # Then we immediately move the network to the correct hardware device (CPU or GPU)
+        #init the policy neural net with the class defined in core.py
         self.policy_net = TanhGaussianPolicy(
             obs_dim=obs_dim,
             action_dim=act_dim,
             hidden_sizes=hidden_sizes,
             action_limit=act_limit
-        ).to(self.device)
+        ).to(self.device) #move to device (mps in my case)
 
         self.policy_optimizer = optim.Adam(self.policy_net.parameters(), lr=lr) #init optimazer for network
 
-        # 2. Initialize the Critics
+        #these are the lists that will hold the objects of the q-value neural nets
         self.q_net_list = []
         self.q_target_net_list = []
         self.q_optimizer_list = []
 
-        for q_i in range(self.N):
-            # A. Main Q-Network
-            # Input is (state + action), output is 1 (the Q-value)
-            new_q_net = Mlp(obs_dim + act_dim, 1, hidden_sizes).to(self.device)
+        for q_i in range(self.N): #init the q-value function neural nets
+            #main q-net
+            new_q_net = Mlp(obs_dim + act_dim, 1, hidden_sizes).to(self.device) #input: state action pair, output is q-value
             self.q_net_list.append(new_q_net)
 
-            # B. Target Q-Network
+            #target q-net
             new_q_target_net = Mlp(obs_dim + act_dim, 1, hidden_sizes).to(self.device)
-            # Crucial step: strictly copy the initial weights from the main network
-            new_q_target_net.load_state_dict(new_q_net.state_dict())
+            new_q_target_net.load_state_dict(new_q_net.state_dict()) #copy the weights of the main network
             self.q_target_net_list.append(new_q_target_net)
 
-            # C. Q-Network Optimizer
-            # Each Q-network gets its own Adam optimizer
+
+            #each q-net gets its own Adam optimizer
             self.q_optimizer_list.append(optim.Adam(new_q_net.parameters(), lr=lr))
 
-        # 3. Init replay buffer
+        #init replay buffer
         self.replay_buffer = ReplayBuffer(
                  obs_dim=obs_dim,
                  act_dim=act_dim,
                  size=replay_size
              )
-        # 4. init temperature alpha parameter
+        #init temperature alpha parameter
         self.target_entropy = -self.act_dim #target heuristic is the negative of the action dimension
         self.log_alpha = torch.zeros(1, requires_grad=True, device=self.device) #optimize log_alpha so alpha is always positive
         self.alpha_optim = optim.Adam([self.log_alpha], lr=lr) #adam optimizer for alpha
